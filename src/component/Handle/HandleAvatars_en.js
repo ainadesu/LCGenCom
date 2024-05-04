@@ -91,7 +91,7 @@ function HandleAvatars_en () {
             className='LevelInput'
           />
       </div><br/>
-      <h2 className='final-command'>Commnad</h2>
+      <h2 className='final-command'>Command</h2>
       {selectedOption && (
         <input 
           type="text"
