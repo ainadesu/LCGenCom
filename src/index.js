@@ -24,9 +24,9 @@ import ShowRelics_en from './component/Relics_langEN';
 ReactDOM.render(
   <Router>
     <Routes>
-      <Route path="/" element={<Home_en />} />
-      <Route path="/lang=en" element={<Home_en />} />
-      <Route path="/lang=vi" element={<Home_vi />} />
+      <Route path="/" element={<ShowCmdbeginner_en />} />
+      <Route path="/lang=en" element={<ShowCmdbeginner_en />} />
+      <Route path="/lang=vi" element={<ShowCmdbeginner_vi />} />
       <Route path="/lang=chs" element={<Home_chs />} />
       <Route path="/lang=vi/lightcones" element={<ShowLightcones_vi />} />
       <Route path="/lang=vi/cmdbeginner" element={<ShowCmdbeginner_vi />} />
