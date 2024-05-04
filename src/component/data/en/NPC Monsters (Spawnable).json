@@ -1,0 +1,362 @@
+[
+    {
+        "id": "1002020",
+        "name": "Vagrant"
+    },
+    {
+        "id": "1002030",
+        "name": "SilvermanCannoneer"
+    },
+    {
+        "id": "1002040",
+        "name": "SilvermanSoldier"
+    },
+    {
+        "id": "1002050",
+        "name": "SilvermanGunner"
+    },
+    {
+        "id": "1003010",
+        "name": "SilvermanLieutenant"
+    },
+    {
+        "id": "1003015",
+        "name": "SilvermanLieutenant (Bug)"
+    },
+    {
+        "id": "1004010",
+        "name": "Cocolia"
+    },
+    {
+        "id": "1004011",
+        "name": "Cocolia (Complete)"
+    },
+    {
+        "id": "1004020",
+        "name": "Gepard"
+    },
+    {
+        "id": "1004021",
+        "name": "Gepard (Complete)"
+    },
+    {
+        "id": "1004030",
+        "name": "Bronya"
+    },
+    {
+        "id": "1012020",
+        "name": "Automaton Spider"
+    },
+    {
+        "id": "1012030",
+        "name": "Automaton Beetle"
+    },
+    {
+        "id": "1013010",
+        "name": "Automaton Grizzly"
+    },
+    {
+        "id": "1013011",
+        "name": "Automaton Grizzly (Bug)"
+    },
+    {
+        "id": "1013012",
+        "name": "Automaton Grizzly (Complete)"
+    },
+    {
+        "id": "1013020",
+        "name": "Automaton Direwolf"
+    },
+    {
+        "id": "1013022",
+        "name": "Automaton Direwolf (Bug)"
+    },
+    {
+        "id": "1014010",
+        "name": "Svarog"
+    },
+    {
+        "id": "1014011",
+        "name": "Svarog (Complete)"
+    },
+    {
+        "id": "1022010",
+        "name": "Everwinter Shadewalker"
+    },
+    {
+        "id": "1022020",
+        "name": "Incineration Shadewalker"
+    },
+    {
+        "id": "1023010",
+        "name": "Searing Prowler"
+    },
+    {
+        "id": "1023011",
+        "name": "Searing Prowler (Bug)"
+    },
+    {
+        "id": "1023020",
+        "name": "Frigid Prowler"
+    },
+    {
+        "id": "1023022",
+        "name": "Frigid Prowler (Bug)"
+    },
+    {
+        "id": "2002010",
+        "name": "Cloud Knights Patroller"
+    },
+    {
+        "id": "2002030",
+        "name": "Wraith Warden"
+    },
+    {
+        "id": "2004010",
+        "name": "Stellaron Hunter"
+    },
+    {
+        "id": "2004020",
+        "name": "Cloud Knight Lieutenant"
+    },
+    {
+        "id": "2011010",
+        "name": "Entranced Ingenium"
+    },
+    {
+        "id": "2013010",
+        "name": "Aurumaton Gatekeeper"
+    },
+    {
+        "id": "2013012",
+        "name": "Aurumaton Gatekeeper (Bug)"
+    },
+    {
+        "id": "2013020",
+        "name": "Aurumaton SpectraEnvoy"
+    },
+    {
+        "id": "2013022",
+        "name": "Aurumaton SpectraEnvoy (Bug)"
+    },
+    {
+        "id": "2022010",
+        "name": "Mara-Struck Soldier"
+    },
+    {
+        "id": "2022020",
+        "name": "Disciples of Sanctus Medicus"
+    },
+    {
+        "id": "2022040",
+        "name": "AbundancSprite"
+    },
+    {
+        "id": "2022110",
+        "name": "Mara-Struck Warden"
+    },
+    {
+        "id": "2023030",
+        "name": "ThAscended"
+    },
+    {
+        "id": "2023032",
+        "name": "ThAscended (Bug)"
+    },
+    {
+        "id": "2024010",
+        "name": "Abundant Ebon Deer"
+    },
+    {
+        "id": "2024011",
+        "name": "Abundant Ebon Deer (Complete)"
+    },
+    {
+        "id": "2024020",
+        "name": "Cirrus"
+    },
+    {
+        "id": "3001010",
+        "name": "Dreamjolt Troupe's Spring Loader"
+    },
+    {
+        "id": "3001020",
+        "name": "Dreamjolt Troupe's Birdskull"
+    },
+    {
+        "id": "3002010",
+        "name": "null"
+    },
+    {
+        "id": "3002030",
+        "name": "Dreamjolt Troupe's BubblHound"
+    },
+    {
+        "id": "3002050",
+        "name": "Lordly Trashcan"
+    },
+    {
+        "id": "3003010",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
+        "id": "3003012",
+        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+    },
+    {
+        "id": "3003020",
+        "name": "Dreamjolt Troupe's Sweet Gorilla"
+    },
+    {
+        "id": "3003022",
+        "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
+    },
+    {
+        "id": "3011010",
+        "name": "Memory ZonMeme \"Allseer\""
+    },
+    {
+        "id": "3012010",
+        "name": "Memory ZonMeme \"Something In The Mirror\""
+    },
+    {
+        "id": "3013010",
+        "name": "Memory ZonMeme \"Shell of Faded Rage\""
+    },
+    {
+        "id": "3014020",
+        "name": "Memory ZonMeme \"Something Unto Death\""
+    },
+    {
+        "id": "3014021",
+        "name": "Memory ZonMeme \"Something Unto Death\" (Complete)"
+    },
+    {
+        "id": "3024010",
+        "name": "Argenti"
+    },
+    {
+        "id": "3024011",
+        "name": "Argenti (Complete)"
+    },
+    {
+        "id": "7002010",
+        "name": "Imaginary Weaver"
+    },
+    {
+        "id": "7003030",
+        "name": "Decaying Shadow"
+    },
+    {
+        "id": "7032010",
+        "name": "Grunt"
+    },
+    {
+        "id": "7033010",
+        "name": "Senior Staff"
+    },
+    {
+        "id": "8001010",
+        "name": "Flamespawn"
+    },
+    {
+        "id": "8001020",
+        "name": "Frostspawn"
+    },
+    {
+        "id": "8001030",
+        "name": "Mask of No Thought"
+    },
+    {
+        "id": "8001040",
+        "name": "Thunderspawn"
+    },
+    {
+        "id": "8001050",
+        "name": "Windspawn"
+    },
+    {
+        "id": "8002040",
+        "name": "Warp Trotter"
+    },
+    {
+        "id": "8002050",
+        "name": "SequencTrotter"
+    },
+    {
+        "id": "8002059",
+        "name": "SequencTrotter (Rare)"
+    },
+    {
+        "id": "8002060",
+        "name": "Trotter of Destruction"
+    },
+    {
+        "id": "8002070",
+        "name": "Trotter of Abundance"
+    },
+    {
+        "id": "8002080",
+        "name": "Trotter of Preservation"
+    },
+    {
+        "id": "8003010",
+        "name": "IcOut of Space"
+    },
+    {
+        "id": "8003011",
+        "name": "IcOut of Space (Bug)"
+    },
+    {
+        "id": "8003020",
+        "name": "BlazOut of Space"
+    },
+    {
+        "id": "8003022",
+        "name": "BlazOut of Space (Bug)"
+    },
+    {
+        "id": "8003030",
+        "name": "Guardian Shadow"
+    },
+    {
+        "id": "8003032",
+        "name": "Guardian Shadow (Bug)"
+    },
+    {
+        "id": "8003042",
+        "name": "Decaying Shadow (Bug)"
+    },
+    {
+        "id": "8003050",
+        "name": "Stormbringer"
+    },
+    {
+        "id": "8003052",
+        "name": "Stormbringer (Bug)"
+    },
+    {
+        "id": "8011010",
+        "name": "Baryon"
+    },
+    {
+        "id": "8011020",
+        "name": "Antibaryon"
+    },
+    {
+        "id": "8012010",
+        "name": "Voidranger"
+    },
+    {
+        "id": "8022010",
+        "name": "JuvenilSting"
+    },
+    {
+        "id": "8024010",
+        "name": "Swarm"
+    },
+    {
+        "id": "8034010",
+        "name": "Ten Stonehearts"
+    }
+]

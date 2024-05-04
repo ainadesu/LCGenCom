@@ -1,0 +1,2750 @@
+[
+    {
+        "id": "1",
+        "name": "null"
+    },
+    {
+        "id": "2",
+        "name": "null"
+    },
+    {
+        "id": "3",
+        "name": "null"
+    },
+    {
+        "id": "100",
+        "name": "null"
+    },
+    {
+        "id": "101",
+        "name": "Space Anchor"
+    },
+    {
+        "id": "102",
+        "name": "null"
+    },
+    {
+        "id": "103",
+        "name": "Space Fissure"
+    },
+    {
+        "id": "104",
+        "name": "null"
+    },
+    {
+        "id": "105",
+        "name": "null"
+    },
+    {
+        "id": "106",
+        "name": "Investigate"
+    },
+    {
+        "id": "107",
+        "name": "null"
+    },
+    {
+        "id": "108",
+        "name": "null"
+    },
+    {
+        "id": "109",
+        "name": "null"
+    },
+    {
+        "id": "110",
+        "name": "null"
+    },
+    {
+        "id": "111",
+        "name": "Investigate"
+    },
+    {
+        "id": "113",
+        "name": "Echo of War"
+    },
+    {
+        "id": "114",
+        "name": "null"
+    },
+    {
+        "id": "115",
+        "name": "null"
+    },
+    {
+        "id": "117",
+        "name": "Home-Use Object Finder"
+    },
+    {
+        "id": "119",
+        "name": "null"
+    },
+    {
+        "id": "120",
+        "name": "null"
+    },
+    {
+        "id": "121",
+        "name": "null"
+    },
+    {
+        "id": "122",
+        "name": "null"
+    },
+    {
+        "id": "123",
+        "name": "null"
+    },
+    {
+        "id": "124",
+        "name": "null"
+    },
+    {
+        "id": "131",
+        "name": "null"
+    },
+    {
+        "id": "132",
+        "name": "null"
+    },
+    {
+        "id": "133",
+        "name": "null"
+    },
+    {
+        "id": "134",
+        "name": "null"
+    },
+    {
+        "id": "135",
+        "name": "null"
+    },
+    {
+        "id": "136",
+        "name": "null"
+    },
+    {
+        "id": "137",
+        "name": "null"
+    },
+    {
+        "id": "138",
+        "name": "null"
+    },
+    {
+        "id": "139",
+        "name": "null"
+    },
+    {
+        "id": "140",
+        "name": "null"
+    },
+    {
+        "id": "211",
+        "name": "null"
+    },
+    {
+        "id": "217",
+        "name": "null"
+    },
+    {
+        "id": "218",
+        "name": "null"
+    },
+    {
+        "id": "220",
+        "name": "null"
+    },
+    {
+        "id": "701",
+        "name": "Stagnant Shadow"
+    },
+    {
+        "id": "702",
+        "name": "Stagnant Shadow"
+    },
+    {
+        "id": "703",
+        "name": "Stagnant Shadow"
+    },
+    {
+        "id": "801",
+        "name": "Calyx"
+    },
+    {
+        "id": "808",
+        "name": "Calyx"
+    },
+    {
+        "id": "901",
+        "name": "Cavern of Corrosion"
+    },
+    {
+        "id": "902",
+        "name": "Everwinter Hill"
+    },
+    {
+        "id": "905",
+        "name": "null"
+    },
+    {
+        "id": "907",
+        "name": "null"
+    },
+    {
+        "id": "908",
+        "name": "null"
+    },
+    {
+        "id": "909",
+        "name": "null"
+    },
+    {
+        "id": "910",
+        "name": "null"
+    },
+    {
+        "id": "911",
+        "name": "null"
+    },
+    {
+        "id": "912",
+        "name": "null"
+    },
+    {
+        "id": "913",
+        "name": "null"
+    },
+    {
+        "id": "914",
+        "name": "null"
+    },
+    {
+        "id": "1000",
+        "name": "Exit the Simulated Universe"
+    },
+    {
+        "id": "1001",
+        "name": "Downloader"
+    },
+    {
+        "id": "1002",
+        "name": "Reviver"
+    },
+    {
+        "id": "1003",
+        "name": "Simulated Universe"
+    },
+    {
+        "id": "1004",
+        "name": "Immersion Reward"
+    },
+    {
+        "id": "1005",
+        "name": "Index"
+    },
+    {
+        "id": "1006",
+        "name": "null"
+    },
+    {
+        "id": "1007",
+        "name": "null"
+    },
+    {
+        "id": "1021",
+        "name": "null"
+    },
+    {
+        "id": "1022",
+        "name": "null"
+    },
+    {
+        "id": "1023",
+        "name": "null"
+    },
+    {
+        "id": "1024",
+        "name": "null"
+    },
+    {
+        "id": "1025",
+        "name": "null"
+    },
+    {
+        "id": "1026",
+        "name": "Communing Device"
+    },
+    {
+        "id": "1027",
+        "name": "null"
+    },
+    {
+        "id": "1028",
+        "name": "null"
+    },
+    {
+        "id": "1029",
+        "name": "null"
+    },
+    {
+        "id": "1030",
+        "name": "null"
+    },
+    {
+        "id": "1031",
+        "name": "null"
+    },
+    {
+        "id": "2000",
+        "name": "Vending Machine"
+    },
+    {
+        "id": "2001",
+        "name": "Phonograph"
+    },
+    {
+        "id": "2002",
+        "name": "Omni-Synthesizer"
+    },
+    {
+        "id": "2003",
+        "name": "null"
+    },
+    {
+        "id": "2004",
+        "name": "null"
+    },
+    {
+        "id": "2005",
+        "name": "null"
+    },
+    {
+        "id": "2006",
+        "name": "null"
+    },
+    {
+        "id": "2007",
+        "name": "null"
+    },
+    {
+        "id": "3000",
+        "name": "Explore Imaginary Shallow Caries"
+    },
+    {
+        "id": "3001",
+        "name": "Explore Imaginary Deep Caries"
+    },
+    {
+        "id": "3002",
+        "name": "Sustenance Anchor"
+    },
+    {
+        "id": "10031",
+        "name": "null"
+    },
+    {
+        "id": "10041",
+        "name": "null"
+    },
+    {
+        "id": "11081",
+        "name": "null"
+    },
+    {
+        "id": "60001",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60002",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60003",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60004",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60005",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60006",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60101",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60102",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60103",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60104",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60105",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60106",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60201",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60202",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60203",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60204",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60205",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60206",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "60301",
+        "name": "Basic Treasure"
+    },
+    {
+        "id": "60302",
+        "name": "Bountiful Treasure"
+    },
+    {
+        "id": "60303",
+        "name": "Precious Treasure"
+    },
+    {
+        "id": "100000",
+        "name": "Control Panel"
+    },
+    {
+        "id": "100001",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100002",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100003",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100004",
+        "name": "Control Panel"
+    },
+    {
+        "id": "100005",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100006",
+        "name": "null"
+    },
+    {
+        "id": "100007",
+        "name": "null"
+    },
+    {
+        "id": "100008",
+        "name": "null"
+    },
+    {
+        "id": "100009",
+        "name": "null"
+    },
+    {
+        "id": "100010",
+        "name": "null"
+    },
+    {
+        "id": "100011",
+        "name": "null"
+    },
+    {
+        "id": "100012",
+        "name": "null"
+    },
+    {
+        "id": "100013",
+        "name": "null"
+    },
+    {
+        "id": "100014",
+        "name": "Control Device"
+    },
+    {
+        "id": "100016",
+        "name": "null"
+    },
+    {
+        "id": "100017",
+        "name": "null"
+    },
+    {
+        "id": "100018",
+        "name": "null"
+    },
+    {
+        "id": "100019",
+        "name": "null"
+    },
+    {
+        "id": "100020",
+        "name": "null"
+    },
+    {
+        "id": "100021",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100022",
+        "name": "Control Device"
+    },
+    {
+        "id": "100024",
+        "name": "null"
+    },
+    {
+        "id": "100025",
+        "name": "null"
+    },
+    {
+        "id": "100026",
+        "name": "null"
+    },
+    {
+        "id": "100027",
+        "name": "null"
+    },
+    {
+        "id": "100031",
+        "name": "null"
+    },
+    {
+        "id": "100032",
+        "name": "null"
+    },
+    {
+        "id": "100033",
+        "name": "null"
+    },
+    {
+        "id": "100034",
+        "name": "null"
+    },
+    {
+        "id": "100035",
+        "name": "null"
+    },
+    {
+        "id": "100036",
+        "name": "null"
+    },
+    {
+        "id": "100037",
+        "name": "null"
+    },
+    {
+        "id": "100038",
+        "name": "null"
+    },
+    {
+        "id": "100039",
+        "name": "null"
+    },
+    {
+        "id": "100040",
+        "name": "null"
+    },
+    {
+        "id": "100041",
+        "name": "null"
+    },
+    {
+        "id": "100042",
+        "name": "null"
+    },
+    {
+        "id": "100045",
+        "name": "null"
+    },
+    {
+        "id": "100046",
+        "name": "null"
+    },
+    {
+        "id": "100047",
+        "name": "null"
+    },
+    {
+        "id": "100048",
+        "name": "null"
+    },
+    {
+        "id": "100049",
+        "name": "null"
+    },
+    {
+        "id": "100050",
+        "name": "null"
+    },
+    {
+        "id": "100051",
+        "name": "null"
+    },
+    {
+        "id": "100052",
+        "name": "null"
+    },
+    {
+        "id": "100054",
+        "name": "null"
+    },
+    {
+        "id": "100055",
+        "name": "null"
+    },
+    {
+        "id": "100056",
+        "name": "null"
+    },
+    {
+        "id": "100057",
+        "name": "null"
+    },
+    {
+        "id": "100058",
+        "name": "null"
+    },
+    {
+        "id": "100059",
+        "name": "null"
+    },
+    {
+        "id": "100060",
+        "name": "null"
+    },
+    {
+        "id": "100061",
+        "name": "null"
+    },
+    {
+        "id": "100062",
+        "name": "null"
+    },
+    {
+        "id": "100063",
+        "name": "null"
+    },
+    {
+        "id": "100064",
+        "name": "null"
+    },
+    {
+        "id": "100065",
+        "name": "null"
+    },
+    {
+        "id": "100066",
+        "name": "Domain — Combat"
+    },
+    {
+        "id": "100067",
+        "name": "Domain — Occurrence"
+    },
+    {
+        "id": "100068",
+        "name": "Domain — Respite"
+    },
+    {
+        "id": "100069",
+        "name": "Domain — Boss"
+    },
+    {
+        "id": "100070",
+        "name": "null"
+    },
+    {
+        "id": "100071",
+        "name": "null"
+    },
+    {
+        "id": "100072",
+        "name": "null"
+    },
+    {
+        "id": "100073",
+        "name": "null"
+    },
+    {
+        "id": "100074",
+        "name": "Controller"
+    },
+    {
+        "id": "100075",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100076",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100077",
+        "name": "null"
+    },
+    {
+        "id": "100078",
+        "name": "Controller"
+    },
+    {
+        "id": "100079",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100080",
+        "name": "null"
+    },
+    {
+        "id": "100081",
+        "name": "null"
+    },
+    {
+        "id": "100082",
+        "name": "null"
+    },
+    {
+        "id": "100083",
+        "name": "Guest Book"
+    },
+    {
+        "id": "100084",
+        "name": "null"
+    },
+    {
+        "id": "100085",
+        "name": "null"
+    },
+    {
+        "id": "100086",
+        "name": "null"
+    },
+    {
+        "id": "100087",
+        "name": "null"
+    },
+    {
+        "id": "100088",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "100089",
+        "name": "null"
+    },
+    {
+        "id": "100090",
+        "name": "Graffiti Zone"
+    },
+    {
+        "id": "100091",
+        "name": "null"
+    },
+    {
+        "id": "100092",
+        "name": "null"
+    },
+    {
+        "id": "100093",
+        "name": "Graffiti Zone"
+    },
+    {
+        "id": "100094",
+        "name": "Graffiti Zone"
+    },
+    {
+        "id": "100095",
+        "name": "Graffiti Zone"
+    },
+    {
+        "id": "100096",
+        "name": "null"
+    },
+    {
+        "id": "101001",
+        "name": "Control Panel"
+    },
+    {
+        "id": "101003",
+        "name": "Control Panel"
+    },
+    {
+        "id": "101004",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "101005",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "101006",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "101007",
+        "name": "null"
+    },
+    {
+        "id": "101008",
+        "name": "Lift Control Panel"
+    },
+    {
+        "id": "101010",
+        "name": "null"
+    },
+    {
+        "id": "101011",
+        "name": "null"
+    },
+    {
+        "id": "101012",
+        "name": "Control Panel"
+    },
+    {
+        "id": "101013",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "101015",
+        "name": "null"
+    },
+    {
+        "id": "101016",
+        "name": "null"
+    },
+    {
+        "id": "101017",
+        "name": "null"
+    },
+    {
+        "id": "101018",
+        "name": "null"
+    },
+    {
+        "id": "101019",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "101020",
+        "name": "null"
+    },
+    {
+        "id": "101021",
+        "name": "null"
+    },
+    {
+        "id": "101022",
+        "name": "Vending Machine"
+    },
+    {
+        "id": "101024",
+        "name": "Food Truck"
+    },
+    {
+        "id": "101025",
+        "name": "Food Truck"
+    },
+    {
+        "id": "101026",
+        "name": "null"
+    },
+    {
+        "id": "101027",
+        "name": "null"
+    },
+    {
+        "id": "101028",
+        "name": "null"
+    },
+    {
+        "id": "101029",
+        "name": "null"
+    },
+    {
+        "id": "101030",
+        "name": "null"
+    },
+    {
+        "id": "101031",
+        "name": "null"
+    },
+    {
+        "id": "101032",
+        "name": "null"
+    },
+    {
+        "id": "101033",
+        "name": "null"
+    },
+    {
+        "id": "101034",
+        "name": "null"
+    },
+    {
+        "id": "101035",
+        "name": "null"
+    },
+    {
+        "id": "101039",
+        "name": "null"
+    },
+    {
+        "id": "101042",
+        "name": "null"
+    },
+    {
+        "id": "101043",
+        "name": "null"
+    },
+    {
+        "id": "101044",
+        "name": "null"
+    },
+    {
+        "id": "101045",
+        "name": "null"
+    },
+    {
+        "id": "101046",
+        "name": "null"
+    },
+    {
+        "id": "101047",
+        "name": "null"
+    },
+    {
+        "id": "101048",
+        "name": "null"
+    },
+    {
+        "id": "101049",
+        "name": "null"
+    },
+    {
+        "id": "101050",
+        "name": "null"
+    },
+    {
+        "id": "101051",
+        "name": "null"
+    },
+    {
+        "id": "101052",
+        "name": "null"
+    },
+    {
+        "id": "101053",
+        "name": "null"
+    },
+    {
+        "id": "101054",
+        "name": "null"
+    },
+    {
+        "id": "101055",
+        "name": "null"
+    },
+    {
+        "id": "101056",
+        "name": "null"
+    },
+    {
+        "id": "101057",
+        "name": "null"
+    },
+    {
+        "id": "101058",
+        "name": "null"
+    },
+    {
+        "id": "101059",
+        "name": "null"
+    },
+    {
+        "id": "101060",
+        "name": "null"
+    },
+    {
+        "id": "101061",
+        "name": "null"
+    },
+    {
+        "id": "101062",
+        "name": "null"
+    },
+    {
+        "id": "101063",
+        "name": "null"
+    },
+    {
+        "id": "101064",
+        "name": "null"
+    },
+    {
+        "id": "101065",
+        "name": "null"
+    },
+    {
+        "id": "101066",
+        "name": "null"
+    },
+    {
+        "id": "101067",
+        "name": "null"
+    },
+    {
+        "id": "101068",
+        "name": "null"
+    },
+    {
+        "id": "101069",
+        "name": "null"
+    },
+    {
+        "id": "101070",
+        "name": "null"
+    },
+    {
+        "id": "101071",
+        "name": "null"
+    },
+    {
+        "id": "101072",
+        "name": "null"
+    },
+    {
+        "id": "101073",
+        "name": "null"
+    },
+    {
+        "id": "101074",
+        "name": "null"
+    },
+    {
+        "id": "101075",
+        "name": "null"
+    },
+    {
+        "id": "101076",
+        "name": "null"
+    },
+    {
+        "id": "101077",
+        "name": "null"
+    },
+    {
+        "id": "101078",
+        "name": "null"
+    },
+    {
+        "id": "101080",
+        "name": "null"
+    },
+    {
+        "id": "101081",
+        "name": "null"
+    },
+    {
+        "id": "102000",
+        "name": "Door Lock"
+    },
+    {
+        "id": "102001",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "102002",
+        "name": "Locked Gate"
+    },
+    {
+        "id": "102003",
+        "name": "null"
+    },
+    {
+        "id": "102004",
+        "name": "null"
+    },
+    {
+        "id": "102005",
+        "name": "null"
+    },
+    {
+        "id": "102006",
+        "name": "null"
+    },
+    {
+        "id": "102007",
+        "name": "null"
+    },
+    {
+        "id": "102008",
+        "name": "null"
+    },
+    {
+        "id": "102009",
+        "name": "null"
+    },
+    {
+        "id": "102010",
+        "name": "null"
+    },
+    {
+        "id": "102011",
+        "name": "null"
+    },
+    {
+        "id": "102012",
+        "name": "null"
+    },
+    {
+        "id": "102013",
+        "name": "Central Console"
+    },
+    {
+        "id": "102014",
+        "name": "Central Console"
+    },
+    {
+        "id": "102015",
+        "name": "null"
+    },
+    {
+        "id": "102016",
+        "name": "null"
+    },
+    {
+        "id": "102017",
+        "name": "null"
+    },
+    {
+        "id": "102018",
+        "name": "null"
+    },
+    {
+        "id": "102019",
+        "name": "null"
+    },
+    {
+        "id": "102025",
+        "name": "null"
+    },
+    {
+        "id": "102027",
+        "name": "null"
+    },
+    {
+        "id": "102028",
+        "name": "null"
+    },
+    {
+        "id": "102029",
+        "name": "null"
+    },
+    {
+        "id": "102032",
+        "name": "null"
+    },
+    {
+        "id": "102033",
+        "name": "null"
+    },
+    {
+        "id": "102034",
+        "name": "null"
+    },
+    {
+        "id": "102035",
+        "name": "null"
+    },
+    {
+        "id": "102036",
+        "name": "null"
+    },
+    {
+        "id": "102037",
+        "name": "null"
+    },
+    {
+        "id": "102039",
+        "name": "null"
+    },
+    {
+        "id": "102040",
+        "name": "null"
+    },
+    {
+        "id": "102041",
+        "name": "null"
+    },
+    {
+        "id": "102043",
+        "name": "null"
+    },
+    {
+        "id": "102044",
+        "name": "null"
+    },
+    {
+        "id": "102045",
+        "name": "null"
+    },
+    {
+        "id": "102046",
+        "name": "null"
+    },
+    {
+        "id": "102047",
+        "name": "null"
+    },
+    {
+        "id": "102048",
+        "name": "null"
+    },
+    {
+        "id": "102049",
+        "name": "null"
+    },
+    {
+        "id": "102050",
+        "name": "null"
+    },
+    {
+        "id": "102051",
+        "name": "null"
+    },
+    {
+        "id": "102052",
+        "name": "null"
+    },
+    {
+        "id": "102053",
+        "name": "null"
+    },
+    {
+        "id": "102054",
+        "name": "null"
+    },
+    {
+        "id": "102055",
+        "name": "null"
+    },
+    {
+        "id": "102058",
+        "name": "null"
+    },
+    {
+        "id": "102059",
+        "name": "null"
+    },
+    {
+        "id": "102061",
+        "name": "null"
+    },
+    {
+        "id": "102062",
+        "name": "null"
+    },
+    {
+        "id": "102063",
+        "name": "null"
+    },
+    {
+        "id": "102064",
+        "name": "null"
+    },
+    {
+        "id": "102065",
+        "name": "null"
+    },
+    {
+        "id": "102066",
+        "name": "null"
+    },
+    {
+        "id": "102067",
+        "name": "Timetable"
+    },
+    {
+        "id": "102068",
+        "name": "null"
+    },
+    {
+        "id": "102069",
+        "name": "null"
+    },
+    {
+        "id": "102070",
+        "name": "null"
+    },
+    {
+        "id": "102071",
+        "name": "null"
+    },
+    {
+        "id": "102072",
+        "name": "null"
+    },
+    {
+        "id": "102073",
+        "name": "null"
+    },
+    {
+        "id": "102074",
+        "name": "null"
+    },
+    {
+        "id": "102075",
+        "name": "null"
+    },
+    {
+        "id": "102076",
+        "name": "null"
+    },
+    {
+        "id": "102077",
+        "name": "Navigation Compass"
+    },
+    {
+        "id": "102078",
+        "name": "null"
+    },
+    {
+        "id": "102079",
+        "name": "null"
+    },
+    {
+        "id": "102080",
+        "name": "null"
+    },
+    {
+        "id": "102081",
+        "name": "null"
+    },
+    {
+        "id": "102082",
+        "name": "null"
+    },
+    {
+        "id": "102083",
+        "name": "null"
+    },
+    {
+        "id": "102085",
+        "name": "null"
+    },
+    {
+        "id": "102086",
+        "name": "null"
+    },
+    {
+        "id": "102087",
+        "name": "null"
+    },
+    {
+        "id": "102088",
+        "name": "null"
+    },
+    {
+        "id": "102089",
+        "name": "null"
+    },
+    {
+        "id": "102090",
+        "name": "null"
+    },
+    {
+        "id": "102091",
+        "name": "null"
+    },
+    {
+        "id": "102092",
+        "name": "null"
+    },
+    {
+        "id": "102093",
+        "name": "null"
+    },
+    {
+        "id": "102094",
+        "name": "null"
+    },
+    {
+        "id": "102095",
+        "name": "null"
+    },
+    {
+        "id": "102096",
+        "name": "null"
+    },
+    {
+        "id": "102097",
+        "name": "null"
+    },
+    {
+        "id": "102098",
+        "name": "null"
+    },
+    {
+        "id": "102099",
+        "name": "null"
+    },
+    {
+        "id": "102100",
+        "name": "null"
+    },
+    {
+        "id": "102101",
+        "name": "null"
+    },
+    {
+        "id": "102102",
+        "name": "null"
+    },
+    {
+        "id": "102103",
+        "name": "null"
+    },
+    {
+        "id": "102104",
+        "name": "null"
+    },
+    {
+        "id": "102105",
+        "name": "null"
+    },
+    {
+        "id": "102106",
+        "name": "null"
+    },
+    {
+        "id": "102107",
+        "name": "null"
+    },
+    {
+        "id": "102108",
+        "name": "null"
+    },
+    {
+        "id": "102109",
+        "name": "null"
+    },
+    {
+        "id": "102110",
+        "name": "null"
+    },
+    {
+        "id": "102111",
+        "name": "null"
+    },
+    {
+        "id": "102112",
+        "name": "null"
+    },
+    {
+        "id": "102113",
+        "name": "null"
+    },
+    {
+        "id": "102114",
+        "name": "null"
+    },
+    {
+        "id": "102115",
+        "name": "null"
+    },
+    {
+        "id": "102116",
+        "name": "null"
+    },
+    {
+        "id": "102117",
+        "name": "null"
+    },
+    {
+        "id": "102118",
+        "name": "null"
+    },
+    {
+        "id": "102119",
+        "name": "null"
+    },
+    {
+        "id": "102140",
+        "name": "null"
+    },
+    {
+        "id": "102141",
+        "name": "null"
+    },
+    {
+        "id": "102142",
+        "name": "null"
+    },
+    {
+        "id": "102143",
+        "name": "null"
+    },
+    {
+        "id": "102144",
+        "name": "null"
+    },
+    {
+        "id": "102145",
+        "name": "null"
+    },
+    {
+        "id": "102146",
+        "name": "null"
+    },
+    {
+        "id": "102160",
+        "name": "null"
+    },
+    {
+        "id": "102161",
+        "name": "null"
+    },
+    {
+        "id": "102162",
+        "name": "null"
+    },
+    {
+        "id": "102163",
+        "name": "null"
+    },
+    {
+        "id": "102164",
+        "name": "null"
+    },
+    {
+        "id": "102165",
+        "name": "null"
+    },
+    {
+        "id": "102166",
+        "name": "null"
+    },
+    {
+        "id": "102167",
+        "name": "null"
+    },
+    {
+        "id": "102168",
+        "name": "null"
+    },
+    {
+        "id": "102169",
+        "name": "null"
+    },
+    {
+        "id": "102170",
+        "name": "null"
+    },
+    {
+        "id": "102171",
+        "name": "null"
+    },
+    {
+        "id": "102172",
+        "name": "null"
+    },
+    {
+        "id": "102173",
+        "name": "null"
+    },
+    {
+        "id": "102174",
+        "name": "null"
+    },
+    {
+        "id": "102175",
+        "name": "null"
+    },
+    {
+        "id": "102176",
+        "name": "null"
+    },
+    {
+        "id": "102177",
+        "name": "null"
+    },
+    {
+        "id": "102178",
+        "name": "null"
+    },
+    {
+        "id": "102179",
+        "name": "null"
+    },
+    {
+        "id": "102180",
+        "name": "null"
+    },
+    {
+        "id": "102181",
+        "name": "null"
+    },
+    {
+        "id": "102182",
+        "name": "null"
+    },
+    {
+        "id": "102183",
+        "name": "null"
+    },
+    {
+        "id": "102184",
+        "name": "null"
+    },
+    {
+        "id": "102185",
+        "name": "null"
+    },
+    {
+        "id": "102186",
+        "name": "null"
+    },
+    {
+        "id": "102187",
+        "name": "null"
+    },
+    {
+        "id": "102188",
+        "name": "null"
+    },
+    {
+        "id": "102189",
+        "name": "null"
+    },
+    {
+        "id": "102190",
+        "name": "null"
+    },
+    {
+        "id": "102191",
+        "name": "null"
+    },
+    {
+        "id": "102192",
+        "name": "null"
+    },
+    {
+        "id": "102193",
+        "name": "null"
+    },
+    {
+        "id": "102194",
+        "name": "null"
+    },
+    {
+        "id": "102195",
+        "name": "null"
+    },
+    {
+        "id": "102196",
+        "name": "null"
+    },
+    {
+        "id": "102197",
+        "name": "null"
+    },
+    {
+        "id": "102198",
+        "name": "null"
+    },
+    {
+        "id": "102199",
+        "name": "null"
+    },
+    {
+        "id": "102200",
+        "name": "null"
+    },
+    {
+        "id": "102201",
+        "name": "null"
+    },
+    {
+        "id": "102202",
+        "name": "null"
+    },
+    {
+        "id": "102203",
+        "name": "null"
+    },
+    {
+        "id": "102204",
+        "name": "null"
+    },
+    {
+        "id": "102205",
+        "name": "null"
+    },
+    {
+        "id": "102206",
+        "name": "null"
+    },
+    {
+        "id": "102207",
+        "name": "null"
+    },
+    {
+        "id": "102208",
+        "name": "null"
+    },
+    {
+        "id": "102209",
+        "name": "null"
+    },
+    {
+        "id": "102210",
+        "name": "null"
+    },
+    {
+        "id": "102211",
+        "name": "null"
+    },
+    {
+        "id": "102212",
+        "name": "null"
+    },
+    {
+        "id": "102213",
+        "name": "null"
+    },
+    {
+        "id": "102214",
+        "name": "null"
+    },
+    {
+        "id": "102215",
+        "name": "null"
+    },
+    {
+        "id": "102216",
+        "name": "null"
+    },
+    {
+        "id": "102217",
+        "name": "null"
+    },
+    {
+        "id": "102218",
+        "name": "null"
+    },
+    {
+        "id": "102219",
+        "name": "null"
+    },
+    {
+        "id": "102220",
+        "name": "null"
+    },
+    {
+        "id": "102221",
+        "name": "null"
+    },
+    {
+        "id": "102222",
+        "name": "null"
+    },
+    {
+        "id": "102223",
+        "name": "null"
+    },
+    {
+        "id": "102224",
+        "name": "null"
+    },
+    {
+        "id": "102225",
+        "name": "null"
+    },
+    {
+        "id": "102226",
+        "name": "null"
+    },
+    {
+        "id": "103001",
+        "name": "null"
+    },
+    {
+        "id": "103002",
+        "name": "null"
+    },
+    {
+        "id": "103003",
+        "name": "null"
+    },
+    {
+        "id": "103004",
+        "name": "null"
+    },
+    {
+        "id": "103005",
+        "name": "null"
+    },
+    {
+        "id": "103006",
+        "name": "null"
+    },
+    {
+        "id": "103007",
+        "name": "null"
+    },
+    {
+        "id": "103008",
+        "name": "null"
+    },
+    {
+        "id": "103010",
+        "name": "null"
+    },
+    {
+        "id": "103011",
+        "name": "null"
+    },
+    {
+        "id": "103012",
+        "name": "null"
+    },
+    {
+        "id": "103013",
+        "name": "null"
+    },
+    {
+        "id": "103014",
+        "name": "null"
+    },
+    {
+        "id": "103015",
+        "name": "null"
+    },
+    {
+        "id": "103016",
+        "name": "null"
+    },
+    {
+        "id": "103017",
+        "name": "null"
+    },
+    {
+        "id": "103018",
+        "name": "null"
+    },
+    {
+        "id": "103019",
+        "name": "null"
+    },
+    {
+        "id": "103020",
+        "name": "null"
+    },
+    {
+        "id": "103021",
+        "name": "null"
+    },
+    {
+        "id": "103022",
+        "name": "null"
+    },
+    {
+        "id": "103023",
+        "name": "null"
+    },
+    {
+        "id": "103024",
+        "name": "null"
+    },
+    {
+        "id": "103025",
+        "name": "null"
+    },
+    {
+        "id": "103026",
+        "name": "null"
+    },
+    {
+        "id": "103027",
+        "name": "null"
+    },
+    {
+        "id": "103028",
+        "name": "null"
+    },
+    {
+        "id": "103029",
+        "name": "null"
+    },
+    {
+        "id": "103030",
+        "name": "null"
+    },
+    {
+        "id": "103031",
+        "name": "null"
+    },
+    {
+        "id": "103032",
+        "name": "null"
+    },
+    {
+        "id": "103033",
+        "name": "null"
+    },
+    {
+        "id": "103034",
+        "name": "null"
+    },
+    {
+        "id": "103035",
+        "name": "null"
+    },
+    {
+        "id": "103036",
+        "name": "null"
+    },
+    {
+        "id": "103037",
+        "name": "null"
+    },
+    {
+        "id": "103038",
+        "name": "null"
+    },
+    {
+        "id": "103039",
+        "name": "null"
+    },
+    {
+        "id": "103040",
+        "name": "null"
+    },
+    {
+        "id": "103041",
+        "name": "null"
+    },
+    {
+        "id": "103042",
+        "name": "null"
+    },
+    {
+        "id": "103043",
+        "name": "null"
+    },
+    {
+        "id": "103044",
+        "name": "null"
+    },
+    {
+        "id": "103045",
+        "name": "null"
+    },
+    {
+        "id": "103046",
+        "name": "null"
+    },
+    {
+        "id": "103047",
+        "name": "null"
+    },
+    {
+        "id": "103048",
+        "name": "null"
+    },
+    {
+        "id": "103049",
+        "name": "null"
+    },
+    {
+        "id": "103050",
+        "name": "null"
+    },
+    {
+        "id": "103051",
+        "name": "null"
+    },
+    {
+        "id": "103052",
+        "name": "null"
+    },
+    {
+        "id": "103053",
+        "name": "null"
+    },
+    {
+        "id": "103054",
+        "name": "null"
+    },
+    {
+        "id": "103055",
+        "name": "null"
+    },
+    {
+        "id": "103056",
+        "name": "null"
+    },
+    {
+        "id": "103057",
+        "name": "null"
+    },
+    {
+        "id": "103058",
+        "name": "null"
+    },
+    {
+        "id": "103059",
+        "name": "null"
+    },
+    {
+        "id": "103060",
+        "name": "null"
+    },
+    {
+        "id": "103061",
+        "name": "null"
+    },
+    {
+        "id": "103062",
+        "name": "null"
+    },
+    {
+        "id": "103063",
+        "name": "null"
+    },
+    {
+        "id": "103064",
+        "name": "null"
+    },
+    {
+        "id": "103065",
+        "name": "null"
+    },
+    {
+        "id": "103066",
+        "name": "null"
+    },
+    {
+        "id": "103067",
+        "name": "null"
+    },
+    {
+        "id": "103068",
+        "name": "null"
+    },
+    {
+        "id": "103069",
+        "name": "null"
+    },
+    {
+        "id": "103070",
+        "name": "null"
+    },
+    {
+        "id": "103071",
+        "name": "null"
+    },
+    {
+        "id": "103072",
+        "name": "null"
+    },
+    {
+        "id": "103073",
+        "name": "null"
+    },
+    {
+        "id": "103074",
+        "name": "null"
+    },
+    {
+        "id": "103075",
+        "name": "null"
+    },
+    {
+        "id": "103076",
+        "name": "null"
+    },
+    {
+        "id": "103077",
+        "name": "null"
+    },
+    {
+        "id": "103078",
+        "name": "null"
+    },
+    {
+        "id": "103079",
+        "name": "null"
+    },
+    {
+        "id": "103080",
+        "name": "null"
+    },
+    {
+        "id": "103081",
+        "name": "null"
+    },
+    {
+        "id": "103082",
+        "name": "null"
+    },
+    {
+        "id": "103083",
+        "name": "null"
+    },
+    {
+        "id": "103084",
+        "name": "null"
+    },
+    {
+        "id": "103085",
+        "name": "null"
+    },
+    {
+        "id": "103086",
+        "name": "null"
+    },
+    {
+        "id": "103087",
+        "name": "null"
+    },
+    {
+        "id": "103088",
+        "name": "null"
+    },
+    {
+        "id": "103089",
+        "name": "null"
+    },
+    {
+        "id": "103090",
+        "name": "null"
+    },
+    {
+        "id": "103091",
+        "name": "null"
+    },
+    {
+        "id": "103092",
+        "name": "null"
+    },
+    {
+        "id": "103093",
+        "name": "null"
+    },
+    {
+        "id": "103094",
+        "name": "null"
+    },
+    {
+        "id": "103095",
+        "name": "null"
+    },
+    {
+        "id": "103096",
+        "name": "null"
+    },
+    {
+        "id": "103097",
+        "name": "null"
+    },
+    {
+        "id": "103098",
+        "name": "null"
+    },
+    {
+        "id": "103099",
+        "name": "null"
+    },
+    {
+        "id": "103100",
+        "name": "null"
+    },
+    {
+        "id": "103101",
+        "name": "null"
+    },
+    {
+        "id": "103102",
+        "name": "null"
+    },
+    {
+        "id": "103103",
+        "name": "null"
+    },
+    {
+        "id": "103104",
+        "name": "null"
+    },
+    {
+        "id": "103105",
+        "name": "null"
+    },
+    {
+        "id": "103106",
+        "name": "null"
+    },
+    {
+        "id": "103107",
+        "name": "null"
+    },
+    {
+        "id": "103108",
+        "name": "null"
+    },
+    {
+        "id": "103109",
+        "name": "null"
+    },
+    {
+        "id": "103110",
+        "name": "null"
+    },
+    {
+        "id": "103111",
+        "name": "null"
+    },
+    {
+        "id": "103112",
+        "name": "null"
+    },
+    {
+        "id": "103113",
+        "name": "null"
+    },
+    {
+        "id": "103114",
+        "name": "null"
+    },
+    {
+        "id": "103115",
+        "name": "null"
+    },
+    {
+        "id": "103116",
+        "name": "null"
+    },
+    {
+        "id": "103117",
+        "name": "null"
+    },
+    {
+        "id": "103118",
+        "name": "null"
+    },
+    {
+        "id": "103119",
+        "name": "null"
+    },
+    {
+        "id": "103120",
+        "name": "null"
+    },
+    {
+        "id": "103121",
+        "name": "null"
+    },
+    {
+        "id": "103122",
+        "name": "null"
+    },
+    {
+        "id": "103123",
+        "name": "null"
+    },
+    {
+        "id": "103124",
+        "name": "null"
+    },
+    {
+        "id": "103125",
+        "name": "null"
+    },
+    {
+        "id": "103126",
+        "name": "null"
+    },
+    {
+        "id": "103127",
+        "name": "null"
+    },
+    {
+        "id": "103128",
+        "name": "null"
+    },
+    {
+        "id": "103129",
+        "name": "null"
+    },
+    {
+        "id": "103130",
+        "name": "null"
+    },
+    {
+        "id": "103131",
+        "name": "null"
+    },
+    {
+        "id": "103132",
+        "name": "null"
+    },
+    {
+        "id": "103139",
+        "name": "null"
+    },
+    {
+        "id": "103140",
+        "name": "null"
+    },
+    {
+        "id": "103141",
+        "name": "null"
+    },
+    {
+        "id": "103142",
+        "name": "null"
+    },
+    {
+        "id": "103143",
+        "name": "null"
+    },
+    {
+        "id": "103144",
+        "name": "null"
+    },
+    {
+        "id": "103145",
+        "name": "null"
+    },
+    {
+        "id": "103146",
+        "name": "null"
+    },
+    {
+        "id": "103151",
+        "name": "null"
+    },
+    {
+        "id": "103152",
+        "name": "null"
+    },
+    {
+        "id": "103153",
+        "name": "null"
+    },
+    {
+        "id": "103154",
+        "name": "null"
+    },
+    {
+        "id": "103155",
+        "name": "null"
+    },
+    {
+        "id": "103156",
+        "name": "null"
+    },
+    {
+        "id": "103185",
+        "name": "null"
+    },
+    {
+        "id": "103186",
+        "name": "null"
+    },
+    {
+        "id": "103187",
+        "name": "null"
+    },
+    {
+        "id": "103188",
+        "name": "null"
+    },
+    {
+        "id": "103189",
+        "name": "null"
+    },
+    {
+        "id": "103200",
+        "name": "null"
+    },
+    {
+        "id": "103201",
+        "name": "null"
+    },
+    {
+        "id": "103203",
+        "name": "null"
+    },
+    {
+        "id": "103204",
+        "name": "null"
+    },
+    {
+        "id": "103212",
+        "name": "null"
+    },
+    {
+        "id": "103214",
+        "name": "null"
+    },
+    {
+        "id": "103229",
+        "name": "null"
+    },
+    {
+        "id": "300000",
+        "name": "null"
+    },
+    {
+        "id": "300001",
+        "name": "null"
+    },
+    {
+        "id": "300002",
+        "name": "null"
+    },
+    {
+        "id": "300003",
+        "name": "null"
+    },
+    {
+        "id": "300004",
+        "name": "null"
+    },
+    {
+        "id": "300005",
+        "name": "null"
+    },
+    {
+        "id": "300006",
+        "name": "null"
+    },
+    {
+        "id": "300007",
+        "name": "null"
+    },
+    {
+        "id": "300008",
+        "name": "null"
+    },
+    {
+        "id": "300009",
+        "name": "null"
+    },
+    {
+        "id": "301000",
+        "name": "Snow Drift"
+    },
+    {
+        "id": "301001",
+        "name": "null"
+    },
+    {
+        "id": "301002",
+        "name": "Mechanism Energy Hub"
+    },
+    {
+        "id": "301003",
+        "name": "Mechanism Energy Hub"
+    },
+    {
+        "id": "301004",
+        "name": "null"
+    },
+    {
+        "id": "301005",
+        "name": "null"
+    },
+    {
+        "id": "301010",
+        "name": "Damaged Drone"
+    },
+    {
+        "id": "301011",
+        "name": "null"
+    },
+    {
+        "id": "301013",
+        "name": "null"
+    },
+    {
+        "id": "301014",
+        "name": "null"
+    },
+    {
+        "id": "301015",
+        "name": "null"
+    },
+    {
+        "id": "301016",
+        "name": "null"
+    },
+    {
+        "id": "301017",
+        "name": "null"
+    },
+    {
+        "id": "301018",
+        "name": "null"
+    },
+    {
+        "id": "301019",
+        "name": "null"
+    },
+    {
+        "id": "301023",
+        "name": "null"
+    },
+    {
+        "id": "301058",
+        "name": "null"
+    },
+    {
+        "id": "301059",
+        "name": "null"
+    },
+    {
+        "id": "301060",
+        "name": "null"
+    },
+    {
+        "id": "301061",
+        "name": "null"
+    },
+    {
+        "id": "301062",
+        "name": "null"
+    },
+    {
+        "id": "301063",
+        "name": "null"
+    },
+    {
+        "id": "301064",
+        "name": "null"
+    },
+    {
+        "id": "301065",
+        "name": "null"
+    },
+    {
+        "id": "301066",
+        "name": "null"
+    },
+    {
+        "id": "301067",
+        "name": "null"
+    },
+    {
+        "id": "301068",
+        "name": "null"
+    },
+    {
+        "id": "301069",
+        "name": "null"
+    },
+    {
+        "id": "301070",
+        "name": "null"
+    },
+    {
+        "id": "301071",
+        "name": "null"
+    },
+    {
+        "id": "301072",
+        "name": "null"
+    },
+    {
+        "id": "301073",
+        "name": "null"
+    },
+    {
+        "id": "301074",
+        "name": "null"
+    },
+    {
+        "id": "301075",
+        "name": "null"
+    },
+    {
+        "id": "301076",
+        "name": "null"
+    },
+    {
+        "id": "301077",
+        "name": "null"
+    },
+    {
+        "id": "301078",
+        "name": "null"
+    },
+    {
+        "id": "301079",
+        "name": "null"
+    },
+    {
+        "id": "9090008",
+        "name": "null"
+    },
+    {
+        "id": "9103002",
+        "name": "null"
+    },
+    {
+        "id": "9103003",
+        "name": "null"
+    },
+    {
+        "id": "9103004",
+        "name": "null"
+    },
+    {
+        "id": "9103005",
+        "name": "null"
+    },
+    {
+        "id": "9103007",
+        "name": "null"
+    },
+    {
+        "id": "9103008",
+        "name": "null"
+    },
+    {
+        "id": "9103009",
+        "name": "null"
+    },
+    {
+        "id": "9103010",
+        "name": "null"
+    },
+    {
+        "id": "9103011",
+        "name": "null"
+    },
+    {
+        "id": "9103012",
+        "name": "null"
+    },
+    {
+        "id": "9103013",
+        "name": "null"
+    },
+    {
+        "id": "9103014",
+        "name": "null"
+    },
+    {
+        "id": "9103015",
+        "name": "null"
+    },
+    {
+        "id": "9103017",
+        "name": "null"
+    },
+    {
+        "id": "9103018",
+        "name": "null"
+    },
+    {
+        "id": "9103019",
+        "name": "null"
+    },
+    {
+        "id": "9103020",
+        "name": "null"
+    },
+    {
+        "id": "9103022",
+        "name": "null"
+    },
+    {
+        "id": "9120018",
+        "name": "null"
+    },
+    {
+        "id": "9120019",
+        "name": "null"
+    },
+    {
+        "id": "9120020",
+        "name": "null"
+    },
+    {
+        "id": "9120021",
+        "name": "null"
+    },
+    {
+        "id": "9120031",
+        "name": "null"
+    },
+    {
+        "id": "9120032",
+        "name": "null"
+    },
+    {
+        "id": "9120033",
+        "name": "null"
+    },
+    {
+        "id": "9120034",
+        "name": "null"
+    },
+    {
+        "id": "9130003",
+        "name": "null"
+    },
+    {
+        "id": "9200005",
+        "name": "null"
+    },
+    {
+        "id": "9200006",
+        "name": "null"
+    },
+    {
+        "id": "9200007",
+        "name": "null"
+    },
+    {
+        "id": "9999820",
+        "name": "null"
+    },
+    {
+        "id": "9999834",
+        "name": "null"
+    }
+]

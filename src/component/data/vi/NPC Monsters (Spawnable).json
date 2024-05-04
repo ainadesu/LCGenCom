@@ -1,0 +1,438 @@
+[
+    {
+        "id": "1002020",
+        "name": "Kẻ Lang Thang"
+    },
+    {
+        "id": "1002030",
+        "name": "Pháo Thủ Bờm Bạc"
+    },
+    {
+        "id": "1002040",
+        "name": "Cận Vệ Bờm Bạc"
+    },
+    {
+        "id": "1002050",
+        "name": "Xạ Thủ Bờm Bạc"
+    },
+    {
+        "id": "1003010",
+        "name": "Hiệu Úy Bờm Bạc"
+    },
+    {
+        "id": "1003015",
+        "name": "Hiệu Úy Bờm Bạc (Bị Lỗi)"
+    },
+    {
+        "id": "1004010",
+        "name": "Cocolia"
+    },
+    {
+        "id": "1004011",
+        "name": "Cocolia (Hoàn chỉnh)"
+    },
+    {
+        "id": "1004020",
+        "name": "Gepard"
+    },
+    {
+        "id": "1004021",
+        "name": "Gepard (Hoàn chỉnh)"
+    },
+    {
+        "id": "1004030",
+        "name": "Bronya"
+    },
+    {
+        "id": "1012020",
+        "name": "Cỗ Máy Tự Động \"Nhền Nhện\""
+    },
+    {
+        "id": "1012030",
+        "name": "Cỗ Máy Tự Động \"Bọ Cánh Cứng\""
+    },
+    {
+        "id": "1013010",
+        "name": "Cỗ Máy Tự Động \"Gấu Xám\""
+    },
+    {
+        "id": "1013011",
+        "name": "Cỗ Máy Tự Động \"Gấu Xám\" (Bị Lỗi)"
+    },
+    {
+        "id": "1013012",
+        "name": "Cỗ Máy Tự Động \"Gấu Xám\" (Hoàn chỉnh)"
+    },
+    {
+        "id": "1013020",
+        "name": "Cỗ Máy Tự Động \"Sói Nanh Nhọn\""
+    },
+    {
+        "id": "1013022",
+        "name": "Cỗ Máy Tự Động \"Sói Nanh Nhọn\" (Bị Lỗi)"
+    },
+    {
+        "id": "1014010",
+        "name": "Svarog"
+    },
+    {
+        "id": "1014011",
+        "name": "Svarog (Hoàn chỉnh)"
+    },
+    {
+        "id": "1022010",
+        "name": "Ảo Ảnh Everwinter"
+    },
+    {
+        "id": "1022020",
+        "name": "Ảo Ảnh Lửa Thiêu"
+    },
+    {
+        "id": "1023010",
+        "name": "Kẻ Lang Thang Bốc Cháy"
+    },
+    {
+        "id": "1023011",
+        "name": "Kẻ Lang Thang Bốc Cháy (Bị lỗi)"
+    },
+    {
+        "id": "1023020",
+        "name": "Kẻ Lang Thang Lạnh Giá"
+    },
+    {
+        "id": "1023022",
+        "name": "Kẻ Lang Thang Lạnh Giá (Bị lỗi)"
+    },
+    {
+        "id": "2002010",
+        "name": "Lính Tuần Tra Vân Kỵ"
+    },
+    {
+        "id": "2002030",
+        "name": "Cai Ngục Cõi Âm"
+    },
+    {
+        "id": "2004010",
+        "name": "\"Thợ Săn Stellaron\" Kafka"
+    },
+    {
+        "id": "2004011",
+        "name": "\"Thợ Săn Stellaron\" Kafka (Hoàn Chỉnh)"
+    },
+    {
+        "id": "2004020",
+        "name": "Thị Vệ Vân Kỵ - Yanqing"
+    },
+    {
+        "id": "2004021",
+        "name": "Trung Úy Vân Kỵ - Yanqing (Hoàn Chỉnh)"
+    },
+    {
+        "id": "2011010",
+        "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
+    },
+    {
+        "id": "2011020",
+        "name": "Cơ Giáp Nhập Ma - Cóc Vàng Phủ Mây"
+    },
+    {
+        "id": "2012010",
+        "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
+    },
+    {
+        "id": "2013010",
+        "name": "Gác Cổng Kim Nhân"
+    },
+    {
+        "id": "2013012",
+        "name": "Gác Cổng Kim Nhân (Bị Lỗi)"
+    },
+    {
+        "id": "2013020",
+        "name": "Kim Nhân Câu Hồn Sứ"
+    },
+    {
+        "id": "2013022",
+        "name": "Kim Nhân Câu Hồn Sứ (Bị Lỗi)"
+    },
+    {
+        "id": "2022010",
+        "name": "Lính Gác Nhập Ma"
+    },
+    {
+        "id": "2022020",
+        "name": "\"Bí Truyền Dược Vương\" Nội Đan Sĩ"
+    },
+    {
+        "id": "2022040",
+        "name": "Linh Thú Trù Phú - Chó Săn Vàng"
+    },
+    {
+        "id": "2022050",
+        "name": "Linh Thú Trù Phú - Sói Cây"
+    },
+    {
+        "id": "2022060",
+        "name": "\"Bí Truyền Dược Vương\" Khí Nguyên Sĩ"
+    },
+    {
+        "id": "2022110",
+        "name": "Cai Ngục Nhập Ma"
+    },
+    {
+        "id": "2023010",
+        "name": "Nhà Luyện Hình \"Bí Truyền Dược Vương\""
+    },
+    {
+        "id": "2023012",
+        "name": "Nhà Luyện Hình \"Bí Truyền Dược Vương\" (Bị Lỗi)"
+    },
+    {
+        "id": "2023020",
+        "name": "Linh Thú Trù Phú - Linh Trưởng"
+    },
+    {
+        "id": "2023021",
+        "name": "Linh Thú Trù Phú-Linh Trưởng"
+    },
+    {
+        "id": "2023022",
+        "name": "Linh Thú Trù Phú-Linh Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "2023030",
+        "name": "Thừa Lộ Thiên Nhân"
+    },
+    {
+        "id": "2023032",
+        "name": "Thừa Lộ Thiên Nhân (Bị Lỗi)"
+    },
+    {
+        "id": "2024010",
+        "name": "Huyền Lộc Trù Phú"
+    },
+    {
+        "id": "2024011",
+        "name": "Huyền Lộc Trù Phú (Hoàn Chỉnh)"
+    },
+    {
+        "id": "2024020",
+        "name": "Phù Yên"
+    },
+    {
+        "id": "3001010",
+        "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
+    },
+    {
+        "id": "3001020",
+        "name": "Đoàn Kịch Ác Mộng - Sọ Chim"
+    },
+    {
+        "id": "3002010",
+        "name": "null"
+    },
+    {
+        "id": "3002030",
+        "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
+    },
+    {
+        "id": "3002050",
+        "name": "Thùng Quý Tộc"
+    },
+    {
+        "id": "3003010",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét"
+    },
+    {
+        "id": "3003012",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét (Bị Lỗi)"
+    },
+    {
+        "id": "3003020",
+        "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ"
+    },
+    {
+        "id": "3003022",
+        "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ (Bị Lỗi)"
+    },
+    {
+        "id": "3011010",
+        "name": "MemVùng Hồi Ức \"Tầm Mắt Khắp Nơi\""
+    },
+    {
+        "id": "3012010",
+        "name": "MemVùng Hồi Ức \"Vật Gì Giấu Trong Gương\""
+    },
+    {
+        "id": "3013010",
+        "name": "MemVùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
+    },
+    {
+        "id": "3014020",
+        "name": "MemVùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\""
+    },
+    {
+        "id": "3014021",
+        "name": "MemVùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\" (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3024010",
+        "name": "Argenti"
+    },
+    {
+        "id": "3024011",
+        "name": "Argenti (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3024020",
+        "name": "\"Thợ Săn Stellaron\" Sam"
+    },
+    {
+        "id": "7002010",
+        "name": "Kẻ Dệt Lá Số Ảo"
+    },
+    {
+        "id": "7003030",
+        "name": "Hư Ảnh Kẻ Xâm Chiếm"
+    },
+    {
+        "id": "7032010",
+        "name": "Nhân Viên Cơ Sở - Công Tác"
+    },
+    {
+        "id": "7033010",
+        "name": "Nhân Viên Thâm Niên - Tổ Trưởng"
+    },
+    {
+        "id": "8001010",
+        "name": "Tạo Vật Bừng Lửa"
+    },
+    {
+        "id": "8001020",
+        "name": "Tạo Vật Sương Giá"
+    },
+    {
+        "id": "8001030",
+        "name": "Mặt Nạ Vô Tưởng"
+    },
+    {
+        "id": "8001040",
+        "name": "Tạo Vật Sấm Rền"
+    },
+    {
+        "id": "8001050",
+        "name": "Tạo Vật Gió Tản"
+    },
+    {
+        "id": "8002040",
+        "name": "Heo Đất Không Gian"
+    },
+    {
+        "id": "8002050",
+        "name": "Heo Đất Phối Hợp"
+    },
+    {
+        "id": "8002059",
+        "name": "Heo Đất Phối Hợp (Hiếm)"
+    },
+    {
+        "id": "8002060",
+        "name": "Heo Đất Hủy Diệt"
+    },
+    {
+        "id": "8002070",
+        "name": "Heo Đất Trù Phú"
+    },
+    {
+        "id": "8002080",
+        "name": "Heo Đất Bảo Hộ"
+    },
+    {
+        "id": "8003010",
+        "name": "Băng Vũ Trụ"
+    },
+    {
+        "id": "8003011",
+        "name": "Băng Vũ Trụ (Bị Lỗi)"
+    },
+    {
+        "id": "8003020",
+        "name": "Lửa Vũ Trụ"
+    },
+    {
+        "id": "8003022",
+        "name": "Lửa Vũ Trụ (Bị lỗi)"
+    },
+    {
+        "id": "8003030",
+        "name": "Hư Ảnh Đấng Bảo Vệ"
+    },
+    {
+        "id": "8003032",
+        "name": "Hư Ảnh Đấng Bảo Vệ (Bị Lỗi)"
+    },
+    {
+        "id": "8003042",
+        "name": "Hư Ảnh Kẻ Xâm Chiếm (Bị Lỗi)"
+    },
+    {
+        "id": "8003050",
+        "name": "Kẻ Mời Gió"
+    },
+    {
+        "id": "8003052",
+        "name": "Kẻ Mời Gió (Bị Lỗi)"
+    },
+    {
+        "id": "8011010",
+        "name": "Baryon"
+    },
+    {
+        "id": "8011020",
+        "name": "Antibaryon"
+    },
+    {
+        "id": "8012010",
+        "name": "Chiến Binh Hư Không - Kẻ Cướp Đoạt"
+    },
+    {
+        "id": "8012020",
+        "name": "Chiến Binh Hư Không - Kẻ Bóp Méo"
+    },
+    {
+        "id": "8012030",
+        "name": "Chiến Binh Hư Không - Kẻ Loại Bỏ"
+    },
+    {
+        "id": "8013010",
+        "name": "Chiến Binh Hư Không - Kẻ Chà Đạp"
+    },
+    {
+        "id": "8013013",
+        "name": "Chiến Binh Hư Không - Kẻ Chà Đạp (Bị Lỗi)"
+    },
+    {
+        "id": "8022010",
+        "name": "Bọ Gai Lớn"
+    },
+    {
+        "id": "8024010",
+        "name": "Đàn Côn Trùng - Bọ Gai Trưởng Thành (Hoàn Chỉnh)"
+    },
+    {
+        "id": "8024011",
+        "name": "Đàn Côn Trùng - Bọ Gai Trưởng Thành"
+    },
+    {
+        "id": "8032020",
+        "name": "Nhân Viên Cơ Sở - Bảo Vệ"
+    },
+    {
+        "id": "8033011",
+        "name": "Nhân Viên Thâm Niên - Tổ Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "8034010",
+        "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" AventurinGian Trá"
+    }
+]

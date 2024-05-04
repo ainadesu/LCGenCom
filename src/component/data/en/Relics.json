@@ -1,0 +1,502 @@
+[
+  {
+    "id": "61011",
+    "name": "Passerby's Rejuvenated Wooden Hairstick",
+    "type": "Nón"
+  },
+  {
+    "id": "61012",
+    "name": "Passerby's Roaming Dragon Bracer",
+    "type": "Tay"
+  },
+  {
+    "id": "61013",
+    "name": "Passerby's Ragged Embroided Coat",
+    "type": "Áo"
+  },
+  {
+    "id": "61014",
+    "name": "Passerby's Stygian Hiking Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61021",
+    "name": "Musketeer's Wild Wheat Felt Hat",
+    "type": "Nón"
+  },
+  {
+    "id": "61022",
+    "name": "Musketeer's Coarse Leather Gloves",
+    "type": "Tay"
+  },
+  {
+    "id": "61023",
+    "name": "Musketeer's Wind-Hunting Shawl",
+    "type": "Áo"
+  },
+  {
+    "id": "61024",
+    "name": "Musketeer's Rivets Riding Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61031",
+    "name": "Knight's Forgiving Casque",
+    "type": "Nón"
+  },
+  {
+    "id": "61032",
+    "name": "Knight's Silent Oath Ring",
+    "type": "Tay"
+  },
+  {
+    "id": "61033",
+    "name": "Knight's Solemn Breastplate",
+    "type": "Áo"
+  },
+  {
+    "id": "61034",
+    "name": "Knight's Iron Boots of Order",
+    "type": "Giày"
+  },
+  {
+    "id": "61041",
+    "name": "Hunter's Artaius Hood",
+    "type": "Nón"
+  },
+  {
+    "id": "61042",
+    "name": "Hunter's Lizard Gloves",
+    "type": "Tay"
+  },
+  {
+    "id": "61043",
+    "name": "Hunter's Ice Dragon Cloak",
+    "type": "Áo"
+  },
+  {
+    "id": "61044",
+    "name": "Hunter's Soft Elkskin Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61051",
+    "name": "Champion's Headgear",
+    "type": "Nón"
+  },
+  {
+    "id": "61052",
+    "name": "Champion's Heavy Gloves",
+    "type": "Tay"
+  },
+  {
+    "id": "61053",
+    "name": "Champion's Chest Guard",
+    "type": "Áo"
+  },
+  {
+    "id": "61054",
+    "name": "Champion's Fleetfoot Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61061",
+    "name": "Guard's Cast Iron Helmet",
+    "type": "Nón"
+  },
+  {
+    "id": "61062",
+    "name": "Guard's Shining Gauntlets",
+    "type": "Tay"
+  },
+  {
+    "id": "61063",
+    "name": "Guard's Uniform of Old",
+    "type": "Áo"
+  },
+  {
+    "id": "61064",
+    "name": "Guard's Silver Greaves",
+    "type": "Giày"
+  },
+  {
+    "id": "61071",
+    "name": "Firesmith's Obsidian Goggles",
+    "type": "Nón"
+  },
+  {
+    "id": "61072",
+    "name": "Firesmith's Ring of Flame-Mastery",
+    "type": "Tay"
+  },
+  {
+    "id": "61073",
+    "name": "Firesmith's Fireproof Apron",
+    "type": "Áo"
+  },
+  {
+    "id": "61074",
+    "name": "Firesmith's Alloy Leg",
+    "type": "Giày"
+  },
+  {
+    "id": "61081",
+    "name": "Genius's Ultraremote Sensing Visor",
+    "type": "Nón"
+  },
+  {
+    "id": "61082",
+    "name": "Genius's Frequency Catcher",
+    "type": "Tay"
+  },
+  {
+    "id": "61083",
+    "name": "Genius's Metafield Suit",
+    "type": "Áo"
+  },
+  {
+    "id": "61084",
+    "name": "Genius's Gravity Walker",
+    "type": "Giày"
+  },
+  {
+    "id": "61091",
+    "name": "Band's Polarized Sunglasses",
+    "type": "Nón"
+  },
+  {
+    "id": "61092",
+    "name": "Band's Touring Bracelet",
+    "type": "Tay"
+  },
+  {
+    "id": "61093",
+    "name": "Band's Leather Jacket With Studs",
+    "type": "Áo"
+  },
+  {
+    "id": "61094",
+    "name": "Band's Ankle Boots With Rivets",
+    "type": "Giày"
+  },
+  {
+    "id": "61101",
+    "name": "Eagle's Beaked Helmet",
+    "type": "Nón"
+  },
+  {
+    "id": "61102",
+    "name": "Eagle's Soaring Ring",
+    "type": "Tay"
+  },
+  {
+    "id": "61103",
+    "name": "Eagle's Winged Suit Harness",
+    "type": "Áo"
+  },
+  {
+    "id": "61104",
+    "name": "Eagle's Quilted Puttees",
+    "type": "Giày"
+  },
+  {
+    "id": "61111",
+    "name": "Thief's Myriad-Faced Mask",
+    "type": "Nón"
+  },
+  {
+    "id": "61112",
+    "name": "Thief's Gloves With Prints",
+    "type": "Tay"
+  },
+  {
+    "id": "61113",
+    "name": "Thief's Steel Grappling Hook",
+    "type": "Áo"
+  },
+  {
+    "id": "61114",
+    "name": "Thief's Meteor Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61121",
+    "name": "Wastelander's Breathing Mask",
+    "type": "Nón"
+  },
+  {
+    "id": "61122",
+    "name": "Wastelander's Desert Terminal",
+    "type": "Tay"
+  },
+  {
+    "id": "61123",
+    "name": "Wastelander's Friar Robe",
+    "type": "Áo"
+  },
+  {
+    "id": "61124",
+    "name": "Wastelander's Powered Greaves",
+    "type": "Giày"
+  },
+  {
+    "id": "61131",
+    "name": "Disciple's Prosthetic Eye",
+    "type": "Nón"
+  },
+  {
+    "id": "61132",
+    "name": "Disciple's Ingenium Hand",
+    "type": "Tay"
+  },
+  {
+    "id": "61133",
+    "name": "Disciple's Dewy Feather Garb",
+    "type": "Áo"
+  },
+  {
+    "id": "61134",
+    "name": "Disciple's Celestial Silk Sandals",
+    "type": "Giày"
+  },
+  {
+    "id": "61141",
+    "name": "Messenger's Holovisor",
+    "type": "Nón"
+  },
+  {
+    "id": "61142",
+    "name": "Messenger's Transformative Arm",
+    "type": "Tay"
+  },
+  {
+    "id": "61143",
+    "name": "Messenger's Secret Satchel",
+    "type": "Áo"
+  },
+  {
+    "id": "61144",
+    "name": "Messenger's Par-kool Sneakers",
+    "type": "Giày"
+  },
+  {
+    "id": "61151",
+    "name": "Grand Duke's Crown of Netherflame",
+    "type": "Nón"
+  },
+  {
+    "id": "61152",
+    "name": "Grand Duke's Gloves of Fieryfur",
+    "type": "Tay"
+  },
+  {
+    "id": "61153",
+    "name": "Grand Duke's Robe of Grace",
+    "type": "Áo"
+  },
+  {
+    "id": "61154",
+    "name": "Grand Duke's Ceremonial Boots",
+    "type": "Giày"
+  },
+  {
+    "id": "61161",
+    "name": "Prisoner's Sealed Muzzle",
+    "type": "Nón"
+  },
+  {
+    "id": "61162",
+    "name": "Prisoner's Leadstone Shackles",
+    "type": "Tay"
+  },
+  {
+    "id": "61163",
+    "name": "Prisoner's Repressive Straitjacket",
+    "type": "Áo"
+  },
+  {
+    "id": "61164",
+    "name": "Prisoner's Restrictive Fetters",
+    "type": "Giày"
+  },
+  {
+    "id": "61171",
+    "name": "Pioneer's Heatproof Shell",
+    "type": "Nón"
+  },
+  {
+    "id": "61172",
+    "name": "Pioneer's Lacuna Compass",
+    "type": "Tay"
+  },
+  {
+    "id": "61173",
+    "name": "Pioneer's Sealed Lead Apron",
+    "type": "Áo"
+  },
+  {
+    "id": "61174",
+    "name": "Pioneer's Starfaring Anchor",
+    "type": "Giày"
+  },
+  {
+    "id": "61181",
+    "name": "Watchmaker's Telescoping Lens",
+    "type": "Nón"
+  },
+  {
+    "id": "61182",
+    "name": "Watchmaker's Fortuitous Wristwatch",
+    "type": "Tay"
+  },
+  {
+    "id": "61183",
+    "name": "Watchmaker's Illusory Formal Suit",
+    "type": "Áo"
+  },
+  {
+    "id": "61184",
+    "name": "Watchmaker's Dream-Concealing Dress Shoes",
+    "type": "Giày"
+  },
+  {
+    "id": "63015",
+    "name": "Herta's Space Station",
+    "type": "Cầu"
+  },
+  {
+    "id": "63016",
+    "name": "Herta's Wandering Trek",
+    "type": "Dây"
+  },
+  {
+    "id": "63025",
+    "name": "The Xianzhou Luofu's Celestial Ark",
+    "type": "Cầu"
+  },
+  {
+    "id": "63026",
+    "name": "The Xianzhou Luofu's Ambrosial Arbor Vines",
+    "type": "Dây"
+  },
+  {
+    "id": "63035",
+    "name": "The IPC's Mega HQ",
+    "type": "Cầu"
+  },
+  {
+    "id": "63036",
+    "name": "The IPC's Trade Route",
+    "type": "Dây"
+  },
+  {
+    "id": "63045",
+    "name": "Belobog's Fortress of Preservation",
+    "type": "Cầu"
+  },
+  {
+    "id": "63046",
+    "name": "Belobog's Iron Defense",
+    "type": "Dây"
+  },
+  {
+    "id": "63055",
+    "name": "Planet Screwllum's Mechanical Sun",
+    "type": "Cầu"
+  },
+  {
+    "id": "63056",
+    "name": "Planet Screwllum's Ring System",
+    "type": "Dây"
+  },
+  {
+    "id": "63065",
+    "name": "Salsotto's Moving City",
+    "type": "Cầu"
+  },
+  {
+    "id": "63066",
+    "name": "Salsotto's Terminator Line",
+    "type": "Dây"
+  },
+  {
+    "id": "63075",
+    "name": "Talia's Nailscrap Town",
+    "type": "Cầu"
+  },
+  {
+    "id": "63076",
+    "name": "Talia's Exposed Electric Wire",
+    "type": "Dây"
+  },
+  {
+    "id": "63085",
+    "name": "Vonwacq's Island of Birth",
+    "type": "Cầu"
+  },
+  {
+    "id": "63086",
+    "name": "Vonwacq's Islandic Coast",
+    "type": "Dây"
+  },
+  {
+    "id": "63095",
+    "name": "Taikiyan Laser Stadium",
+    "type": "Cầu"
+  },
+  {
+    "id": "63096",
+    "name": "Taikiyan's Arclight Race Track",
+    "type": "Dây"
+  },
+  {
+    "id": "63105",
+    "name": "Insumousu's Whalefall Ship",
+    "type": "Cầu"
+  },
+  {
+    "id": "63106",
+    "name": "Insumousu's Frayed Hawser",
+    "type": "Dây"
+  },
+  {
+    "id": "63115",
+    "name": "Glamoth's Iron Cavalry Regiment",
+    "type": "Cầu"
+  },
+  {
+    "id": "63116",
+    "name": "Glamoth's Silent Tombstone",
+    "type": "Dây"
+  },
+  {
+    "id": "63125",
+    "name": "Penacony's Grand Hotel",
+    "type": "Cầu"
+  },
+  {
+    "id": "63126",
+    "name": "Penacony's Dream-Seeking Tracks",
+    "type": "Dây"
+  },
+  {
+    "id": "63135",
+    "name": "Sigonia's Gaiathra Berth",
+    "type": "Cầu"
+  },
+  {
+    "id": "63136",
+    "name": "Sigonia's Knot of Cyclicality",
+    "type": "Dây"
+  },
+  {
+    "id": "63145",
+    "name": "Izumo's Magatsu no Morokami",
+    "type": "Cầu"
+  },
+  {
+    "id": "63146",
+    "name": "Izumo's Blades of Origin and End",
+    "type": "Dây"
+  }
+]

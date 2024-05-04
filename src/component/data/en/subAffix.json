@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "HP"
+    },
+    {
+        "id": "2",
+        "name": "ATK"
+    },
+    {
+        "id": "3",
+        "name": "DEF"
+    },
+    {
+        "id": "4",
+        "name": "HP %"
+    },
+    {
+        "id": "5",
+        "name": "ATK %"
+    },
+    {
+        "id": "6",
+        "name": "DEF %"
+    },
+    {
+        "id": "7",
+        "name": "SPD"
+    },
+    {
+        "id": "8",
+        "name": "Crit Rate"
+    },
+    {
+        "id": "9",
+        "name": "Crit DMG"
+    },
+    {
+        "id": "10",
+        "name": "Effect Hit Rate"
+    },
+    {
+        "id": "11",
+        "name": "Effect RES"
+    },
+    {
+        "id": "12",
+        "name": "Break Effect"
+    }
+]

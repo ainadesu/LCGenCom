@@ -1,0 +1,502 @@
+[
+  {
+    "id": "61011",
+    "name": "Chiếc Trâm Của Lãng Khách",
+    "type": "Nón"
+  },
+  {
+    "id": "61012",
+    "name": "Giáp Tay Rồng Của Lãng Khách",
+    "type": "Tay"
+  },
+  {
+    "id": "61013",
+    "name": "Áo Khoác Rách Của Lãng Khách",
+    "type": "Áo"
+  },
+  {
+    "id": "61014",
+    "name": "Đôi Giày Ảm Đạm Của Lãng Khách",
+    "type": "Giày"
+  },
+  {
+    "id": "61021",
+    "name": "Mũ Bông Lúa Của Thiện Xạ",
+    "type": "Nón"
+  },
+  {
+    "id": "61022",
+    "name": "Găng Tay Da Thô Của Thiện Xạ",
+    "type": "Tay"
+  },
+  {
+    "id": "61023",
+    "name": "Áo Choàng Săn Gió Của Thiện Xạ",
+    "type": "Áo"
+  },
+  {
+    "id": "61024",
+    "name": "Giày Bốt Đinh Tán Của Thiện Xạ",
+    "type": "Giày"
+  },
+  {
+    "id": "61031",
+    "name": "Mũ Khoan Dung Thánh Kỵ Sĩ",
+    "type": "Nón"
+  },
+  {
+    "id": "61032",
+    "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ",
+    "type": "Tay"
+  },
+  {
+    "id": "61033",
+    "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ",
+    "type": "Áo"
+  },
+  {
+    "id": "61034",
+    "name": "Giày Sắt Thánh Kỵ Sĩ",
+    "type": "Giày"
+  },
+  {
+    "id": "61041",
+    "name": "Mũ Artaius Thợ Săn",
+    "type": "Nón"
+  },
+  {
+    "id": "61042",
+    "name": "Găng Tay Thằn Lằn Của Thợ Săn",
+    "type": "Tay"
+  },
+  {
+    "id": "61043",
+    "name": "Áo Choàng Rồng Băng Của Thợ Săn",
+    "type": "Áo"
+  },
+  {
+    "id": "61044",
+    "name": "Ủng Phủ Da Nai Của Thợ Săn",
+    "type": "Giày"
+  },
+  {
+    "id": "61051",
+    "name": "Mũ Bảo Hộ Của Quyền Vương",
+    "type": "Nón"
+  },
+  {
+    "id": "61052",
+    "name": "Găng Tay Pháo Của Quyền Vương",
+    "type": "Tay"
+  },
+  {
+    "id": "61053",
+    "name": "Bảo Hộ Ngực Của Quyền Vương",
+    "type": "Áo"
+  },
+  {
+    "id": "61054",
+    "name": "Giày Bước Nhảy Của Quyền Vương",
+    "type": "Giày"
+  },
+  {
+    "id": "61061",
+    "name": "Mũ Giáp Gang Của Thiết Vệ",
+    "type": "Nón"
+  },
+  {
+    "id": "61062",
+    "name": "Giáp Tay Vảy Bạc Của Thiết Vệ",
+    "type": "Tay"
+  },
+  {
+    "id": "61063",
+    "name": "Quân Phục Cũ Của Thiết Vệ",
+    "type": "Áo"
+  },
+  {
+    "id": "61064",
+    "name": "Giáp Chân Bạc Của Thiết Vệ",
+    "type": "Giày"
+  },
+  {
+    "id": "61071",
+    "name": "Kính Đen Của Thợ Rèn Lửa",
+    "type": "Nón"
+  },
+  {
+    "id": "61072",
+    "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa",
+    "type": "Tay"
+  },
+  {
+    "id": "61073",
+    "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa",
+    "type": "Áo"
+  },
+  {
+    "id": "61074",
+    "name": "Chân Hợp Kim Của Thợ Rèn Lửa",
+    "type": "Giày"
+  },
+  {
+    "id": "61081",
+    "name": "Cảm Biến Từ Xa Của Thiên Tài",
+    "type": "Nón"
+  },
+  {
+    "id": "61082",
+    "name": "Tay Bắt Biến Tần Của Thiên Tài",
+    "type": "Tay"
+  },
+  {
+    "id": "61083",
+    "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài",
+    "type": "Áo"
+  },
+  {
+    "id": "61084",
+    "name": "Bước Đi Lực Hút Của Thiên Tài",
+    "type": "Giày"
+  },
+  {
+    "id": "61091",
+    "name": "Kính Mát Phân Cực Của Ban Nhạc",
+    "type": "Nón"
+  },
+  {
+    "id": "61092",
+    "name": "Vòng Tay Lưu Diễn Của Ban Nhạc",
+    "type": "Tay"
+  },
+  {
+    "id": "61093",
+    "name": "Chiếc Áo Da Của Ban Nhạc",
+    "type": "Áo"
+  },
+  {
+    "id": "61094",
+    "name": "Bốt Gắn Đinh Của Ban Nhạc",
+    "type": "Giày"
+  },
+  {
+    "id": "61101",
+    "name": "Mũ Sắt Mỏ Ưng",
+    "type": "Nón"
+  },
+  {
+    "id": "61102",
+    "name": "Nhẫn Ưng Kích",
+    "type": "Tay"
+  },
+  {
+    "id": "61103",
+    "name": "Dây Cương Chim Ưng",
+    "type": "Áo"
+  },
+  {
+    "id": "61104",
+    "name": "Băng Nhung Chim Ưng",
+    "type": "Giày"
+  },
+  {
+    "id": "61111",
+    "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm",
+    "type": "Nón"
+  },
+  {
+    "id": "61112",
+    "name": "Găng Tay Hoa Văn Của Kẻ Trộm",
+    "type": "Tay"
+  },
+  {
+    "id": "61113",
+    "name": "Móc Neo Sắt Của Kẻ Trộm",
+    "type": "Áo"
+  },
+  {
+    "id": "61114",
+    "name": "Ủng Sao Băng Của Kẻ Trộm",
+    "type": "Giày"
+  },
+  {
+    "id": "61121",
+    "name": "Mặt Nạ Thở Của Kẻ Hoang Dã",
+    "type": "Nón"
+  },
+  {
+    "id": "61122",
+    "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã",
+    "type": "Tay"
+  },
+  {
+    "id": "61123",
+    "name": "Áo Tu Sĩ Của Kẻ Hoang Dã",
+    "type": "Áo"
+  },
+  {
+    "id": "61124",
+    "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã",
+    "type": "Giày"
+  },
+  {
+    "id": "61131",
+    "name": "Mắt Giả Phục Minh Của Môn Đồ",
+    "type": "Nón"
+  },
+  {
+    "id": "61132",
+    "name": "Tay Robot Của Môn Đồ",
+    "type": "Tay"
+  },
+  {
+    "id": "61133",
+    "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ",
+    "type": "Áo"
+  },
+  {
+    "id": "61134",
+    "name": "Giày Lụa Thiên Nhân Của Môn Đồ",
+    "type": "Giày"
+  },
+  {
+    "id": "61141",
+    "name": "Kính Thông Tin Của Tín Sứ",
+    "type": "Nón"
+  },
+  {
+    "id": "61142",
+    "name": "Cánh Tay Biến Hóa Của Tín Sứ",
+    "type": "Tay"
+  },
+  {
+    "id": "61143",
+    "name": "Túi Mật Thư Của Tín Sứ",
+    "type": "Áo"
+  },
+  {
+    "id": "61144",
+    "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ",
+    "type": "Giày"
+  },
+  {
+    "id": "61151",
+    "name": "Vương Miện Địa Ngục Đại Công Tước",
+    "type": "Nón"
+  },
+  {
+    "id": "61152",
+    "name": "Bao Tay Lửa Nhung Đại Công Tước",
+    "type": "Tay"
+  },
+  {
+    "id": "61153",
+    "name": "Áo Choàng Ân Sủng Đại Công Tước",
+    "type": "Áo"
+  },
+  {
+    "id": "61154",
+    "name": "Giày Bốt Thanh Lịch Đại Công Tước",
+    "type": "Giày"
+  },
+  {
+    "id": "61161",
+    "name": "Lồng Chụp Miệng Tù Nhân",
+    "type": "Nón"
+  },
+  {
+    "id": "61162",
+    "name": "Cùm Đá Tù Nhân",
+    "type": "Tay"
+  },
+  {
+    "id": "61163",
+    "name": "Dây Trói Tù Nhân",
+    "type": "Áo"
+  },
+  {
+    "id": "61164",
+    "name": "Gông Cùm Tù Nhân",
+    "type": "Giày"
+  },
+  {
+    "id": "61171",
+    "name": "Vỏ Cách Nhiệt Tiên Phong",
+    "type": "Nón"
+  },
+  {
+    "id": "61172",
+    "name": "La Bàn Hư Không Tiên Phong",
+    "type": "Tay"
+  },
+  {
+    "id": "61173",
+    "name": "Áo Chì Bọc Kín Tiên Phong",
+    "type": "Áo"
+  },
+  {
+    "id": "61174",
+    "name": "Mỏ Neo Du Hành Tiên Phong",
+    "type": "Giày"
+  },
+  {
+    "id": "61181",
+    "name": "Thấu Kính Của Thợ Đồng Hồ",
+    "type": "Nón"
+  },
+  {
+    "id": "61182",
+    "name": "Đồng Hồ May Mắn Thợ Đồng Hồ",
+    "type": "Tay"
+  },
+  {
+    "id": "61183",
+    "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ",
+    "type": "Áo"
+  },
+  {
+    "id": "61184",
+    "name": "Giày Da Giấu Mộng Thợ Đồng Hồ",
+    "type": "Giày"
+  },
+  {
+    "id": "63015",
+    "name": "Điểm Trạm Không Gian Herta",
+    "type": "Cầu"
+  },
+  {
+    "id": "63016",
+    "name": "Chuyến Đi Của Herta",
+    "type": "Dây"
+  },
+  {
+    "id": "63025",
+    "name": "Tàu Vũ Trụ Xianzhou Luofu",
+    "type": "Cầu"
+  },
+  {
+    "id": "63026",
+    "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu",
+    "type": "Dây"
+  },
+  {
+    "id": "63035",
+    "name": "Tổng Bộ Đầu Não Công Ty",
+    "type": "Cầu"
+  },
+  {
+    "id": "63036",
+    "name": "Tuyến Đường Thương Mại Của Công Ty",
+    "type": "Dây"
+  },
+  {
+    "id": "63045",
+    "name": "Pháo Đài Bảo Hộ Belobog",
+    "type": "Cầu"
+  },
+  {
+    "id": "63046",
+    "name": "Phòng Tuyến Thiết Vệ Của Belobog",
+    "type": "Dây"
+  },
+  {
+    "id": "63055",
+    "name": "Mặt Trời Cơ Giới Của Screwllum",
+    "type": "Cầu"
+  },
+  {
+    "id": "63056",
+    "name": "Vành Đai Của Hành Tinh Screwllum",
+    "type": "Dây"
+  },
+  {
+    "id": "63065",
+    "name": "Thành Phố Chuyển Động Salsotto",
+    "type": "Cầu"
+  },
+  {
+    "id": "63066",
+    "name": "Ranh Giới Ngày Đêm Salsotto",
+    "type": "Dây"
+  },
+  {
+    "id": "63075",
+    "name": "Trấn Vỏ Đinh Talia",
+    "type": "Cầu"
+  },
+  {
+    "id": "63076",
+    "name": "Dây Điện Trần Talia",
+    "type": "Dây"
+  },
+  {
+    "id": "63085",
+    "name": "Đảo Sinh Sôi Vonwacq",
+    "type": "Cầu"
+  },
+  {
+    "id": "63086",
+    "name": "Bờ Biển Quanh Đảo Vonwacq",
+    "type": "Dây"
+  },
+  {
+    "id": "63095",
+    "name": "Sân Vận Động Laser Taikiyan",
+    "type": "Cầu"
+  },
+  {
+    "id": "63096",
+    "name": "Đường Đua Hồ Quang Của Taikiyan",
+    "type": "Dây"
+  },
+  {
+    "id": "63105",
+    "name": "Tàu Cá Voi Insumousu",
+    "type": "Cầu"
+  },
+  {
+    "id": "63106",
+    "name": "Dây Thừng Sờn Rách Insumousu",
+    "type": "Dây"
+  },
+  {
+    "id": "63115",
+    "name": "Đội Kỵ Binh Sắt Của Glamoth",
+    "type": "Cầu"
+  },
+  {
+    "id": "63116",
+    "name": "Bia Mộ Tĩnh Mịch Của Glamoth",
+    "type": "Dây"
+  },
+  {
+    "id": "63125",
+    "name": "Khách Sạn Lớn Của Penacony",
+    "type": "Cầu"
+  },
+  {
+    "id": "63126",
+    "name": "Cung Đường Mộng Mơ Penacony",
+    "type": "Dây"
+  },
+  {
+    "id": "63135",
+    "name": "Giường Mẹ Gaiathra Sigonia",
+    "type": "Cầu"
+  },
+  {
+    "id": "63136",
+    "name": "Nút Thắt Luân Hồi Của Sigonia",
+    "type": "Dây"
+  },
+  {
+    "id": "63145",
+    "name": "Magatsu no Morokami Của Izumo",
+    "type": "Cầu"
+  },
+  {
+    "id": "63146",
+    "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu",
+    "type": "Dây"
+  }
+]

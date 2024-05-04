@@ -1,0 +1,534 @@
+[
+    {
+        "id": "47",
+        "name": "Incineration Shadewalker"
+    },
+    {
+        "id": "48",
+        "name": "Blaze Out of Space"
+    },
+    {
+        "id": "49",
+        "name": "Silvermane Lieutenant (Bug)"
+    },
+    {
+        "id": "50",
+        "name": "Silvermane Lieutenant"
+    },
+    {
+        "id": "51",
+        "name": "Silvermane Soldier"
+    },
+    {
+        "id": "52",
+        "name": "Silvermane Gunner"
+    },
+    {
+        "id": "54",
+        "name": "Gepard"
+    },
+    {
+        "id": "56",
+        "name": "Ice Out of Space"
+    },
+    {
+        "id": "57",
+        "name": "Automaton Spider"
+    },
+    {
+        "id": "58",
+        "name": "Automaton Direwolf"
+    },
+    {
+        "id": "59",
+        "name": "Svarog"
+    },
+    {
+        "id": "60",
+        "name": "Cocolia"
+    },
+    {
+        "id": "66",
+        "name": "Automaton Hound"
+    },
+    {
+        "id": "68",
+        "name": "Automaton Grizzly"
+    },
+    {
+        "id": "70",
+        "name": "Everwinter Shadewalker"
+    },
+    {
+        "id": "72",
+        "name": "Flamespawn"
+    },
+    {
+        "id": "73",
+        "name": "Frostspawn"
+    },
+    {
+        "id": "76",
+        "name": "Searing Prowler"
+    },
+    {
+        "id": "77",
+        "name": "Vagrant"
+    },
+    {
+        "id": "78",
+        "name": "Automaton Beetle"
+    },
+    {
+        "id": "80",
+        "name": "Frigid Prowler"
+    },
+    {
+        "id": "81",
+        "name": "Bronya"
+    },
+    {
+        "id": "117",
+        "name": "Decaying Shadow"
+    },
+    {
+        "id": "167",
+        "name": "Automaton Grizzly (Bug)"
+    },
+    {
+        "id": "168",
+        "name": "Automaton Direwolf (Bug)"
+    },
+    {
+        "id": "169",
+        "name": "Searing Prowler (Bug)"
+    },
+    {
+        "id": "170",
+        "name": "Frigid Prowler (Bug)"
+    },
+    {
+        "id": "171",
+        "name": "Ice Out of Space (Bug)"
+    },
+    {
+        "id": "172",
+        "name": "Blaze Out of Space (Bug)"
+    },
+    {
+        "id": "173",
+        "name": "Guardian Shadow (Bug)"
+    },
+    {
+        "id": "174",
+        "name": "Decaying Shadow (Bug)"
+    },
+    {
+        "id": "175",
+        "name": "Voidranger"
+    },
+    {
+        "id": "176",
+        "name": "Stormbringer (Bug)"
+    },
+    {
+        "id": "184",
+        "name": "Guardian Shadow"
+    },
+    {
+        "id": "187",
+        "name": "Stormbringer"
+    },
+    {
+        "id": "1010",
+        "name": "Auxiliary Robot Arm Unit"
+    },
+    {
+        "id": "1013",
+        "name": "Ice Edge"
+    },
+    {
+        "id": "1025",
+        "name": "Baryon"
+    },
+    {
+        "id": "1026",
+        "name": "Antibaryon"
+    },
+    {
+        "id": "1030",
+        "name": "Cocolia, Mother of Deception"
+    },
+    {
+        "id": "1031",
+        "name": "Lance of the Eternal Freeze"
+    },
+    {
+        "id": "1033",
+        "name": "Doomsday Beast"
+    },
+    {
+        "id": "1034",
+        "name": "Antimatter Engine"
+    },
+    {
+        "id": "1035",
+        "name": "Disaster's Right Hand"
+    },
+    {
+        "id": "1036",
+        "name": "Dawn's Left Hand"
+    },
+    {
+        "id": "1038",
+        "name": "Imaginary Weaver"
+    },
+    {
+        "id": "1039",
+        "name": "Silvermane Cannoneer"
+    },
+    {
+        "id": "1041",
+        "name": "Warp Trotter"
+    },
+    {
+        "id": "1042",
+        "name": "Mask of No Thought"
+    },
+    {
+        "id": "1044",
+        "name": "Cocolia (Complete)"
+    },
+    {
+        "id": "1045",
+        "name": "Svarog (Complete)"
+    },
+    {
+        "id": "1047",
+        "name": "Windspawn"
+    },
+    {
+        "id": "1048",
+        "name": "Thunderspawn"
+    },
+    {
+        "id": "1049",
+        "name": "Stellaron Hunter"
+    },
+    {
+        "id": "1050",
+        "name": "Mara-Struck Soldier"
+    },
+    {
+        "id": "1051",
+        "name": "Cloud Knights Patroller"
+    },
+    {
+        "id": "1052",
+        "name": "Disciples of Sanctus Medicus"
+    },
+    {
+        "id": "1053",
+        "name": "Aurumaton Gatekeeper"
+    },
+    {
+        "id": "1054",
+        "name": "Sequence Trotter"
+    },
+    {
+        "id": "1055",
+        "name": "Trotter of Destruction"
+    },
+    {
+        "id": "1056",
+        "name": "Trotter of Preservation"
+    },
+    {
+        "id": "1057",
+        "name": "Trotter of Abundance"
+    },
+    {
+        "id": "1058",
+        "name": "Gepard (Complete)"
+    },
+    {
+        "id": "1060",
+        "name": "Entranced Ingenium"
+    },
+    {
+        "id": "1063",
+        "name": "Automaton Grizzly (Complete)"
+    },
+    {
+        "id": "1080",
+        "name": "Abundant Ebon Deer"
+    },
+    {
+        "id": "1081",
+        "name": "Twig of Wintry Wind"
+    },
+    {
+        "id": "1082",
+        "name": "Twig of Marple Leaf"
+    },
+    {
+        "id": "1083",
+        "name": "Twig of Glorious Blooms"
+    },
+    {
+        "id": "1084",
+        "name": "Twig of Lavish Fruits"
+    },
+    {
+        "id": "1085",
+        "name": "Abundant Ebon Deer (Complete)"
+    },
+    {
+        "id": "1090",
+        "name": "Cloud Knight Lieutenant"
+    },
+    {
+        "id": "1091",
+        "name": "Flying Sword"
+    },
+    {
+        "id": "1093",
+        "name": "Phantylia the Undying"
+    },
+    {
+        "id": "1094",
+        "name": "Abundance Lotus"
+    },
+    {
+        "id": "1096",
+        "name": "Destruction Lotus"
+    },
+    {
+        "id": "1099",
+        "name": "Abundance Sprite"
+    },
+    {
+        "id": "1102",
+        "name": "The Ascended"
+    },
+    {
+        "id": "1109",
+        "name": "Swarm"
+    },
+    {
+        "id": "1110",
+        "name": "Juvenile Sting"
+    },
+    {
+        "id": "1111",
+        "name": "Lesser Sting"
+    },
+    {
+        "id": "1112",
+        "name": "Grunt"
+    },
+    {
+        "id": "1114",
+        "name": "Senior Staff"
+    },
+    {
+        "id": "1115",
+        "name": "Wraith Warden"
+    },
+    {
+        "id": "1116",
+        "name": "Mara-Struck Warden"
+    },
+    {
+        "id": "1118",
+        "name": "null"
+    },
+    {
+        "id": "1121",
+        "name": "Aurumaton Gatekeeper (Bug)"
+    },
+    {
+        "id": "1122",
+        "name": "Aurumaton Spectral Envoy"
+    },
+    {
+        "id": "1123",
+        "name": "Argenti"
+    },
+    {
+        "id": "1124",
+        "name": "\"The Honored\""
+    },
+    {
+        "id": "1125",
+        "name": "\"Speartip\""
+    },
+    {
+        "id": "1126",
+        "name": "\"The Shield\""
+    },
+    {
+        "id": "1128",
+        "name": "The Ascended (Bug)"
+    },
+    {
+        "id": "1130",
+        "name": "Dreamjolt Troupe's Bubble Hound"
+    },
+    {
+        "id": "1131",
+        "name": "Aurumaton Spectral Envoy (Bug)"
+    },
+    {
+        "id": "1134",
+        "name": "Dreamjolt Troupe's Mr. Domescreen"
+    },
+    {
+        "id": "1135",
+        "name": "Memory Zone Meme \"Something Unto Death\""
+    },
+    {
+        "id": "1136",
+        "name": "Sombrous Sepulcher"
+    },
+    {
+        "id": "1139",
+        "name": "Starcrusher Swarm King"
+    },
+    {
+        "id": "1140",
+        "name": "Gepard (Illusion)"
+    },
+    {
+        "id": "1141",
+        "name": "Cocolia (Illusion)"
+    },
+    {
+        "id": "1142",
+        "name": "Cocolia, Mother of Deception (Illusion)"
+    },
+    {
+        "id": "1145",
+        "name": "Abundant Ebon Deer (Illusion)"
+    },
+    {
+        "id": "1148",
+        "name": "Argenti (Complete)"
+    },
+    {
+        "id": "1149",
+        "name": "Gnaw Sting"
+    },
+    {
+        "id": "1150",
+        "name": "Ten Stonehearts"
+    },
+    {
+        "id": "1151",
+        "name": "\"All or Nothing\""
+    },
+    {
+        "id": "1152",
+        "name": "Dreamjolt Troupe's Birdskull"
+    },
+    {
+        "id": "1153",
+        "name": "Memory Zone Meme \"Heartbreaker\""
+    },
+    {
+        "id": "1154",
+        "name": "Dreamjolt Troupe's Spring Loader"
+    },
+    {
+        "id": "1155",
+        "name": "Lordly Trashcan"
+    },
+    {
+        "id": "1157",
+        "name": "Memory Zone Meme \"Allseer\""
+    },
+    {
+        "id": "1158",
+        "name": "Dreamjolt Troupe's Sweet Gorilla"
+    },
+    {
+        "id": "1159",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
+        "id": "1161",
+        "name": "Dreamjolt Troupe's Winder Goon"
+    },
+    {
+        "id": "1162",
+        "name": "Memory Zone Meme \"Something In The Mirror\""
+    },
+    {
+        "id": "1163",
+        "name": "Memory Zone Meme \"Shell of Faded Rage\""
+    },
+    {
+        "id": "1164",
+        "name": "Memory Zone Meme \"Something Unto Death\" (Complete)"
+    },
+    {
+        "id": "1165",
+        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+    },
+    {
+        "id": "1166",
+        "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
+    },
+    {
+        "id": "310010",
+        "name": "Antimatter Legion"
+    },
+    {
+        "id": "310030",
+        "name": "Fragmentum Monster"
+    },
+    {
+        "id": "311031",
+        "name": "Patrol Machine"
+    },
+    {
+        "id": "311061",
+        "name": "Vagrant Thug"
+    },
+    {
+        "id": "312010",
+        "name": "Silvermane Guard"
+    },
+    {
+        "id": "313081",
+        "name": "Dreamjolt Troupe"
+    },
+    {
+        "id": "420042",
+        "name": "Bronya (Illusion)"
+    },
+    {
+        "id": "43103001",
+        "name": "Aether Spirit"
+    },
+    {
+        "id": "80060041",
+        "name": "Abomination Legion"
+    },
+    {
+        "id": "80080021",
+        "name": "IPC Employee"
+    },
+    {
+        "id": "80090024",
+        "name": "Memory Zone Meme"
+    },
+    {
+        "id": "81050011",
+        "name": "True Stings"
+    },
+    {
+        "id": "103012990",
+        "name": "Boss Stone's Lackeys"
+    }
+]

@@ -1,0 +1,67 @@
+.homepage {
+    background: #1B1B1F;
+    height: 100vh
+}
+
+h3.title {
+    padding-top: 10px;
+    color: #9499FF;
+    font-weight: bold;
+    padding-right: 50px;
+    width: 18%;
+    margin-bottom: 0px;
+}
+
+p.title-right {
+    padding-top: 15px;
+    color: #DFDFD6;
+    font-weight: bold;
+    width: 82%;
+    text-align: end;
+    margin-bottom: 0px;
+}
+
+hr {
+    border-top: 1px solid gray;
+}
+p.slidebar {
+    color: white;
+    font-weight: bold;
+
+}
+p.slidebar-option {
+    color: gray;
+    font-weight: bold;
+}
+.slidebar-right {
+    float: right;
+}
+.header-right{
+    color: white;
+    text-align: right;
+}
+.slidebar-home {
+    height: 80vh;
+    padding-right: 50px;
+}
+.true-slidebar{
+    width: 20%;
+    border-right: 1px solid gray;
+}
+.main-content {
+    color: #DFDFD6;
+    width: 80%;
+    margin-left: 20px;
+    display: flex;
+    /* Canh giữa theo chiều ngang */
+    /* justify-content: center;  */
+    /* Canh giữa theo chiều dọc */
+    /* align-items: center;  */
+}
+
+.slidebar-link {
+    color: gray;
+    font-weight: bold;
+}
+
+
