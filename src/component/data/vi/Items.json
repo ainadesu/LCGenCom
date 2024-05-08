@@ -344,8 +344,16 @@
         "name": "Acheron"
     },
     {
+        "id": "1309",
+        "name": "Robin"
+    },
+    {
         "id": "1312",
         "name": "Misha"
+    },
+    {
+        "id": "1315",
+        "name": "Boothill"
     },
     {
         "id": "8001",
@@ -532,8 +540,16 @@
         "name": "Tinh Hồn Acheron"
     },
     {
+        "id": "11309",
+        "name": "Tinh Hồn Của Robin"
+    },
+    {
         "id": "11312",
         "name": "Tinh Hồn Misha"
+    },
+    {
+        "id": "11315",
+        "name": "Tinh Hồn Boothill"
     },
     {
         "id": "18001",
@@ -542,6 +558,10 @@
     {
         "id": "18003",
         "name": "Hình Ảnh \"Bảo Hộ\""
+    },
+    {
+        "id": "18005",
+        "name": "Cái Bóng Của Hòa Hợp"
     },
     {
         "id": "20000",
@@ -804,12 +824,20 @@
         "name": "Buổi Hòa Nhạc Hai Người"
     },
     {
+        "id": "21044",
+        "name": "Vũ Điệu Vô Biên"
+    },
+    {
         "id": "22000",
         "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ"
     },
     {
         "id": "22001",
         "name": "Hi, Tôi Ở Đây"
+    },
+    {
+        "id": "22002",
+        "name": "Vì Hành Trình Ngày Mai"
     },
     {
         "id": "23000",
@@ -910,6 +938,14 @@
     {
         "id": "23024",
         "name": "Bước Theo Bến Bờ Thời Gian"
+    },
+    {
+        "id": "23026",
+        "name": "Sắc Đêm Rực Sáng"
+    },
+    {
+        "id": "23027",
+        "name": "Hướng Đến Sinh Mệnh Thứ Hai"
     },
     {
         "id": "24000",
@@ -1572,6 +1608,18 @@
         "name": "Răng Nanh Trăng Cuồng"
     },
     {
+        "id": "110191",
+        "name": "Viên Đạn Thiên Thạch"
+    },
+    {
+        "id": "110192",
+        "name": "Chết Do Số Trời"
+    },
+    {
+        "id": "110193",
+        "name": "Cú Bắn Nghịch Thời Gian"
+    },
+    {
         "id": "110211",
         "name": "Bụi Sao Phân Tán"
     },
@@ -1680,6 +1728,10 @@
         "name": "Trấn Linh Sắc Phù"
     },
     {
+        "id": "110421",
+        "name": "Thẻ Công Tác IPC"
+    },
+    {
         "id": "110422",
         "name": "Trái Tim Căm Phẫn"
     },
@@ -1706,6 +1758,10 @@
     {
         "id": "110504",
         "name": "Tai Họa Ám Ảnh Trên Hành Tinh Sâu"
+    },
+    {
+        "id": "110505",
+        "name": "Dư Âm Đồng Nguyện"
     },
     {
         "id": "111001",
@@ -1826,6 +1882,10 @@
     {
         "id": "121001",
         "name": "Bùa Hàng Yêu"
+    },
+    {
+        "id": "121002",
+        "name": "Sổ Nguồn Cảm Hứng Đồng Hồ"
     },
     {
         "id": "122000",
@@ -3212,6 +3272,58 @@
         "name": "Mảnh Ghép Xây Mộng Của Người Thiếc"
     },
     {
+        "id": "140477",
+        "name": "Ghi Chép Về Kiến Trúc Sư Xây Mộng"
+    },
+    {
+        "id": "140478",
+        "name": "Tấm Ảnh Trong Hồ Sơ"
+    },
+    {
+        "id": "140479",
+        "name": "Ảnh Nhóm Kiến Trúc Sư Xây Mộng"
+    },
+    {
+        "id": "140483",
+        "name": "Cuộn Phim \"Ngoại Truyện Quý Ngài Soda\""
+    },
+    {
+        "id": "140484",
+        "name": "Cuộn Phim \"Ngoại Truyện Người Anh Em Hanu\""
+    },
+    {
+        "id": "140485",
+        "name": "Cuộn Phim \"Ngoại Truyện Ông Chủ Đá\""
+    },
+    {
+        "id": "140486",
+        "name": "Cuộn Phim \"Ngoại Truyện Chim Giấy\""
+    },
+    {
+        "id": "140487",
+        "name": "Cuộn Phim \"Ngoại Truyện Ông Chủ Gỗ\""
+    },
+    {
+        "id": "140488",
+        "name": "Cuộn Phim \"Ngoại Truyện Kỵ Sĩ Bóng Hamster\""
+    },
+    {
+        "id": "140492",
+        "name": "Vật Thất Lạc Của Ai Đó"
+    },
+    {
+        "id": "140493",
+        "name": "Trái Tim Vỡ Vụn Của Đồng Hồ Câu Đố Lớn-1"
+    },
+    {
+        "id": "140494",
+        "name": "Trái Tim Vỡ Vụn Của Đồng Hồ Câu Đố Lớn-2"
+    },
+    {
+        "id": "140495",
+        "name": "Trái Tim Vỡ Vụn Của Đồng Hồ Câu Đố Lớn-3"
+    },
+    {
         "id": "149957",
         "name": "Ảnh Chụp Cùng March 7th"
     },
@@ -3302,6 +3414,34 @@
     {
         "id": "150039",
         "name": "Ảnh Chụp Chung Của Quán Bar Ác Mộng"
+    },
+    {
+        "id": "150040",
+        "name": "Kem Ốc Quế Mộng Mơ (Ba Mùi)"
+    },
+    {
+        "id": "150041",
+        "name": "Burger Đĩa Bay"
+    },
+    {
+        "id": "150042",
+        "name": "Pizza Đồng Hồ (Cả Cái)"
+    },
+    {
+        "id": "150043",
+        "name": "Kem Khoai Tây Chiên"
+    },
+    {
+        "id": "150044",
+        "name": "Bông Lan Cuộn Gỗ Sồi"
+    },
+    {
+        "id": "150045",
+        "name": "Soda Nho Trắng Sủi Bọt"
+    },
+    {
+        "id": "150046",
+        "name": "SoulGlad Kinh Điển"
     },
     {
         "id": "180001",
@@ -5112,6 +5252,10 @@
         "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
     },
     {
+        "id": "190574",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội-Hành Tinh Lễ Hội"
+    },
+    {
         "id": "190577",
         "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội"
     },
@@ -5182,6 +5326,18 @@
     {
         "id": "190599",
         "name": "\"Khúc Ca Hòa Hợp\", Chương Nhạc 1"
+    },
+    {
+        "id": "190600",
+        "name": "Báo Cáo Điều Tra Người Nhập Cư Trái Phép 1"
+    },
+    {
+        "id": "190601",
+        "name": "Báo Cáo Điều Tra Người Nhập Cư Trái Phép 2"
+    },
+    {
+        "id": "190602",
+        "name": "Hướng Dẫn Bay Ở Penacony"
     },
     {
         "id": "190603",
@@ -5258,6 +5414,114 @@
     {
         "id": "190622",
         "name": "Cuộc Phiêu Lưu Của Hanu Phần 2 - Chương 4"
+    },
+    {
+        "id": "190624",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội - Hành Tinh Lễ Hội"
+    },
+    {
+        "id": "190626",
+        "name": "Bảo Vật Của Ai Đó"
+    },
+    {
+        "id": "190627",
+        "name": "Hướng Dẫn Du Lịch Rạn Đá Ngầm Lưu Mộng <unbreak>19.0</unbreak>"
+    },
+    {
+        "id": "190628",
+        "name": "\"Cậu Bé Đồng Hồ và Đội Trưởng Súng Lục\"-Phần 1"
+    },
+    {
+        "id": "190629",
+        "name": "\"Cậu Bé Đồng Hồ và Đội Trưởng Súng Lục\"-Phần 2"
+    },
+    {
+        "id": "190630",
+        "name": "\"Cậu Bé Đồng Hồ và Đội Trưởng Súng Lục\"-Phần 3"
+    },
+    {
+        "id": "190631",
+        "name": "\"Cuộc Phiêu Lưu Của Hanu\"-Phần 3-Chương 1"
+    },
+    {
+        "id": "190632",
+        "name": "\"Cuộc Phiêu Lưu Của Hanu\"-Phần 3-Chương 2"
+    },
+    {
+        "id": "190634",
+        "name": "Ngoại Truyện Quý Ngài Soda"
+    },
+    {
+        "id": "190635",
+        "name": "Ngoại Truyện Ông Chủ Đá"
+    },
+    {
+        "id": "190636",
+        "name": "Ngoại Truyện Người Anh Em Hanu"
+    },
+    {
+        "id": "190637",
+        "name": "Ngoại Truyện Chim Giấy"
+    },
+    {
+        "id": "190638",
+        "name": "Ngoại Truyện Ông Chủ Gỗ"
+    },
+    {
+        "id": "190639",
+        "name": "Ngoại Truyện Kỵ Sĩ Bóng Hamster"
+    },
+    {
+        "id": "190641",
+        "name": "Sổ Tay Tư Liệu Của Claudia (2)"
+    },
+    {
+        "id": "190642",
+        "name": "Cái Chết Của Quạ"
+    },
+    {
+        "id": "190643",
+        "name": "Câu chuyện SoulGlad"
+    },
+    {
+        "id": "190644",
+        "name": "Kịch Bản \"Đêm Đốt Cháy Giấc Mơ\""
+    },
+    {
+        "id": "190645",
+        "name": "Tổng Hợp Các Trường Hợp Vi Phạm Trong Buổi Tuyển Chọn"
+    },
+    {
+        "id": "190646",
+        "name": "<unbreak>100</unbreak> sự thật về Pepeshi"
+    },
+    {
+        "id": "190647",
+        "name": "\"Chuyện Đêm Ở Quán Bar"
+    },
+    {
+        "id": "190648",
+        "name": "Đường Chưa Chọn 1"
+    },
+    {
+        "id": "190649",
+        "name": "Đường Chưa Chọn 2"
+    },
+    {
+        "id": "190650",
+        "name": "Đường Chưa Chọn 3"
+    },
+    {
+        "id": "190651",
+        "name": "Đường Chưa Chọn 4"
+    },
+    {
+        "id": "190652",
+        "name": "Đường Chưa Chọn 5"
+    },
+    {
+        "id": "190653",
+        "name": "Đường Chưa Chọn 6"
     },
     {
         "id": "191001",
@@ -5484,6 +5748,14 @@
         "name": "Aventurine - Chính Xác"
     },
     {
+        "id": "200121",
+        "name": "Acheron - Phục Kích"
+    },
+    {
+        "id": "200122",
+        "name": "Boothill - Phục Kích"
+    },
+    {
         "id": "202001",
         "name": "Wubbaboo"
     },
@@ -5546,6 +5818,10 @@
     {
         "id": "208003",
         "name": "{NICKNAME} - Bảo Hộ"
+    },
+    {
+        "id": "208005",
+        "name": "{NICKNAME} - Hòa Hợp"
     },
     {
         "id": "210001",
@@ -5844,6 +6120,122 @@
         "name": "\"Công Dân Hanunue\""
     },
     {
+        "id": "210324",
+        "name": "Lao Về Phía Vực Sâu"
+    },
+    {
+        "id": "210325",
+        "name": "Mộng Đẹp Đầu Tiên!"
+    },
+    {
+        "id": "210326",
+        "name": "Hamz Thần Tốc"
+    },
+    {
+        "id": "210327",
+        "name": "Luật Im Lặng"
+    },
+    {
+        "id": "210328",
+        "name": "Sao Bắc Cực"
+    },
+    {
+        "id": "210329",
+        "name": "Trống Rỗng Hoang Vu Là Đại Dương Kia"
+    },
+    {
+        "id": "210330",
+        "name": "Tốc Độ Và Quả Hạch"
+    },
+    {
+        "id": "210331",
+        "name": "Con Đường Của Sói"
+    },
+    {
+        "id": "210332",
+        "name": "Giữ Vững Thân Xác Yếu Đuối Của Tôi"
+    },
+    {
+        "id": "210333",
+        "name": "Bản Giao Hưởng Số 8 - Một Ngàn Mặt Trời"
+    },
+    {
+        "id": "210334",
+        "name": "Hy Vọng Có Lông Vũ Và Đôi Cánh"
+    },
+    {
+        "id": "210335",
+        "name": "Nhiệt Huyết Như Lửa"
+    },
+    {
+        "id": "210336",
+        "name": "Vui Vẻ Tột Cùng"
+    },
+    {
+        "id": "210337",
+        "name": "Luật Pháp Là Quyền Lực Của Tội Lỗi"
+    },
+    {
+        "id": "210338",
+        "name": "Tội Lỗi Là Móc Câu Độc Của Cái Chết"
+    },
+    {
+        "id": "210339",
+        "name": "Thành Phố Dưới Biển"
+    },
+    {
+        "id": "210340",
+        "name": "Biên Niên Sử Biển Sao"
+    },
+    {
+        "id": "210341",
+        "name": "Sự Tu Dưỡng Của Diễn Viên"
+    },
+    {
+        "id": "210342",
+        "name": "Caesar Nhỏ Bé"
+    },
+    {
+        "id": "210343",
+        "name": "Thời Gian Quý Báu"
+    },
+    {
+        "id": "210344",
+        "name": "Đại Lộ Ánh Sao"
+    },
+    {
+        "id": "210345",
+        "name": "Thiên Quang Chiếu Rọi Mãi Mãi"
+    },
+    {
+        "id": "210346",
+        "name": "Hò Reo Vang Tận Mây Xanh"
+    },
+    {
+        "id": "210347",
+        "name": "Triệu Tập Kẻ Ác Để Phán Quyết"
+    },
+    {
+        "id": "210348",
+        "name": "Người Chính Nghĩa Như Cừu Đi Lạc"
+    },
+    {
+        "id": "210349",
+        "name": "Sinh Linh Yên Nghỉ Vĩnh Hằng"
+    },
+    {
+        "id": "210350",
+        "name": "Đung Đưa Theo Nhịp Điệu Ngân Hà"
+    },
+    {
+        "id": "210351",
+        "name": "Hy Vọng Có Lông Vũ Và Đôi Cánh (Khúc Dạo Đầu)"
+    },
+    {
+        "id": "210352",
+        "name": "Bao Nhiêu Buổi Sáng Như Thế Này"
+    },
+    {
         "id": "220000",
         "name": "Nghệ Thuật Ngôn Ngữ"
     },
@@ -5862,6 +6254,10 @@
     {
         "id": "220004",
         "name": "Quán Bar Quái Vật"
+    },
+    {
+        "id": "220005",
+        "name": "Nhật Ký Tìm Mộng Thành Phố Điện Ảnh"
     },
     {
         "id": "221000",
@@ -5894,10 +6290,6 @@
     {
         "id": "223004",
         "name": "Firefly"
-    },
-    {
-        "id": "223006",
-        "name": "Robin"
     },
     {
         "id": "223007",
@@ -5968,6 +6360,10 @@
         "name": "Con Gái"
     },
     {
+        "id": "223060",
+        "name": "Tước Sĩ"
+    },
+    {
         "id": "223080",
         "name": "Bạn Là Ai?"
     },
@@ -6010,10 +6406,6 @@
     {
         "id": "223104",
         "name": "Máy Phun Tiền"
-    },
-    {
-        "id": "223105",
-        "name": "SoulGlad Kinh Điển"
     },
     {
         "id": "223106",
@@ -6320,6 +6712,10 @@
         "name": "Ai Phản Chiếu Trong Gương"
     },
     {
+        "id": "223412",
+        "name": "Hư Vinh Không Thỏa Mãn"
+    },
+    {
         "id": "223430",
         "name": "Lạc Lối (1)"
     },
@@ -6444,12 +6840,24 @@
         "name": "Oti Alfalfa"
     },
     {
+        "id": "223707",
+        "name": "Glaux"
+    },
+    {
         "id": "223708",
         "name": "Hamz"
     },
     {
+        "id": "223709",
+        "name": "Hanunue"
+    },
+    {
         "id": "223710",
         "name": "Lesley Dean"
+    },
+    {
+        "id": "223711",
+        "name": "Anh Hùng Vô Danh"
     },
     {
         "id": "223713",
@@ -6458,6 +6866,10 @@
     {
         "id": "223714",
         "name": "Gopher Wood"
+    },
+    {
+        "id": "223715",
+        "name": "Chim Giấy Ngũ Kiệt"
     },
     {
         "id": "223731",
@@ -6478,6 +6890,158 @@
     {
         "id": "223735",
         "name": "Phương Châm Của Gia Tộc Iris"
+    },
+    {
+        "id": "223800",
+        "name": "Graffiti 1"
+    },
+    {
+        "id": "223801",
+        "name": "Graffiti 2"
+    },
+    {
+        "id": "223802",
+        "name": "Graffiti 3"
+    },
+    {
+        "id": "223803",
+        "name": "Nghỉ Ngơi Bên Đường"
+    },
+    {
+        "id": "223804",
+        "name": "Mũ Phớt Của \"Thợ Đồng Hồ\""
+    },
+    {
+        "id": "223805",
+        "name": "Giấc Ngủ Của Mikhail"
+    },
+    {
+        "id": "223806",
+        "name": "Sự Tồn Tại Của Thần"
+    },
+    {
+        "id": "223807",
+        "name": "Bạn Cũ"
+    },
+    {
+        "id": "223808",
+        "name": "Thành Phố Ngủ Mê"
+    },
+    {
+        "id": "223809",
+        "name": "Hạt Nhân Của Giấc Mơ"
+    },
+    {
+        "id": "223811",
+        "name": "Nhật Ký Lạc Đường - Sĩ Binh"
+    },
+    {
+        "id": "223812",
+        "name": "Nhật Ký Lạc Đường - Vũ Công"
+    },
+    {
+        "id": "223813",
+        "name": "Nhật Ký Lạc Đường - Kẻ Lang Thang"
+    },
+    {
+        "id": "223814",
+        "name": "Nhật Ký Lạc Đường - Phú Ông"
+    },
+    {
+        "id": "223901",
+        "name": "Trường Quay"
+    },
+    {
+        "id": "223902",
+        "name": "Người Đại Diện"
+    },
+    {
+        "id": "223903",
+        "name": "Action!"
+    },
+    {
+        "id": "223904",
+        "name": "Kim Chủ"
+    },
+    {
+        "id": "223905",
+        "name": "Đại Bản Doanh"
+    },
+    {
+        "id": "223906",
+        "name": "Người Khổng Lồ Cô Độc"
+    },
+    {
+        "id": "223907",
+        "name": "Khởi Điểm Của Lễ Hội"
+    },
+    {
+        "id": "223908",
+        "name": "Sự Ra Đời Của Siêu Sao"
+    },
+    {
+        "id": "223911",
+        "name": "Tin Nhắn Tham Gia Của Tộc Hồ Ly"
+    },
+    {
+        "id": "223912",
+        "name": "Tin Nhắn Tham Gia Của Kẻ Ngốc Đeo Mặt Nạ"
+    },
+    {
+        "id": "223913",
+        "name": "Tin Nhắn Tham Gia Của Kỵ Sĩ Đẹp Thuần Khiết"
+    },
+    {
+        "id": "224001",
+        "name": "Thiên Nhãn"
+    },
+    {
+        "id": "224002",
+        "name": "Nghỉ Giải Lao"
+    },
+    {
+        "id": "224003",
+        "name": "Nơi Ánh Sao Hội Tụ"
+    },
+    {
+        "id": "224004",
+        "name": "Danh Sách Tiết Mục"
+    },
+    {
+        "id": "224005",
+        "name": "Vũ Công 1"
+    },
+    {
+        "id": "224006",
+        "name": "Vũ Công 2"
+    },
+    {
+        "id": "224007",
+        "name": "Vũ Công 3"
+    },
+    {
+        "id": "224008",
+        "name": "Tương Lai Trong Hợp Âm Hài Hòa"
+    },
+    {
+        "id": "224009",
+        "name": "Hiện Tại Say Sưa Trong Lễ Hội"
+    },
+    {
+        "id": "224010",
+        "name": "Quá Khứ Bị Nhốt Trong Lồng"
+    },
+    {
+        "id": "224011",
+        "name": "Cảnh Tập Luyện 1"
+    },
+    {
+        "id": "224012",
+        "name": "Cảnh Tập Luyện 2"
+    },
+    {
+        "id": "224013",
+        "name": "Cảnh Tập Luyện 3"
     },
     {
         "id": "250005",
@@ -6928,6 +7492,18 @@
         "name": "Xu Ném Lại"
     },
     {
+        "id": "281019",
+        "name": "Xu Gấu Mèo"
+    },
+    {
+        "id": "281020",
+        "name": "Kinh Nghiệm Đạo Diễn"
+    },
+    {
+        "id": "281021",
+        "name": "Cuộn Phim \"Hồi Ký Mộng Đẹp\""
+    },
+    {
         "id": "300002",
         "name": "Quà Tặng Của Hành Giả Vận Mệnh"
     },
@@ -7272,6 +7848,10 @@
         "name": "Bầu Không Khí Sôi Nổi"
     },
     {
+        "id": "403011",
+        "name": "Hộp Hù Dọa"
+    },
+    {
         "id": "404004",
         "name": "Công Thức"
     },
@@ -7388,6 +7968,22 @@
         "name": "Siro Mộng Đẹp"
     },
     {
+        "id": "408419",
+        "name": "Burger Halovian"
+    },
+    {
+        "id": "408420",
+        "name": "Khối Gỗ Ảo Tưởng"
+    },
+    {
+        "id": "408421",
+        "name": "Con Rối \"Chú Chim Vô Hồn\""
+    },
+    {
+        "id": "408422",
+        "name": "Nước Sousa Chính Gốc"
+    },
+    {
         "id": "408602",
         "name": "Manh Giông Nướng Đá"
     },
@@ -7414,26 +8010,6 @@
     {
         "id": "408608",
         "name": "Viên Miso Sắc Mây"
-    },
-    {
-        "id": "408609",
-        "name": "Burger Đĩa Bay"
-    },
-    {
-        "id": "408610",
-        "name": "Pizza Đồng Hồ (Cả Cái)"
-    },
-    {
-        "id": "408611",
-        "name": "Kem Khoai Tây Chiên"
-    },
-    {
-        "id": "408612",
-        "name": "Bông Lan Cuộn Gỗ Sồi"
-    },
-    {
-        "id": "408613",
-        "name": "Soda Nho Trắng Sủi Bọt"
     },
     {
         "id": "408614",
@@ -7476,8 +8052,20 @@
         "name": "Gia Đình Gấp Giấy"
     },
     {
-        "id": "408801",
-        "name": "Kem Ốc Quế Mộng Mơ (Ba Mùi)"
+        "id": "408624",
+        "name": "Vị Chua Đầy Màu Sắc"
+    },
+    {
+        "id": "408625",
+        "name": "Khối Rubik Không Thể Giải"
+    },
+    {
+        "id": "408626",
+        "name": "Tiếng Gào Thét Khi Dây Đàn Đứt"
+    },
+    {
+        "id": "408627",
+        "name": "Sự Tự Thõa Mãn Thầm Lặng"
     },
     {
         "id": "408802",

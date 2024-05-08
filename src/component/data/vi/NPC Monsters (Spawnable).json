@@ -229,11 +229,19 @@
     },
     {
         "id": "3002010",
-        "name": "null"
+        "name": "Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình"
+    },
+    {
+        "id": "3002020",
+        "name": "Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng"
     },
     {
         "id": "3002030",
         "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
+    },
+    {
+        "id": "3002040",
+        "name": "Đoàn Kịch Ác Mộng - Côn Đồ Dây Cót"
     },
     {
         "id": "3002050",
@@ -256,12 +264,48 @@
         "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ (Bị Lỗi)"
     },
     {
+        "id": "3003030",
+        "name": "\"Quá Khứ Bị Nhốt Trong Lồng\""
+    },
+    {
+        "id": "3003032",
+        "name": "\"Quá Khứ Bị Nhốt Trong Lồng\" (Lỗi)"
+    },
+    {
+        "id": "3003040",
+        "name": "\"Tương Lai Trong Hợp Âm Hài Hòa\""
+    },
+    {
+        "id": "3003041",
+        "name": "Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi"
+    },
+    {
+        "id": "3003042",
+        "name": "\"Tương Lai Trong Hợp Âm Hài Hòa\" (Lỗi)"
+    },
+    {
+        "id": "3003050",
+        "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\""
+    },
+    {
+        "id": "3003052",
+        "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\" (Lỗi)"
+    },
+    {
         "id": "3011010",
         "name": "MemVùng Hồi Ức \"Tầm Mắt Khắp Nơi\""
     },
     {
         "id": "3012010",
         "name": "MemVùng Hồi Ức \"Vật Gì Giấu Trong Gương\""
+    },
+    {
+        "id": "3012020",
+        "name": "MemVùng Hồi Ức \"Tim Tôi Tan Nát\""
+    },
+    {
+        "id": "3012040",
+        "name": "MemVùng Hồi Ức \"Hư Vinh Không Thỏa Mãn\""
     },
     {
         "id": "3013010",
@@ -294,6 +338,10 @@
     {
         "id": "7003030",
         "name": "Hư Ảnh Kẻ Xâm Chiếm"
+    },
+    {
+        "id": "7010011",
+        "name": "null"
     },
     {
         "id": "7032010",

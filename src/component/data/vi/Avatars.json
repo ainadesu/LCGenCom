@@ -180,8 +180,16 @@
         "name": "Acheron"
     },
     {
+        "id": "1309",
+        "name": "Robin"
+    },
+    {
         "id": "1312",
         "name": "Misha"
+    },
+    {
+        "id": "1315",
+        "name": "Boothill"
     },
     {
         "id": "8001",
@@ -197,6 +205,14 @@
     },
     {
         "id": "8004",
+        "name": "{NICKNAME}"
+    },
+    {
+        "id": "8005",
+        "name": "{NICKNAME}"
+    },
+    {
+        "id": "8006",
         "name": "{NICKNAME}"
     }
 ]
