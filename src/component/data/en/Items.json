@@ -344,8 +344,16 @@
         "name": "Acheron"
     },
     {
+        "id": "1309",
+        "name": "Robin"
+    },
+    {
         "id": "1312",
         "name": "Misha"
+    },
+    {
+        "id": "1315",
+        "name": "Boothill"
     },
     {
         "id": "8001",
@@ -532,8 +540,16 @@
         "name": "Acheron's Eidolon"
     },
     {
+        "id": "11309",
+        "name": "Robin's Eidolon"
+    },
+    {
         "id": "11312",
         "name": "Misha's Eidolon"
+    },
+    {
+        "id": "11315",
+        "name": "Boothill's Eidolon"
     },
     {
         "id": "18001",
@@ -542,6 +558,10 @@
     {
         "id": "18003",
         "name": "Shadow of Preservation"
+    },
+    {
+        "id": "18005",
+        "name": "Shadow of Harmony"
     },
     {
         "id": "20000",
@@ -804,12 +824,20 @@
         "name": "Concert for Two"
     },
     {
+        "id": "21044",
+        "name": "Boundless Choreo"
+    },
+    {
         "id": "22000",
         "name": "Before the Tutorial Mission Starts"
     },
     {
         "id": "22001",
         "name": "Hey, Over Here"
+    },
+    {
+        "id": "22002",
+        "name": "For Tomorrow's Journey"
     },
     {
         "id": "23000",
@@ -910,6 +938,14 @@
     {
         "id": "23024",
         "name": "Along the Passing Shore"
+    },
+    {
+        "id": "23026",
+        "name": "Flowing Nightglow"
+    },
+    {
+        "id": "23027",
+        "name": "Sailing Towards a Second Life"
     },
     {
         "id": "24000",
@@ -1572,6 +1608,18 @@
         "name": "Moon Madness Fang"
     },
     {
+        "id": "110191",
+        "name": "Meteoric Bullet"
+    },
+    {
+        "id": "110192",
+        "name": "Destined Expiration"
+    },
+    {
+        "id": "110193",
+        "name": "Countertemporal Shot"
+    },
+    {
         "id": "110211",
         "name": "Scattered Stardust"
     },
@@ -1680,6 +1728,10 @@
         "name": "Suppressing Edict"
     },
     {
+        "id": "110421",
+        "name": "IPC Work Permit"
+    },
+    {
         "id": "110422",
         "name": "Raging Heart"
     },
@@ -1706,6 +1758,10 @@
     {
         "id": "110504",
         "name": "Past Evils of the Borehole Planet Disaster"
+    },
+    {
+        "id": "110505",
+        "name": "Lost Echo of the Shared Wish"
     },
     {
         "id": "111001",
@@ -1826,6 +1882,10 @@
     {
         "id": "121001",
         "name": "Exorcismal Fulu"
+    },
+    {
+        "id": "121002",
+        "name": "Clockwork Inspiration Notebook"
     },
     {
         "id": "122000",
@@ -2369,7 +2429,7 @@
     },
     {
         "id": "140210",
-        "name": "Flash drive with a picture of Pela and her mother"
+        "name": "Floppy disk with a picture of Pela and her mother"
     },
     {
         "id": "140211",
@@ -3172,6 +3232,58 @@
         "name": "Tin Man's Jigsaw Fragment"
     },
     {
+        "id": "140477",
+        "name": "\"The Dreamweaver Archives\""
+    },
+    {
+        "id": "140478",
+        "name": "Photo From the Archives"
+    },
+    {
+        "id": "140479",
+        "name": "Dreamweavers' Group Photo"
+    },
+    {
+        "id": "140483",
+        "name": "<i>Mr. Soda's Extras</i> Film Reel"
+    },
+    {
+        "id": "140484",
+        "name": "<i>Brother Hanu's Extras</i> Film Reel"
+    },
+    {
+        "id": "140485",
+        "name": "<i>Boss Stone's Extras</i> Film Reel"
+    },
+    {
+        "id": "140486",
+        "name": "<i>Origami Bird's Extras</i> Film Reel"
+    },
+    {
+        "id": "140487",
+        "name": "<i>Old Man Wood's Extras</i> Film Reel"
+    },
+    {
+        "id": "140488",
+        "name": "<i>Hamster Ball Knight's Extras</i> Film Reel"
+    },
+    {
+        "id": "140492",
+        "name": "Lost Property"
+    },
+    {
+        "id": "140493",
+        "name": "Big Ticker's Broken Heart (I)"
+    },
+    {
+        "id": "140494",
+        "name": "Big Ticker's Broken Heart (II)"
+    },
+    {
+        "id": "140495",
+        "name": "Big Ticker's Broken Heart (III)"
+    },
+    {
         "id": "149957",
         "name": "Photo With March 7th"
     },
@@ -3262,6 +3374,34 @@
     {
         "id": "150039",
         "name": "Dreamjolt Hostelry Group Photo"
+    },
+    {
+        "id": "150040",
+        "name": "Dreamy Cone (Three Flavors)"
+    },
+    {
+        "id": "150041",
+        "name": "Floatdisc Burger"
+    },
+    {
+        "id": "150042",
+        "name": "Clockie Pizza (Whole)"
+    },
+    {
+        "id": "150043",
+        "name": "Potato Fries Sundae"
+    },
+    {
+        "id": "150044",
+        "name": "Oak Cake Rolls"
+    },
+    {
+        "id": "150045",
+        "name": "Pika White Grape Soda"
+    },
+    {
+        "id": "150046",
+        "name": "Classic SoulGlad"
     },
     {
         "id": "180001",
@@ -3989,7 +4129,7 @@
     },
     {
         "id": "190258",
-        "name": "The startaro bubble tea tastes horrible."
+        "name": "The Startaro Bubble Tea Tastes Horrible"
     },
     {
         "id": "190259",
@@ -4757,7 +4897,7 @@
     },
     {
         "id": "190519",
-        "name": "Foxian Drum Chanting <i>Lament of the Six Follies</i>"
+        "name": "Foxian Drum Chant <i>Lament of the Six Follies</i>"
     },
     {
         "id": "190520",
@@ -4948,6 +5088,10 @@
         "name": "Planet of Festivities Collectible Card — Planet of Festivities"
     },
     {
+        "id": "190575",
+        "name": "Planet of Festivities Collectible Card - Planet of Festivities"
+    },
+    {
         "id": "190577",
         "name": "Planet of Festivities Collectible Card — The Planet of Festivities"
     },
@@ -5020,6 +5164,18 @@
         "name": "<i>Odes of Harmony</i>, First Movement"
     },
     {
+        "id": "190600",
+        "name": "Stowaway Investigative Report Part 1"
+    },
+    {
+        "id": "190601",
+        "name": "Stowaway Investigative Report Part 2"
+    },
+    {
+        "id": "190602",
+        "name": "Penacony Flight Guide"
+    },
+    {
         "id": "190603",
         "name": "Comments on <i>Scorchsand Adventure</i>"
     },
@@ -5090,6 +5246,114 @@
     {
         "id": "190622",
         "name": "<i>Hanu's Adventure</i> Part 2, Chapter 4"
+    },
+    {
+        "id": "190626",
+        "name": "Someone's Treasure"
+    },
+    {
+        "id": "190627",
+        "name": "Dreamflux Reef Travel Guide <unbreak>19.0</unbreak>"
+    },
+    {
+        "id": "190628",
+        "name": "<i>Clockie and Captain Revolver</i> Part 1"
+    },
+    {
+        "id": "190629",
+        "name": "<i>Clockie and Captain Revolver</i> Part 2"
+    },
+    {
+        "id": "190630",
+        "name": "<i>Clockie and Captain Revolver</i> Part 3"
+    },
+    {
+        "id": "190631",
+        "name": "<i>Hanu's Adventure</i> Part 3, Chapter 1"
+    },
+    {
+        "id": "190632",
+        "name": "<i>Hanu's Adventure</i> Part 3, Chapter 2"
+    },
+    {
+        "id": "190634",
+        "name": "<i>Mr. Soda's Extras</i>"
+    },
+    {
+        "id": "190635",
+        "name": "<i>Boss Stone's Extras</i>"
+    },
+    {
+        "id": "190636",
+        "name": "<i>Brother Hanu's Extras</i>"
+    },
+    {
+        "id": "190637",
+        "name": "<i>Origami Bird's Extras</i>"
+    },
+    {
+        "id": "190638",
+        "name": "<i>Old Man Wood's Extras</i>"
+    },
+    {
+        "id": "190639",
+        "name": "<i>Hamster Ball Knight's Extras</i>"
+    },
+    {
+        "id": "190640",
+        "name": "<i>The Dreamweaver Archives</i>"
+    },
+    {
+        "id": "190641",
+        "name": "Claudia's Gathered Clues (II)"
+    },
+    {
+        "id": "190642",
+        "name": "Death of the Crow"
+    },
+    {
+        "id": "190643",
+        "name": "The Story of SoulGlad"
+    },
+    {
+        "id": "190644",
+        "name": "<i>Night of Burning Dreams</i> Script"
+    },
+    {
+        "id": "190645",
+        "name": "Collection of Audition Violation Cases"
+    },
+    {
+        "id": "190646",
+        "name": "A Hundred Truths about the Pepeshi"
+    },
+    {
+        "id": "190647",
+        "name": "<i>Evening Tavern Stories"
+    },
+    {
+        "id": "190648",
+        "name": "The Unchosen Path (Part 1)"
+    },
+    {
+        "id": "190649",
+        "name": "The Unchosen Path (Part 2)"
+    },
+    {
+        "id": "190650",
+        "name": "The Unchosen Path (Part 3)"
+    },
+    {
+        "id": "190651",
+        "name": "The Unchosen Path (Part 4)"
+    },
+    {
+        "id": "190652",
+        "name": "The Unchosen Path (Part 5)"
+    },
+    {
+        "id": "190653",
+        "name": "The Unchosen Path (Part 6)"
     },
     {
         "id": "191001",
@@ -5577,35 +5841,151 @@
     },
     {
         "id": "210316",
-        "name": "City Upon a Hill"
+        "name": "\"City Upon a Hill\""
     },
     {
         "id": "210317",
-        "name": "Spellbound"
+        "name": "\"Spellbound\""
     },
     {
         "id": "210318",
-        "name": "Hi, Dolly!"
+        "name": "\"Hi, Dolly!\""
     },
     {
         "id": "210319",
-        "name": "The Midnight Special"
+        "name": "\"The Midnight Special\""
     },
     {
         "id": "210320",
-        "name": "If One Wakes at Midnight"
+        "name": "\"If One Wakes at Midnight\""
     },
     {
         "id": "210321",
-        "name": "Stranger Than Paradise"
+        "name": "\"Stranger Than Paradise\""
     },
     {
         "id": "210322",
-        "name": "On The Disintegration of Evermemoria"
+        "name": "\"On The Disintegration of Evermemoria\""
     },
     {
         "id": "210323",
-        "name": "Citizen Hanunue"
+        "name": "\"Citizen Hanunue\""
+    },
+    {
+        "id": "210324",
+        "name": "\"Into the Yawning Chasm\""
+    },
+    {
+        "id": "210325",
+        "name": "\"Dream First!\""
+    },
+    {
+        "id": "210326",
+        "name": "\"Speedy Hamz\""
+    },
+    {
+        "id": "210327",
+        "name": "\"Omertà\""
+    },
+    {
+        "id": "210328",
+        "name": "\"Polaris\""
+    },
+    {
+        "id": "210329",
+        "name": "\"Oed' und leer das Meer\""
+    },
+    {
+        "id": "210330",
+        "name": "\"Fast & Furynuts\""
+    },
+    {
+        "id": "210331",
+        "name": "\"Way of the Wolf\""
+    },
+    {
+        "id": "210332",
+        "name": "\"Infirma Nostri Corporis\""
+    },
+    {
+        "id": "210333",
+        "name": "\"Symphony No. 8 'A Thousand Suns'\""
+    },
+    {
+        "id": "210334",
+        "name": "<i>Hope Is the Thing With Feathers</i>"
+    },
+    {
+        "id": "210335",
+        "name": "\"Some Like It Hot\""
+    },
+    {
+        "id": "210336",
+        "name": "\"No Business Like Show Business\""
+    },
+    {
+        "id": "210337",
+        "name": "\"The Strength of Sin Is the Law\""
+    },
+    {
+        "id": "210338",
+        "name": "\"The Sting of Death Is Sin\""
+    },
+    {
+        "id": "210339",
+        "name": "\"The City in the Sea\""
+    },
+    {
+        "id": "210340",
+        "name": "\"A Star Is Born\""
+    },
+    {
+        "id": "210341",
+        "name": "\"An Actor Prepares\""
+    },
+    {
+        "id": "210342",
+        "name": "\"Little Little Caesar\""
+    },
+    {
+        "id": "210343",
+        "name": "\"Nobility of Time\""
+    },
+    {
+        "id": "210344",
+        "name": "\"Walk of Fame\""
+    },
+    {
+        "id": "210345",
+        "name": "\"Lux Aeterna\""
+    },
+    {
+        "id": "210346",
+        "name": "\"Hosanna in Excelsis\""
+    },
+    {
+        "id": "210347",
+        "name": "\"Confutatis\""
+    },
+    {
+        "id": "210348",
+        "name": "\"Agnus Aeon\""
+    },
+    {
+        "id": "210349",
+        "name": "\"Requiem Aeternam\""
+    },
+    {
+        "id": "210350",
+        "name": "\"Sway to My Beat in Cosmos\""
+    },
+    {
+        "id": "210351",
+        "name": "\"Hope Is the Thing With Feathers (Overture)\""
+    },
+    {
+        "id": "210352",
+        "name": "\"Morns Like These\""
     },
     {
         "id": "220000",
@@ -5626,6 +6006,10 @@
     {
         "id": "220004",
         "name": "Monster Tavern"
+    },
+    {
+        "id": "220005",
+        "name": "Cinematic Dreamchase"
     },
     {
         "id": "221000",
@@ -5658,10 +6042,6 @@
     {
         "id": "223004",
         "name": "Firefly"
-    },
-    {
-        "id": "223006",
-        "name": "Robin"
     },
     {
         "id": "223007",
@@ -5732,6 +6112,10 @@
         "name": "Daughter"
     },
     {
+        "id": "223060",
+        "name": "Jazz"
+    },
+    {
         "id": "223080",
         "name": "Who is this?"
     },
@@ -5776,16 +6160,8 @@
         "name": "Cash-Spewer"
     },
     {
-        "id": "223105",
-        "name": "Classic SoulGlad"
-    },
-    {
         "id": "223106",
         "name": "Golden Times"
-    },
-    {
-        "id": "223107",
-        "name": "Floatdisc Burger"
     },
     {
         "id": "223108",
@@ -6084,6 +6460,10 @@
         "name": "Mirrored Who"
     },
     {
+        "id": "223412",
+        "name": "Insatiable Vanity"
+    },
+    {
         "id": "223430",
         "name": "Lost (I)"
     },
@@ -6208,12 +6588,24 @@
         "name": "Oti Alfalfa"
     },
     {
+        "id": "223707",
+        "name": "Glaux"
+    },
+    {
         "id": "223708",
         "name": "Hamz"
     },
     {
+        "id": "223709",
+        "name": "Hanunue"
+    },
+    {
         "id": "223710",
         "name": "Lesley Dean"
+    },
+    {
+        "id": "223711",
+        "name": "Nameless Hero"
     },
     {
         "id": "223713",
@@ -6222,6 +6614,10 @@
     {
         "id": "223714",
         "name": "Gopher Wood"
+    },
+    {
+        "id": "223715",
+        "name": "Famous Five Origamists"
     },
     {
         "id": "223731",
@@ -6242,6 +6638,146 @@
     {
         "id": "223735",
         "name": "Iris Family Teachings"
+    },
+    {
+        "id": "223800",
+        "name": "Graffiti 1"
+    },
+    {
+        "id": "223801",
+        "name": "Graffiti 2"
+    },
+    {
+        "id": "223802",
+        "name": "Graffiti 3"
+    },
+    {
+        "id": "223803",
+        "name": "Streetside Repose"
+    },
+    {
+        "id": "223804",
+        "name": "Watchmaker's Hat"
+    },
+    {
+        "id": "223805",
+        "name": "Mikhail's Slumber"
+    },
+    {
+        "id": "223806",
+        "name": "The Existence of God"
+    },
+    {
+        "id": "223807",
+        "name": "Old Friend"
+    },
+    {
+        "id": "223808",
+        "name": "Slumbertown"
+    },
+    {
+        "id": "223809",
+        "name": "The Essense of Dreams"
+    },
+    {
+        "id": "223811",
+        "name": "Lost Diary"
+    },
+    {
+        "id": "223901",
+        "name": "On Set"
+    },
+    {
+        "id": "223902",
+        "name": "Brand Ambassador"
+    },
+    {
+        "id": "223903",
+        "name": "Action!"
+    },
+    {
+        "id": "223904",
+        "name": "Sponsor"
+    },
+    {
+        "id": "223905",
+        "name": "Base Camp"
+    },
+    {
+        "id": "223906",
+        "name": "Lonely Giant"
+    },
+    {
+        "id": "223907",
+        "name": "Festival's Starting Point"
+    },
+    {
+        "id": "223908",
+        "name": "The Birth of a Superstar"
+    },
+    {
+        "id": "223911",
+        "name": "Foxian Contestant's Note"
+    },
+    {
+        "id": "223912",
+        "name": "Masked Fool Contestant's Note"
+    },
+    {
+        "id": "223913",
+        "name": "Knight of Beauty Contestant's Note"
+    },
+    {
+        "id": "224001",
+        "name": "All-Seeing Eye"
+    },
+    {
+        "id": "224002",
+        "name": "Intermission"
+    },
+    {
+        "id": "224003",
+        "name": "Where Starlight Congregate"
+    },
+    {
+        "id": "224004",
+        "name": "Program List"
+    },
+    {
+        "id": "224005",
+        "name": "Dancer 1"
+    },
+    {
+        "id": "224006",
+        "name": "Dancer 2"
+    },
+    {
+        "id": "224007",
+        "name": "Dancer 3"
+    },
+    {
+        "id": "224008",
+        "name": "Tomorrow in Harmonious Chords"
+    },
+    {
+        "id": "224009",
+        "name": "Present Inebriated in Revelry"
+    },
+    {
+        "id": "224010",
+        "name": "Past Confined and Caged"
+    },
+    {
+        "id": "224011",
+        "name": "Dress Rehearsal (I)"
+    },
+    {
+        "id": "224012",
+        "name": "Dress Rehearsal (II)"
+    },
+    {
+        "id": "224013",
+        "name": "Dress Rehearsal (III)"
     },
     {
         "id": "250005",
@@ -6680,6 +7216,18 @@
         "name": "Reroll Coin"
     },
     {
+        "id": "281019",
+        "name": "Raccoon Tokens"
+    },
+    {
+        "id": "281020",
+        "name": "Directorial Experience"
+    },
+    {
+        "id": "281021",
+        "name": "<i>Dreamjoy Memoir</i> Film Reel"
+    },
+    {
         "id": "300002",
         "name": "Gift of the Pathstriders"
     },
@@ -6992,6 +7540,10 @@
         "name": "Bustling Ambience"
     },
     {
+        "id": "403011",
+        "name": "Scare Box"
+    },
+    {
         "id": "408001",
         "name": "Trash"
     },
@@ -7100,6 +7652,22 @@
         "name": "Dream Syrup"
     },
     {
+        "id": "408419",
+        "name": "Halovian Winged Burger"
+    },
+    {
+        "id": "408420",
+        "name": "Delusion Blocks"
+    },
+    {
+        "id": "408421",
+        "name": "\"Hollow Bird\" Toy"
+    },
+    {
+        "id": "408422",
+        "name": "Authentic Sousa Juice"
+    },
+    {
         "id": "408602",
         "name": "Stone-Grilled Olm"
     },
@@ -7126,22 +7694,6 @@
     {
         "id": "408608",
         "name": "Izumo Miso"
-    },
-    {
-        "id": "408610",
-        "name": "Clockie Pizza (Whole)"
-    },
-    {
-        "id": "408611",
-        "name": "Potato Fries Sundae"
-    },
-    {
-        "id": "408612",
-        "name": "Oak Cake Rolls"
-    },
-    {
-        "id": "408613",
-        "name": "Pika White Grape Soda"
     },
     {
         "id": "408614",
@@ -7184,8 +7736,20 @@
         "name": "Origami Family Bucket"
     },
     {
-        "id": "408801",
-        "name": "Dreamy Cone (Three Flavors)"
+        "id": "408624",
+        "name": "Polychromatic Sourness"
+    },
+    {
+        "id": "408625",
+        "name": "Unsolvable Cube"
+    },
+    {
+        "id": "408626",
+        "name": "Broken String's Roar"
+    },
+    {
+        "id": "408627",
+        "name": "Soundless Satisfaction"
     },
     {
         "id": "408802",

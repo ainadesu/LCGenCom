@@ -260,12 +260,20 @@
     "name": "Concert for Two"
   },
   {
+    "id": "21044",
+    "name": "Boundless Choreo"
+  },
+  {
     "id": "22000",
     "name": "Before the Tutorial Mission Starts"
   },
   {
     "id": "22001",
     "name": "Hey, Over Here"
+  },
+  {
+    "id": "22002",
+    "name": "For Tomorrow's Journey"
   },
   {
     "id": "23000",
@@ -366,6 +374,14 @@
   {
     "id": "23024",
     "name": "Along the Passing Shore"
+  },
+  {
+    "id": "23026",
+    "name": "Flowing Nightglow"
+  },
+  {
+    "id": "23027",
+    "name": "Sailing Towards a Second Life"
   },
   {
     "id": "24000",

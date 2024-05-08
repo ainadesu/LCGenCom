@@ -185,11 +185,19 @@
     },
     {
         "id": "3002010",
-        "name": "null"
+        "name": "Dreamjolt Troupe's Mr. Domescreen"
+    },
+    {
+        "id": "3002020",
+        "name": "Dreamjolt Troupe's FortunSeller"
     },
     {
         "id": "3002030",
         "name": "Dreamjolt Troupe's BubblHound"
+    },
+    {
+        "id": "3002040",
+        "name": "Dreamjolt Troupe's Winder Goon"
     },
     {
         "id": "3002050",
@@ -212,12 +220,48 @@
         "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
     },
     {
+        "id": "3003030",
+        "name": "\"Past Confined and Caged\""
+    },
+    {
+        "id": "3003032",
+        "name": "\"Past Confined and Caged\" (Bug)"
+    },
+    {
+        "id": "3003040",
+        "name": "\"Tomorrow in Harmonious Chords\""
+    },
+    {
+        "id": "3003041",
+        "name": "ThPast, Present, and Eternal Show"
+    },
+    {
+        "id": "3003042",
+        "name": "\"Tomorrow in Harmonious Chords\" (Bug)"
+    },
+    {
+        "id": "3003050",
+        "name": "\"Present Inebriated in Revelry\""
+    },
+    {
+        "id": "3003052",
+        "name": "\"Present Inebriated in Revelry\" (Bug)"
+    },
+    {
         "id": "3011010",
         "name": "Memory ZonMeme \"Allseer\""
     },
     {
         "id": "3012010",
         "name": "Memory ZonMeme \"Something In The Mirror\""
+    },
+    {
+        "id": "3012020",
+        "name": "Memory ZonMeme \"Heartbreaker\""
+    },
+    {
+        "id": "3012040",
+        "name": "Memory ZonMeme \"Insatiable Vanity\""
     },
     {
         "id": "3013010",
@@ -246,6 +290,10 @@
     {
         "id": "7003030",
         "name": "Decaying Shadow"
+    },
+    {
+        "id": "7010011",
+        "name": "null"
     },
     {
         "id": "7032010",
