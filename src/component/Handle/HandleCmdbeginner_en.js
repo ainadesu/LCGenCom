@@ -26,7 +26,7 @@ function HandleCmdbeginner_en() {
     '1' : '/setlevel 70',
     '2' : '/worldlevel 6',
     '3': '/giveall avatars lv80 r6 s10',
-    '4': '/giveall lighcones lv80 r5',
+    '4': '/giveall lightcones lv80 r5',
     '5': '/give 1 x1000000',
     '6':'/give 3 x1000000',
     '7': '/give 101 x1000000',
