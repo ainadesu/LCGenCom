@@ -125,7 +125,7 @@
     },
     {
         "id": "175",
-        "name": "Voidranger"
+        "name": "Voidranger: Trampler (Bug)"
     },
     {
         "id": "176",
@@ -134,6 +134,10 @@
     {
         "id": "184",
         "name": "Guardian Shadow"
+    },
+    {
+        "id": "186",
+        "name": "Voidranger: Trampler"
     },
     {
         "id": "187",
@@ -154,6 +158,14 @@
     {
         "id": "1026",
         "name": "Antibaryon"
+    },
+    {
+        "id": "1027",
+        "name": "Voidranger: Reaver"
+    },
+    {
+        "id": "1028",
+        "name": "Voidranger: Distorter"
     },
     {
         "id": "1030",
@@ -178,6 +190,10 @@
     {
         "id": "1036",
         "name": "Dawn's Left Hand"
+    },
+    {
+        "id": "1037",
+        "name": "Voidranger: Eliminator"
     },
     {
         "id": "1038",
@@ -213,7 +229,7 @@
     },
     {
         "id": "1049",
-        "name": "Stellaron Hunter"
+        "name": "Stellaron Hunter: Kafka"
     },
     {
         "id": "1050",
@@ -225,7 +241,7 @@
     },
     {
         "id": "1052",
-        "name": "Disciples of Sanctus Medicus"
+        "name": "Disciples of Sanctus Medicus: Shape Shifter"
     },
     {
         "id": "1053",
@@ -252,12 +268,28 @@
         "name": "Gepard (Complete)"
     },
     {
+        "id": "1059",
+        "name": "Stellaron Hunter: Kafka (Complete)"
+    },
+    {
         "id": "1060",
-        "name": "Entranced Ingenium"
+        "name": "Entranced Ingenium: Illumination Dragonfish"
+    },
+    {
+        "id": "1061",
+        "name": "Entranced Ingenium: Obedient Dracolion"
+    },
+    {
+        "id": "1062",
+        "name": "Entranced Ingenium: Golden Cloud Toad"
     },
     {
         "id": "1063",
         "name": "Automaton Grizzly (Complete)"
+    },
+    {
+        "id": "1079",
+        "name": "Disciples of Sanctus Medicus: Internal Alchemist"
     },
     {
         "id": "1080",
@@ -285,7 +317,7 @@
     },
     {
         "id": "1090",
-        "name": "Cloud Knight Lieutenant"
+        "name": "Cloud Knight Lieutenant: Yanqing"
     },
     {
         "id": "1091",
@@ -305,15 +337,27 @@
     },
     {
         "id": "1099",
-        "name": "Abundance Sprite"
+        "name": "Abundance Sprite: Golden Hound"
+    },
+    {
+        "id": "1100",
+        "name": "Abundance Sprite: Wooden Lupus"
+    },
+    {
+        "id": "1101",
+        "name": "Abundance Sprite: Malefic Ape"
     },
     {
         "id": "1102",
         "name": "The Ascended"
     },
     {
+        "id": "1103",
+        "name": "Disciples of Sanctus Medicus: Ballistarius"
+    },
+    {
         "id": "1109",
-        "name": "Swarm"
+        "name": "Swarm: True Sting (Complete)"
     },
     {
         "id": "1110",
@@ -325,11 +369,15 @@
     },
     {
         "id": "1112",
-        "name": "Grunt"
+        "name": "Grunt: Field Personnel"
+    },
+    {
+        "id": "1113",
+        "name": "Grunt: Security Personnel"
     },
     {
         "id": "1114",
-        "name": "Senior Staff"
+        "name": "Senior Staff: Team Leader"
     },
     {
         "id": "1115",
@@ -340,8 +388,16 @@
         "name": "Mara-Struck Warden"
     },
     {
+        "id": "1117",
+        "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
+    },
+    {
         "id": "1118",
         "name": "null"
+    },
+    {
+        "id": "1120",
+        "name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
     },
     {
         "id": "1121",
@@ -368,8 +424,16 @@
         "name": "\"The Shield\""
     },
     {
+        "id": "1127",
+        "name": "Abundance Sprite: Malefic Ape (Bug)"
+    },
+    {
         "id": "1128",
         "name": "The Ascended (Bug)"
+    },
+    {
+        "id": "1129",
+        "name": "Swarm: True Sting"
     },
     {
         "id": "1130",
@@ -378,6 +442,10 @@
     {
         "id": "1131",
         "name": "Aurumaton Spectral Envoy (Bug)"
+    },
+    {
+        "id": "1133",
+        "name": "Senior Staff: Team Leader (Bug)"
     },
     {
         "id": "1134",
@@ -393,7 +461,7 @@
     },
     {
         "id": "1139",
-        "name": "Starcrusher Swarm King"
+        "name": "Starcrusher Swarm King: Skaracabaz (Synthetic)"
     },
     {
         "id": "1140",
@@ -408,8 +476,16 @@
         "name": "Cocolia, Mother of Deception (Illusion)"
     },
     {
+        "id": "1144",
+        "name": "Cloud Knight Lieutenant: Yanqing (Illusion)"
+    },
+    {
         "id": "1145",
         "name": "Abundant Ebon Deer (Illusion)"
+    },
+    {
+        "id": "1146",
+        "name": "Stellaron Hunter: Kafka (Illusion)"
     },
     {
         "id": "1148",
@@ -421,7 +497,7 @@
     },
     {
         "id": "1150",
-        "name": "Ten Stonehearts"
+        "name": "Ten Stonehearts: Aventurine of Stratagems"
     },
     {
         "id": "1151",
@@ -454,6 +530,10 @@
     {
         "id": "1159",
         "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
+        "id": "1160",
+        "name": "Stellaron Hunter: Sam"
     },
     {
         "id": "1161",
