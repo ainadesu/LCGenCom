@@ -113,31 +113,15 @@
     },
     {
         "id": "2004010",
-        "name": "Stellaron Hunter: Kafka"
-    },
-    {
-        "id": "2004011",
-        "name": "Stellaron Hunter: Kafka (Complete)"
+        "name": "Stellaron Hunter"
     },
     {
         "id": "2004020",
-        "name": "Cloud Knight Lieutenant: Yanqing"
-    },
-    {
-        "id": "2004021",
-        "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
+        "name": "Cloud Knight Lieutenant"
     },
     {
         "id": "2011010",
-        "name": "Entranced Ingenium: Obedient Dracolion"
-    },
-    {
-        "id": "2011020",
-        "name": "Entranced Ingenium: Golden Cloud Toad"
-    },
-    {
-        "id": "2012010",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
+        "name": "Entranced Ingenium"
     },
     {
         "id": "2013010",
@@ -161,39 +145,15 @@
     },
     {
         "id": "2022020",
-        "name": "Disciples of Sanctus Medicus: InternaAlchemist"
+        "name": "Disciples of Sanctus Medicus"
     },
     {
         "id": "2022040",
-        "name": "AbundancSprite: Golden Hound"
-    },
-    {
-        "id": "2022050",
-        "name": "AbundancSprite: Wooden Lupus"
-    },
-    {
-        "id": "2022060",
-        "name": "Disciples of Sanctus Medicus: Ballistarius"
+        "name": "AbundancSprite"
     },
     {
         "id": "2022110",
         "name": "Mara-Struck Warden"
-    },
-    {
-        "id": "2023010",
-        "name": "Disciples of Sanctus Medicus: ShapShifter"
-    },
-    {
-        "id": "2023012",
-        "name": "Disciples of Sanctus Medicus: ShapShifter (Bug)"
-    },
-    {
-        "id": "2023020",
-        "name": "AbundancSprite: Malefic Ape"
-    },
-    {
-        "id": "2023022",
-        "name": "AbundancSprite: Malefic Ape (Bug)"
     },
     {
         "id": "2023030",
@@ -324,10 +284,6 @@
         "name": "Argenti (Complete)"
     },
     {
-        "id": "3024020",
-        "name": "Stellaron Hunter: Sam"
-    },
-    {
         "id": "7002010",
         "name": "Imaginary Weaver"
     },
@@ -341,11 +297,11 @@
     },
     {
         "id": "7032010",
-        "name": "Grunt: Field Personnel"
+        "name": "Grunt"
     },
     {
         "id": "7033010",
-        "name": "Senior Staff: Team Leader"
+        "name": "Senior Staff"
     },
     {
         "id": "8001010",
@@ -437,23 +393,7 @@
     },
     {
         "id": "8012010",
-        "name": "Voidranger: Reaver"
-    },
-    {
-        "id": "8012020",
-        "name": "Voidranger: Distorter"
-    },
-    {
-        "id": "8012030",
-        "name": "Voidranger: Eliminator"
-    },
-    {
-        "id": "8013010",
-        "name": "Voidranger: Trampler"
-    },
-    {
-        "id": "8013013",
-        "name": "Voidranger: Trampler (Bug)"
+        "name": "Voidranger"
     },
     {
         "id": "8022010",
@@ -461,22 +401,10 @@
     },
     {
         "id": "8024010",
-        "name": "Swarm: TruSting (Complete)"
-    },
-    {
-        "id": "8024011",
-        "name": "Swarm: TruSting"
-    },
-    {
-        "id": "8032020",
-        "name": "Grunt: Security Personnel"
-    },
-    {
-        "id": "8033011",
-        "name": "Senior Staff: Team Leader (Bug)"
+        "name": "Swarm"
     },
     {
         "id": "8034010",
-        "name": "Ten Stonehearts: Aventurinof Stratagems"
+        "name": "Ten Stonehearts"
     }
 ]
