@@ -101,6 +101,8 @@ function HandleScene_en () {
           />
       </div><br/>
       <h2 className='final-command'>Lệnh</h2> */}
+      <br />
+      <h2 className="final-command">Command</h2>
       {selectedOption && (
         <input 
           type="text"
