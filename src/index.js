@@ -20,6 +20,8 @@ import ShowItems_en from './component/Items_langEN';
 import ShowScene_en from './component/Scene_langEN';
 import ShowSpawn_en from './component/Spawn_langEN';
 import ShowRelics_en from './component/Relics_langEN';
+import ShowPerfectRelics_en from './component/PerfectRelics_langEN';
+import ShowPerfectRelics_vi from './component/PerfectRelics_langVI';
 
 ReactDOM.render(
   <Router>
@@ -42,6 +44,8 @@ ReactDOM.render(
       <Route path="/lang=en/scene" element={<ShowScene_en />} />
       <Route path="/lang=en/spawn" element={<ShowSpawn_en />} />
       <Route path="/lang=en/relics" element={<ShowRelics_en />} />
+      <Route path="/lang=en/perfectrelics" element={<ShowPerfectRelics_en />} />
+      <Route path="/lang=vi/perfectrelics" element={<ShowPerfectRelics_vi />} />
     </Routes>
   </Router>,
   document.getElementById('root')
