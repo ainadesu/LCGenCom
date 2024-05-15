@@ -89,6 +89,9 @@ function ShowSpawn_en() {
                     <p className='slidebar-option'>
                         <Link to="/lang=en/relics" className='slidebar-link'>Relics</Link>
                     </p>
+                    <p className='slidebar-option'>
+                        <Link to="/lang=en/perfectrelics" className='slidebar-link'>Perfect Relics</Link>
+                    </p>
                     <hr/>
                     <p className='slidebar'>Language</p>
                     <Select

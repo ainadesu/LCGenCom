@@ -89,6 +89,9 @@ function ShowRelics_vi() {
                     <p className='slidebar-option'>
                         <Link to="/lang=vi/relics" className='slidebar-link-on'>Di Vật</Link>
                     </p>
+                    <p className='slidebar-option'>
+                        <Link to="/lang=vi/perfectrelics" className='slidebar-link'>Di Vật Hoàn Hảo</Link>
+                    </p>
                     <hr/>
                     <p className='slidebar'>Ngôn Ngữ</p>
                     <Select
