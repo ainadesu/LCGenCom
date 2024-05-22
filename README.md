@@ -1,4 +1,4 @@
-# Supported Version: 2.2.5 (Beta - EN Only)
+# Supported Version: 2.2.5 (Beta - EN Only - Not Enough But Usable)
 Run the Web by clicking Start.bat file.
 
 Currently supported 2 Languages: Vietnamese and English. Other Languages, coming soon !
