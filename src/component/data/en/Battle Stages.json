@@ -392,10 +392,6 @@
         "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
     },
     {
-        "id": "1118",
-        "name": "null"
-    },
-    {
         "id": "1120",
         "name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
     },
@@ -565,31 +561,7 @@
     },
     {
         "id": "1168",
-        "name": "\"Past Confined and Caged\""
-    },
-    {
-        "id": "1169",
-        "name": "\"Tomorrow in Harmonious Chords\""
-    },
-    {
-        "id": "1170",
-        "name": "\"Present Inebriated in Revelry\""
-    },
-    {
-        "id": "1171",
-        "name": "Memory Zone Meme \"Insatiable Vanity\""
-    },
-    {
-        "id": "1172",
-        "name": "\"Harmonious Choir\" The Great Septimus"
-    },
-    {
-        "id": "1173",
-        "name": "Echo of Faded Dreams"
-    },
-    {
-        "id": "1174",
-        "name": "The Past, Present, and Eternal Show"
+        "name": "null"
     },
     {
         "id": "310010",
@@ -620,6 +592,14 @@
         "name": "Bronya (Illusion)"
     },
     {
+        "id": "420104",
+        "name": "Annihilator of Desolation Mistral"
+    },
+    {
+        "id": "420114",
+        "name": "Silver Knight of Virtuous Gallantry"
+    },
+    {
         "id": "43103001",
         "name": "Aether Spirit"
     },
@@ -638,6 +618,10 @@
     {
         "id": "81050011",
         "name": "True Stings"
+    },
+    {
+        "id": "83005201",
+        "name": "Cirrus"
     },
     {
         "id": "103012990",

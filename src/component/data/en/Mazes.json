@@ -29,11 +29,15 @@
     },
     {
         "id": "10304",
-        "name": "[Town] Dreamflux Reef"
+        "name": "[Town] null"
     },
     {
         "id": "10305",
         "name": "[Town] The Reverie (Reality)"
+    },
+    {
+        "id": "10341",
+        "name": "[Town] null"
     },
     {
         "id": "20001",
@@ -165,11 +169,11 @@
     },
     {
         "id": "20331",
-        "name": "[Maze] SoulGlad™ Scorchsand Audition Venue"
+        "name": "[Maze] null"
     },
     {
         "id": "20332",
-        "name": "[Maze] Penacony Grand Theater"
+        "name": "[Maze] null"
     },
     {
         "id": "30101",
@@ -208,6 +212,10 @@
         "name": "[Challenge] null"
     },
     {
+        "id": "30124",
+        "name": "[Challenge] null"
+    },
+    {
         "id": "30201",
         "name": "[Raid] Cavern of Corrosion"
     },
@@ -233,6 +241,10 @@
     },
     {
         "id": "30521",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30523",
         "name": "[TrialActivity] null"
     },
     {
@@ -488,6 +500,10 @@
         "name": "[Raid] null"
     },
     {
+        "id": "43314",
+        "name": "[Raid] null"
+    },
+    {
         "id": "43321",
         "name": "[Raid] null"
     },
@@ -602,6 +618,42 @@
     {
         "id": "80305",
         "name": "[Rogue] Simulated Universe"
+    },
+    {
+        "id": "80400",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80401",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80402",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80403",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80404",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80405",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80406",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80407",
+        "name": "[Rogue] null"
+    },
+    {
+        "id": "80408",
+        "name": "[Rogue] null"
     },
     {
         "id": "81001",

@@ -264,6 +264,10 @@
     "name": "Boundless Choreo"
   },
   {
+    "id": "21045",
+    "name": "After the Charmony Fall"
+  },
+  {
     "id": "22000",
     "name": "Before the Tutorial Mission Starts"
   },
@@ -376,12 +380,20 @@
     "name": "Along the Passing Shore"
   },
   {
+    "id": "23025",
+    "name": "Whereabouts Should Dreams Rest"
+  },
+  {
     "id": "23026",
     "name": "Flowing Nightglow"
   },
   {
     "id": "23027",
     "name": "Sailing Towards a Second Life"
+  },
+  {
+    "id": "23028",
+    "name": "Yet Hope Is Priceless"
   },
   {
     "id": "24000",
@@ -398,5 +410,9 @@
   {
     "id": "24003",
     "name": "Solitary Healing"
+  },
+  {
+    "id": "24004",
+    "name": "Eternal Calculus"
   }
 ]

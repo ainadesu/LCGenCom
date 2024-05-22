@@ -360,6 +360,46 @@
     "type": "Giày"
   },
   {
+    "id": "61191",
+    "name": "Iron Cavalry's Homing Helm",
+    "type": "Nón"
+  },
+  {
+    "id": "61192",
+    "name": "Iron Cavalry's Crushing Wristguard",
+    "type": "Tay"
+  },
+  {
+    "id": "61193",
+    "name": "Iron Cavalry's Silvery Armor",
+    "type": "Áo"
+  },
+  {
+    "id": "61194",
+    "name": "Iron Cavalry's Silvery Armor",
+    "type": "Giày"
+  },
+  {
+    "id": "61201",
+    "name": "Valorous Mask of Northern Skies",
+    "type": "Nón"
+  },
+  {
+    "id": "61202",
+    "name": "Valorous Bracelet of Grappling Hooks",
+    "type": "Tay"
+  },
+  {
+    "id": "61203",
+    "name": "Valorous Plate of Soaring Flight",
+    "type": "Áo"
+  },
+  {
+    "id": "61204",
+    "name": "Valorous Greaves of Pursuing Hunt",
+    "type": "Giày"
+  },
+  {
     "id": "63015",
     "name": "Herta's Space Station",
     "type": "Cầu"
@@ -497,6 +537,26 @@
   {
     "id": "63146",
     "name": "Izumo's Blades of Origin and End",
+    "type": "Dây"
+  },
+  {
+    "id": "63155",
+    "name": "Duran's Tent of Golden Sky",
+    "type": "Cầu"
+  },
+  {
+    "id": "63156",
+    "name": "Duran's Mechabeast Bridle",
+    "type": "Dây"
+  },
+  {
+    "id": "63165",
+    "name": "Forge's Lotus Lantern Wick",
+    "type": "Cầu"
+  },
+  {
+    "id": "63166",
+    "name": "Forge's Heavenly Flamewheel Silk",
     "type": "Dây"
   }
 ]
