@@ -106,7 +106,7 @@ function HandleSpawn_vi() {
           {selectedOption && (
             <input
               type="text"
-              value={`/spawn 2004021 ${selectedOption.value} lv${level} x${quantity}`}
+              value={`/spawn 2004021 s${selectedOption.value} lv${level} x${quantity}`}
               readOnly
               ref={inputRef3}
               className="copied-command"
