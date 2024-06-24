@@ -109,11 +109,11 @@
     },
     {
         "id": "1004026",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "1004027",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "1004030",
@@ -309,7 +309,7 @@
     },
     {
         "id": "2004024",
-        "name": "null"
+        "name": "Cloud Knight Lieutenant: Yanqing"
     },
     {
         "id": "2011010",
@@ -449,7 +449,7 @@
     },
     {
         "id": "2024015",
-        "name": "null"
+        "name": "Abundant Ebon Deer (Complete)"
     },
     {
         "id": "2024020",
@@ -457,7 +457,7 @@
     },
     {
         "id": "2024021",
-        "name": "null"
+        "name": "Cirrus (Complete)"
     },
     {
         "id": "3001010",
@@ -473,7 +473,7 @@
     },
     {
         "id": "3002020",
-        "name": "null"
+        "name": "Dreamjolt Troupe's Fortune Seller"
     },
     {
         "id": "3002030",
@@ -493,7 +493,7 @@
     },
     {
         "id": "3002052",
-        "name": "null"
+        "name": "Lordly Trashcan"
     },
     {
         "id": "3002089",
@@ -525,59 +525,59 @@
     },
     {
         "id": "3003030",
-        "name": "null"
+        "name": "\"Past Confined and Caged\""
     },
     {
         "id": "3003031",
-        "name": "null"
+        "name": "\"Past Confined and Caged\""
     },
     {
         "id": "3003032",
-        "name": "null"
+        "name": "\"Past Confined and Caged\" (Bug)"
     },
     {
         "id": "3003033",
-        "name": "null"
+        "name": "\"Past Confined and Caged\" (Complete)"
     },
     {
         "id": "3003040",
-        "name": "null"
+        "name": "\"Tomorrow in Harmonious Chords\""
     },
     {
         "id": "3003041",
-        "name": "null"
+        "name": "\"Tomorrow in Harmonious Chords\""
     },
     {
         "id": "3003042",
-        "name": "null"
+        "name": "\"Tomorrow in Harmonious Chords\" (Bug)"
     },
     {
         "id": "3003043",
-        "name": "null"
+        "name": "\"Tomorrow in Harmonious Chords\" (Complete)"
     },
     {
         "id": "3003050",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\""
     },
     {
         "id": "3003051",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\""
     },
     {
         "id": "3003052",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\" (Bug)"
     },
     {
         "id": "3003053",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\" (Complete)"
     },
     {
         "id": "3004010",
-        "name": "null"
+        "name": "The Past, Present, and Eternal Show"
     },
     {
         "id": "3004011",
-        "name": "null"
+        "name": "The Past, Present, and Eternal Show (Complete)"
     },
     {
         "id": "3011010",
@@ -601,7 +601,7 @@
     },
     {
         "id": "3012040",
-        "name": "null"
+        "name": "Memory Zone Meme \"Insatiable Vanity\""
     },
     {
         "id": "3013010",
@@ -625,7 +625,7 @@
     },
     {
         "id": "3014024",
-        "name": "null"
+        "name": "Memory Zone Meme \"Something Unto Death\""
     },
     {
         "id": "3021020",
@@ -637,7 +637,7 @@
     },
     {
         "id": "3021022",
-        "name": "null"
+        "name": "The Honored"
     },
     {
         "id": "3021030",
@@ -649,7 +649,7 @@
     },
     {
         "id": "3021032",
-        "name": "null"
+        "name": "Speartip"
     },
     {
         "id": "3021040",
@@ -661,11 +661,11 @@
     },
     {
         "id": "3021042",
-        "name": "null"
+        "name": "The Shield"
     },
     {
         "id": "3022010",
-        "name": "null"
+        "name": "Echo of Faded Dreams"
     },
     {
         "id": "3024010",
@@ -681,7 +681,7 @@
     },
     {
         "id": "3024013",
-        "name": "null"
+        "name": "Silver Knight of Virtuous Gallantry"
     },
     {
         "id": "3024020",
@@ -693,7 +693,7 @@
     },
     {
         "id": "3024022",
-        "name": "null"
+        "name": "Stellaron Hunter: Sam"
     },
     {
         "id": "3024023",
@@ -701,131 +701,15 @@
     },
     {
         "id": "3025010",
-        "name": "null"
+        "name": "\"Harmonious Choir\" The Great Septimus"
     },
     {
         "id": "3025011",
-        "name": "null"
+        "name": "\"Harmonious Choir\" The Great Septimus"
     },
     {
         "id": "3025012",
-        "name": "null"
-    },
-    {
-        "id": "7001010",
-        "name": "Entranced Ingenium: Obedient Dracolion"
-    },
-    {
-        "id": "7001011",
-        "name": "Voidranger: Reaver"
-    },
-    {
-        "id": "7001012",
-        "name": "Voidranger: Eliminator"
-    },
-    {
-        "id": "7001013",
-        "name": "Commerce Trotter"
-    },
-    {
-        "id": "7002010",
-        "name": "Abundance Sprite: Wooden Lupus"
-    },
-    {
-        "id": "7002011",
-        "name": "Shadow Jackhyena"
-    },
-    {
-        "id": "7002020",
-        "name": "Vagrant"
-    },
-    {
-        "id": "7002030",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "7002040",
-        "name": "null"
-    },
-    {
-        "id": "7002050",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
-    },
-    {
-        "id": "7002060",
-        "name": "Silvermane Cannoneer"
-    },
-    {
-        "id": "7002070",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "7002080",
-        "name": "Silvermane Gunner"
-    },
-    {
-        "id": "7002090",
-        "name": "Silvermane Soldier"
-    },
-    {
-        "id": "7002100",
-        "name": "Automaton Spider"
-    },
-    {
-        "id": "7002110",
-        "name": "Automaton Spider"
-    },
-    {
-        "id": "7002120",
-        "name": "Grunt: Field Personnel"
-    },
-    {
-        "id": "7002130",
-        "name": "Grunt: Security Personnel"
-    },
-    {
-        "id": "7002140",
-        "name": "Everwinter Shadewalker"
-    },
-    {
-        "id": "7003010",
-        "name": "Blaze Out of Space"
-    },
-    {
-        "id": "7003020",
-        "name": "Aurumaton Gatekeeper"
-    },
-    {
-        "id": "7003030",
-        "name": "Silvermane Lieutenant"
-    },
-    {
-        "id": "7003040",
-        "name": "Voidranger: Trampler"
-    },
-    {
-        "id": "7003050",
-        "name": "null"
-    },
-    {
-        "id": "7003060",
-        "name": "Frigid Prowler"
-    },
-    {
-        "id": "7003070",
-        "name": "Automaton Direwolf"
-    },
-    {
-        "id": "7003080",
-        "name": "Searing Prowler"
-    },
-    {
-        "id": "7003090",
-        "name": "Automaton Grizzly"
-    },
-    {
-        "id": "7003100",
-        "name": "Senior Staff: Team Leader"
+        "name": "\"Harmonious Choir\" The Great Septimus"
     },
     {
         "id": "8001010",
@@ -1149,11 +1033,11 @@
     },
     {
         "id": "8032031",
-        "name": "null"
+        "name": "\"All or Nothing\""
     },
     {
         "id": "8032032",
-        "name": "null"
+        "name": "\"All or Nothing\""
     },
     {
         "id": "8033010",
@@ -1169,15 +1053,7 @@
     },
     {
         "id": "8034011",
-        "name": "null"
-    },
-    {
-        "id": "9003020",
-        "name": "Engine of Creation"
-    },
-    {
-        "id": "9004600",
-        "name": "null"
+        "name": "Ten Stonehearts: Aventurine of Stratagems (Complete)"
     },
     {
         "id": "100201101",
@@ -1633,67 +1509,67 @@
     },
     {
         "id": "100206001",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206002",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206003",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206004",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206101",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206102",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206103",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206104",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206201",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206202",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206203",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206204",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206301",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206302",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206303",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100206304",
-        "name": "null"
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "100301001",
@@ -1832,20 +1708,24 @@
         "name": "Cocolia"
     },
     {
+        "id": "100401010",
+        "name": "Cocolia"
+    },
+    {
         "id": "100401401",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral"
     },
     {
         "id": "100401402",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral"
     },
     {
         "id": "100401403",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral"
     },
     {
         "id": "100401404",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral"
     },
     {
         "id": "100402001",
@@ -1893,27 +1773,27 @@
     },
     {
         "id": "100402601",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100402602",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100402603",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100402604",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100402701",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100402702",
-        "name": "null"
+        "name": "Gepard"
     },
     {
         "id": "100403001",
@@ -1949,19 +1829,19 @@
     },
     {
         "id": "100501401",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
     },
     {
         "id": "100501402",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
     },
     {
         "id": "100501403",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
     },
     {
         "id": "100501404",
-        "name": "null"
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
     },
     {
         "id": "101201001",
@@ -2837,7 +2717,7 @@
     },
     {
         "id": "200402401",
-        "name": "null"
+        "name": "Cloud Knight Lieutenant: Yanqing"
     },
     {
         "id": "201101001",
@@ -3437,11 +3317,11 @@
     },
     {
         "id": "300201006",
-        "name": "null"
+        "name": "Ternary Assimilation Unit"
     },
     {
         "id": "300201007",
-        "name": "null"
+        "name": "Ternary Assimilation Unit"
     },
     {
         "id": "300201008",
@@ -3505,7 +3385,7 @@
     },
     {
         "id": "300205004",
-        "name": "null"
+        "name": "Head Judge"
     },
     {
         "id": "300301001",
@@ -3528,6 +3408,10 @@
         "name": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
     },
     {
+        "id": "300301201",
+        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+    },
+    {
         "id": "300302001",
         "name": "Dreamjolt Troupe's Sweet Gorilla"
     },
@@ -3545,31 +3429,31 @@
     },
     {
         "id": "300303001",
-        "name": "null"
+        "name": "\"Past Confined and Caged\""
     },
     {
         "id": "300303101",
-        "name": "null"
+        "name": "\"Past Confined and Caged\""
     },
     {
         "id": "300304101",
-        "name": "null"
+        "name": "\"Tomorrow in Harmonious Chords\""
     },
     {
         "id": "300305001",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\""
     },
     {
         "id": "300305002",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\""
     },
     {
         "id": "300305101",
-        "name": "null"
+        "name": "\"Present Inebriated in Revelry\""
     },
     {
         "id": "300401001",
-        "name": "null"
+        "name": "The Past, Present, and Eternal Show"
     },
     {
         "id": "301201001",
@@ -3693,19 +3577,19 @@
     },
     {
         "id": "302401301",
-        "name": "null"
+        "name": "Silver Knight of Virtuous Gallantry"
     },
     {
         "id": "302401302",
-        "name": "null"
+        "name": "Silver Knight of Virtuous Gallantry"
     },
     {
         "id": "302401303",
-        "name": "null"
+        "name": "Silver Knight of Virtuous Gallantry"
     },
     {
         "id": "302401304",
-        "name": "null"
+        "name": "Silver Knight of Virtuous Gallantry"
     },
     {
         "id": "302402001",
@@ -3725,35 +3609,11 @@
     },
     {
         "id": "302402201",
-        "name": "null"
+        "name": "Stellaron Hunter: Sam"
     },
     {
         "id": "302501001",
-        "name": "null"
-    },
-    {
-        "id": "700203001",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "700203002",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "700205001",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
-    },
-    {
-        "id": "700207001",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "700207002",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "700209001",
-        "name": "Silvermane Soldier"
+        "name": "\"Embryo of Philosophy\" Sunday"
     },
     {
         "id": "800101001",

@@ -392,6 +392,10 @@
         "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
     },
     {
+        "id": "1118",
+        "name": "null"
+    },
+    {
         "id": "1120",
         "name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
     },
@@ -561,7 +565,83 @@
     },
     {
         "id": "1168",
-        "name": "null"
+        "name": "\"Past Confined and Caged\""
+    },
+    {
+        "id": "1169",
+        "name": "\"Tomorrow in Harmonious Chords\""
+    },
+    {
+        "id": "1170",
+        "name": "\"Present Inebriated in Revelry\""
+    },
+    {
+        "id": "1171",
+        "name": "Memory Zone Meme \"Insatiable Vanity\""
+    },
+    {
+        "id": "1172",
+        "name": "\"Harmonious Choir\" The Great Septimus"
+    },
+    {
+        "id": "1173",
+        "name": "Echo of Faded Dreams"
+    },
+    {
+        "id": "1174",
+        "name": "The Past, Present, and Eternal Show"
+    },
+    {
+        "id": "1175",
+        "name": "Annihilator of Desolation Mistral"
+    },
+    {
+        "id": "1180",
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
+    },
+    {
+        "id": "1181",
+        "name": "Silver Knight of Virtuous Gallantry"
+    },
+    {
+        "id": "1182",
+        "name": "The Honored"
+    },
+    {
+        "id": "1183",
+        "name": "Speartip"
+    },
+    {
+        "id": "1184",
+        "name": "The Shield"
+    },
+    {
+        "id": "1185",
+        "name": "Stellaron Hunter: Sam (Complete)"
+    },
+    {
+        "id": "1186",
+        "name": "Ten Stonehearts: Aventurine of Stratagems (Complete)"
+    },
+    {
+        "id": "1189",
+        "name": "\"Tomorrow in Harmonious Chords\" (Bug)"
+    },
+    {
+        "id": "1190",
+        "name": "\"Present Inebriated in Revelry\" (Bug)"
+    },
+    {
+        "id": "1191",
+        "name": "\"Past Confined and Caged\" (Bug)"
+    },
+    {
+        "id": "1192",
+        "name": "The Past, Present, and Eternal Show (Complete)"
+    },
+    {
+        "id": "1193",
+        "name": "Cirrus (Complete)"
     },
     {
         "id": "310010",
@@ -592,14 +672,6 @@
         "name": "Bronya (Illusion)"
     },
     {
-        "id": "420104",
-        "name": "Annihilator of Desolation Mistral"
-    },
-    {
-        "id": "420114",
-        "name": "Silver Knight of Virtuous Gallantry"
-    },
-    {
         "id": "43103001",
         "name": "Aether Spirit"
     },
@@ -626,13 +698,5 @@
     {
         "id": "103012990",
         "name": "Boss Stone's Lackeys"
-    },
-    {
-        "id": "83007111",
-        "name": "Stellaron Hunter: Sam (Complete)"
-    },
-    {
-        "id": "83007121",
-        "name": "Ten Stonehearts: Aventurine of Stratagems (Complete)"
     }
 ]
