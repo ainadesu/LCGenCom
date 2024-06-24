@@ -466,5 +466,23 @@
         "relics4": "/give 61113 s4 5:1 7:1 9:4 12:3 lv15 -maxsteps",
         "relics5": "/give 61112 7:1 8:2 9:3 12:3 lv15 -maxsteps",
         "relics6": "/give 61111 7:1 8:2 9:3 12:3 lv15 -maxsteps"
+    },
+    {
+        "name": "Firefly Forge",
+        "relics1": "/give 63166 s1 5:4 7:3 8:1 9:1 lv15 -maxsteps",
+        "relics2": "/give 63165 s1 7:2 8:1 9:1 12:5 lv15 -maxsteps",
+        "relics3": "/give 61194 s4 5:2 8:1 9:1 12:5 lv15 -maxsteps",
+        "relics4": "/give 61193 s4 5:1 7:2 9:1 12:5 lv15 -maxsteps",
+        "relics5": "/give 61192 7:2 5:1 4:1 12:5 lv15 -maxsteps",
+        "relics6": "/give 61191 7:2 5:1 4:1 12:5 lv15 -maxsteps"
+    },
+    {
+        "name": "Jade Dynasty",
+        "relics1": "/give 63156 s4 4:1 7:1 8:1 9:6 lv15 -maxsteps",
+        "relics2": "/give 63155 s9 5:1 7:1 8:1 9:6 lv15 -maxsteps",
+        "relics3": "/give 61204 s4 4:1 5:1 8:1 9:6 lv15 -maxsteps",
+        "relics4": "/give 61203 s4 4:1 5:1 7:1 9:6 lv15 -maxsteps",
+        "relics5": "/give 61202 4:1 5:1 8:1 9:6 lv15 -maxsteps",
+        "relics6": "/give 61201 5:1 7:1 8:3 9:4 lv15 -maxsteps"
     }
 ]
