@@ -1,4 +1,4 @@
-# Supported Version: 2.2.5 (Beta - EN Only - Not Enough But Usable)
+# Supported Version: 2.3.0
 Run the Web by clicking Start.bat file.
 
 Currently supported 2 Languages: Vietnamese and English. Other Languages, coming soon !
@@ -31,8 +31,8 @@ To begin using the server, you just need to click on the Start.bat file or use f
 npm start
 ```
 
-## Honkai: Star Rail Version 2.2.0
-[Get 2.2.0 Official Client](https://download-porter.hoyoverse.com/download-porter/2024/03/21/2.1%20Setup_hoyoverse.exe?trace_key=StarRail_setup_ua_24c34aa43c71)
+## Honkai: Star Rail Version 2.3.0
+[Get 2.3.0 Official Client](https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/StarRail_2.3.0.zip)
 
 ## Disclamer
 This website was written to improve the use of the Honkai: Star Rail PS of LunarCore.
