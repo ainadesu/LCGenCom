@@ -281,7 +281,7 @@
     },
     {
         "id": "1025",
-        "name": "null"
+        "name": "Vũ Trụ Sai Phân"
     },
     {
         "id": "1026",
@@ -305,6 +305,90 @@
     },
     {
         "id": "1031",
+        "name": "null"
+    },
+    {
+        "id": "1032",
+        "name": "null"
+    },
+    {
+        "id": "1033",
+        "name": "Thoát Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "1034",
+        "name": "null"
+    },
+    {
+        "id": "1035",
+        "name": "null"
+    },
+    {
+        "id": "1036",
+        "name": "null"
+    },
+    {
+        "id": "1037",
+        "name": "null"
+    },
+    {
+        "id": "1038",
+        "name": "Bàn Điều Chỉnh Tạo Vật"
+    },
+    {
+        "id": "1039",
+        "name": "null"
+    },
+    {
+        "id": "1040",
+        "name": "null"
+    },
+    {
+        "id": "1041",
+        "name": "null"
+    },
+    {
+        "id": "1042",
+        "name": "null"
+    },
+    {
+        "id": "1043",
+        "name": "null"
+    },
+    {
+        "id": "1044",
+        "name": "null"
+    },
+    {
+        "id": "1045",
+        "name": "null"
+    },
+    {
+        "id": "1046",
+        "name": "null"
+    },
+    {
+        "id": "1047",
+        "name": "null"
+    },
+    {
+        "id": "1048",
+        "name": "null"
+    },
+    {
+        "id": "1049",
+        "name": "null"
+    },
+    {
+        "id": "1050",
+        "name": "null"
+    },
+    {
+        "id": "1051",
+        "name": "null"
+    },
+    {
+        "id": "1052",
         "name": "null"
     },
     {
@@ -446,6 +530,22 @@
     {
         "id": "60303",
         "name": "Chiến Lợi Phẩm Quý"
+    },
+    {
+        "id": "60304",
+        "name": "Chiến Lợi Phẩm Thường"
+    },
+    {
+        "id": "60305",
+        "name": "Chiến Lợi Phẩm Hậu Hĩnh"
+    },
+    {
+        "id": "60306",
+        "name": "Chiến Lợi Phẩm Quý"
+    },
+    {
+        "id": "60307",
+        "name": "Hộp Thuốc Hỗn Độn"
     },
     {
         "id": "100000",
@@ -2660,6 +2760,54 @@
         "name": "null"
     },
     {
+        "id": "103215",
+        "name": "null"
+    },
+    {
+        "id": "103216",
+        "name": "null"
+    },
+    {
+        "id": "103217",
+        "name": "null"
+    },
+    {
+        "id": "103218",
+        "name": "null"
+    },
+    {
+        "id": "103219",
+        "name": "null"
+    },
+    {
+        "id": "103220",
+        "name": "null"
+    },
+    {
+        "id": "103221",
+        "name": "null"
+    },
+    {
+        "id": "103222",
+        "name": "null"
+    },
+    {
+        "id": "103223",
+        "name": "null"
+    },
+    {
+        "id": "103224",
+        "name": "null"
+    },
+    {
+        "id": "103225",
+        "name": "null"
+    },
+    {
+        "id": "103226",
+        "name": "null"
+    },
+    {
         "id": "103227",
         "name": "null"
     },
@@ -2724,11 +2872,47 @@
         "name": "null"
     },
     {
+        "id": "103243",
+        "name": "Triển Lãm Vật Sưu Tập"
+    },
+    {
+        "id": "103244",
+        "name": "null"
+    },
+    {
         "id": "103245",
         "name": "null"
     },
     {
+        "id": "103246",
+        "name": "null"
+    },
+    {
         "id": "103247",
+        "name": "null"
+    },
+    {
+        "id": "103248",
+        "name": "null"
+    },
+    {
+        "id": "103249",
+        "name": "null"
+    },
+    {
+        "id": "103250",
+        "name": "null"
+    },
+    {
+        "id": "103251",
+        "name": "null"
+    },
+    {
+        "id": "103252",
+        "name": "null"
+    },
+    {
+        "id": "103253",
         "name": "null"
     },
     {

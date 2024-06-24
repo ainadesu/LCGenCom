@@ -32,6 +32,10 @@
         "name": "Cocolia (Hoàn chỉnh)"
     },
     {
+        "id": "1004012",
+        "name": "Kẻ Hủy Diệt Gió Lạnh Vô Vọng"
+    },
+    {
         "id": "1004020",
         "name": "Gepard"
     },
@@ -220,6 +224,10 @@
         "name": "Phù Yên"
     },
     {
+        "id": "2024021",
+        "name": "Phù Yên (Hoàn Chỉnh)"
+    },
+    {
         "id": "3001010",
         "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
     },
@@ -292,6 +300,10 @@
         "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\" (Lỗi)"
     },
     {
+        "id": "3003053",
+        "name": "Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi (Hoàn Chỉnh)"
+    },
+    {
         "id": "3011010",
         "name": "MemVùng Hồi Ức \"Tầm Mắt Khắp Nơi\""
     },
@@ -328,8 +340,16 @@
         "name": "Argenti (Hoàn Chỉnh)"
     },
     {
+        "id": "3024012",
+        "name": "Kỵ Sĩ Bạc Cao Thượng"
+    },
+    {
         "id": "3024020",
         "name": "\"Thợ Săn Stellaron\" Sam"
+    },
+    {
+        "id": "3024021",
+        "name": "\"Thợ Săn Stellaron\" Sam (Hoàn Chỉnh)"
     },
     {
         "id": "7002010",
@@ -482,5 +502,9 @@
     {
         "id": "8034010",
         "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" AventurinGian Trá"
+    },
+    {
+        "id": "8034011",
+        "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" AventurinGian Trá (Hoàn Chỉnh)"
     }
 ]

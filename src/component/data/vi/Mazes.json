@@ -36,6 +36,10 @@
         "name": "[Town] Khách Sạn Mộng Mơ - Hiện Thực"
     },
     {
+        "id": "10341",
+        "name": "[Town] {TEXTJOIN#87}"
+    },
+    {
         "id": "20001",
         "name": "[Maze] Khoang Cơ Sở"
     },
@@ -208,6 +212,10 @@
         "name": "[Challenge] null"
     },
     {
+        "id": "30124",
+        "name": "[Challenge] null"
+    },
+    {
         "id": "30201",
         "name": "[Raid] Hang Động Xâm Thực"
     },
@@ -233,6 +241,10 @@
     },
     {
         "id": "30521",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30523",
         "name": "[TrialActivity] null"
     },
     {
@@ -488,6 +500,10 @@
         "name": "[Raid] null"
     },
     {
+        "id": "43314",
+        "name": "[Raid] null"
+    },
+    {
         "id": "43321",
         "name": "[Raid] null"
     },
@@ -602,6 +618,42 @@
     {
         "id": "80305",
         "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80400",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80401",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80402",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80403",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80404",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80405",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80406",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80407",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
+    },
+    {
+        "id": "80408",
+        "name": "[Rogue] Vũ Trụ Sai Phân"
     },
     {
         "id": "81001",

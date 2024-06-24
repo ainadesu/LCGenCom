@@ -348,8 +348,16 @@
         "name": "Robin"
     },
     {
+        "id": "1310",
+        "name": "Firefly"
+    },
+    {
         "id": "1312",
         "name": "Misha"
+    },
+    {
+        "id": "1314",
+        "name": "Jade"
     },
     {
         "id": "1315",
@@ -544,8 +552,16 @@
         "name": "Tinh Hồn Của Robin"
     },
     {
+        "id": "11310",
+        "name": "Tinh Hồn Firefly"
+    },
+    {
         "id": "11312",
         "name": "Tinh Hồn Misha"
+    },
+    {
+        "id": "11314",
+        "name": "Tinh Hồn Jade"
     },
     {
         "id": "11315",
@@ -828,6 +844,10 @@
         "name": "Vũ Điệu Vô Biên"
     },
     {
+        "id": "21045",
+        "name": "Sau Sự Im Lặng Hài Hòa"
+    },
+    {
         "id": "22000",
         "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ"
     },
@@ -940,12 +960,20 @@
         "name": "Bước Theo Bến Bờ Thời Gian"
     },
     {
+        "id": "23025",
+        "name": "Giấc Mộng Sẽ Đi Về Đâu"
+    },
+    {
         "id": "23026",
         "name": "Sắc Đêm Rực Sáng"
     },
     {
         "id": "23027",
         "name": "Hướng Đến Sinh Mệnh Thứ Hai"
+    },
+    {
+        "id": "23028",
+        "name": "Hi Vọng Là Vô Giá"
     },
     {
         "id": "24000",
@@ -962,6 +990,10 @@
     {
         "id": "24003",
         "name": "Một Mình Chữa Trị"
+    },
+    {
+        "id": "24004",
+        "name": "Ngoại Suy Vô Tận"
     },
     {
         "id": "31011",
@@ -1252,6 +1284,38 @@
         "name": "Giày Da Giấu Mộng Thợ Đồng Hồ"
     },
     {
+        "id": "31191",
+        "name": "Chiến Khôi Tìm Địch Của Thiết Kỵ"
+    },
+    {
+        "id": "31192",
+        "name": "Giáp Tay Nghiền Nát Của Thiết Kỵ"
+    },
+    {
+        "id": "31193",
+        "name": "Giáp Ảnh Bạc Của Thiết Kỵ"
+    },
+    {
+        "id": "31194",
+        "name": "Giáp Chân Hành Không Của Thiết Kỵ"
+    },
+    {
+        "id": "31201",
+        "name": "Dũng Khí - Mặt Nạ Huyền Hiêu"
+    },
+    {
+        "id": "31202",
+        "name": "Dũng Khí - Giáp Tay Móc Câu"
+    },
+    {
+        "id": "31203",
+        "name": "Dũng Khí - Áo Giáp Bay Lượn"
+    },
+    {
+        "id": "31204",
+        "name": "Dũng Khí - Giáp Chân Săn Bắn"
+    },
+    {
         "id": "33015",
         "name": "Điểm Trạm Không Gian Herta"
     },
@@ -1364,8 +1428,100 @@
         "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu"
     },
     {
+        "id": "33155",
+        "name": "Duran - Lều Mái Vòm Vàng"
+    },
+    {
+        "id": "33156",
+        "name": "Duran-Dây Cương Thú Robot"
+    },
+    {
+        "id": "33165",
+        "name": "Cung Điện Rèn Đúc - Bấc Liên Đăng"
+    },
+    {
+        "id": "33166",
+        "name": "Cung Điện Rèn Đúc - Lụa Trời Diệm Luân"
+    },
+    {
         "id": "71000",
-        "name": "Hộp Đúc Di Vật"
+        "name": "Hộp Đúc Di Vật: Lãng Khách Âm Thầm"
+    },
+    {
+        "id": "71001",
+        "name": "Hộp Đúc Di Vật: Thiện Xạ Bông Lúa"
+    },
+    {
+        "id": "71002",
+        "name": "Hộp Đúc Di Vật: Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+    },
+    {
+        "id": "71003",
+        "name": "Hộp Đúc Di Vật: Thợ Săn Tuyết Phủ"
+    },
+    {
+        "id": "71004",
+        "name": "Hộp Đúc Di Vật: Quyền Vương Đường Phố"
+    },
+    {
+        "id": "71005",
+        "name": "Hộp Đúc Di Vật: Thiết Vệ Bão Tuyết"
+    },
+    {
+        "id": "71006",
+        "name": "Hộp Đúc Di Vật: Thợ Rèn Lửa Dung Nham"
+    },
+    {
+        "id": "71007",
+        "name": "Hộp Đúc Di Vật: Thiên Tài Xuất Chúng"
+    },
+    {
+        "id": "71008",
+        "name": "Hộp Đúc Di Vật: Ban Nhạc Sizzling Thunder"
+    },
+    {
+        "id": "71009",
+        "name": "Hộp Đúc Di Vật: Chim Ưng Ranh Giới Ngày Đêm"
+    },
+    {
+        "id": "71010",
+        "name": "Hộp Đúc Di Vật: Kẻ Cướp Vệt Sao Băng"
+    },
+    {
+        "id": "71011",
+        "name": "Hộp Đúc Di Vật: Kẻ Hoang Dã Sa Mạc"
+    },
+    {
+        "id": "71012",
+        "name": "Hộp Đúc Di Vật: Trạm Phong Ấn Không Gian"
+    },
+    {
+        "id": "71013",
+        "name": "Hộp Đúc Di Vật: Xianzhou Không Có Tuổi"
+    },
+    {
+        "id": "71014",
+        "name": "Hộp Đúc Di Vật: Công Ty Kinh Doanh Liên Ngân Hà"
+    },
+    {
+        "id": "71015",
+        "name": "Hộp Đúc Di Vật: Belobog Của Đấng Kiến Tạo"
+    },
+    {
+        "id": "71016",
+        "name": "Hộp Đúc Di Vật: Máy Sai Lệch Hành Tinh"
+    },
+    {
+        "id": "71017",
+        "name": "Hộp Đúc Di Vật: Salsotto Dừng Xoay"
+    },
+    {
+        "id": "71018",
+        "name": "Hộp Đúc Di Vật: Talia - Vương Quốc Trộm Cướp"
+    },
+    {
+        "id": "71019",
+        "name": "Hộp Đúc Di Vật: Vonwacq Hoạt Bát"
     },
     {
         "id": "81011",
@@ -1440,6 +1596,14 @@
         "name": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
     },
     {
+        "id": "81191",
+        "name": "Thiết Kỵ Diệt Trừ Tai Họa"
+    },
+    {
+        "id": "81201",
+        "name": "Dũng Khí Ngút Trời"
+    },
+    {
         "id": "83011",
         "name": "Trạm Phong Ấn Không Gian"
     },
@@ -1494,6 +1658,14 @@
     {
         "id": "83141",
         "name": "Izumo Hiện Thế Và Thần Quốc Cõi Trời"
+    },
+    {
+        "id": "83151",
+        "name": "Duran - Vương Triều Sói Hoang"
+    },
+    {
+        "id": "83161",
+        "name": "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng"
     },
     {
         "id": "89001",
@@ -1618,6 +1790,18 @@
     {
         "id": "110193",
         "name": "Cú Bắn Nghịch Thời Gian"
+    },
+    {
+        "id": "110201",
+        "name": "Bản Phác Thảo Lộn Xộn"
+    },
+    {
+        "id": "110202",
+        "name": "Bản Phác Thảo Nét Động"
+    },
+    {
+        "id": "110203",
+        "name": "Bản Phác Thảo Màu Tinh Tế"
     },
     {
         "id": "110211",
@@ -2013,7 +2197,15 @@
     },
     {
         "id": "140075",
-        "name": "Băng Ghi Hình"
+        "name": "Băng Ghi Hình: Chấm Xanh Lam U Tối"
+    },
+    {
+        "id": "140076",
+        "name": "Băng Ghi Hình: Công Lý"
+    },
+    {
+        "id": "140077",
+        "name": "Băng Ghi Hình: Ngày Hủy Diệt"
     },
     {
         "id": "140078",
@@ -2297,7 +2489,31 @@
     },
     {
         "id": "140168",
-        "name": "\"Đội Chuột Chũi Phiêu Lưu"
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Mục Lục"
+    },
+    {
+        "id": "140169",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Lời Mở Đầu"
+    },
+    {
+        "id": "140170",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Tấm Da Dê Bất Ngờ"
+    },
+    {
+        "id": "140171",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Đèn Mỏ Biến Mất"
+    },
+    {
+        "id": "140172",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - \"Thùng Hàng Chính Là Chìa Khóa\""
+    },
+    {
+        "id": "140173",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Truy Vết Chiến Địa"
+    },
+    {
+        "id": "140174",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\" - Tái Bút"
     },
     {
         "id": "140175",
@@ -2449,7 +2665,15 @@
     },
     {
         "id": "140215",
-        "name": "Hình Cũ"
+        "name": "Hình Cũ: Bộ Năng Lượng"
+    },
+    {
+        "id": "140216",
+        "name": "Bản Đồ Kho Báu: Đại Bác"
+    },
+    {
+        "id": "140218",
+        "name": "Bản Đồ Kho Báu: Bộ Thiết Bị Và Màn Hình"
     },
     {
         "id": "140219",
@@ -2873,7 +3097,43 @@
     },
     {
         "id": "140341",
-        "name": "Vật Chứng"
+        "name": "Vật Chứng: Giấy Tờ Của Shamari"
+    },
+    {
+        "id": "140342",
+        "name": "Vật Chứng: Búa Gỗ Khổng Lồ"
+    },
+    {
+        "id": "140343",
+        "name": "Vật Chứng: Quy Tắc An Toàn Phủ Búa Vàng"
+    },
+    {
+        "id": "140344",
+        "name": "Vật Chứng: Nút \"Đảm Bảo Hủy Diệt Lẫn Nhau\""
+    },
+    {
+        "id": "140345",
+        "name": "Vật Chứng: Búp Bê Pom-Pom"
+    },
+    {
+        "id": "140346",
+        "name": "Vật Chứng: Sổ Qian Ketong"
+    },
+    {
+        "id": "140347",
+        "name": "Vật Chứng: Cà Vạt Của Tơi Tả"
+    },
+    {
+        "id": "140348",
+        "name": "Vật Chứng: Ghế Của Hữu Tình"
+    },
+    {
+        "id": "140349",
+        "name": "Vật Chứng: Nhẫn Của Trung Lập"
+    },
+    {
+        "id": "140350",
+        "name": "Vật Chứng: Cá Trích Đỏ Hun Khói"
     },
     {
         "id": "140351",
@@ -3005,7 +3265,23 @@
     },
     {
         "id": "140395",
-        "name": "Nguyên Mẫu Cảm Xúc"
+        "name": "Nguyên Mẫu Cảm Xúc: Khoảnh Khắc Phản Bội"
+    },
+    {
+        "id": "140396",
+        "name": "Nguyên Mẫu Cảm Xúc: Mây Đen Nghi Ngờ"
+    },
+    {
+        "id": "140397",
+        "name": "Nguyên Mẫu Cảm Xúc: Mối Thù Đến Chết Không Phai"
+    },
+    {
+        "id": "140398",
+        "name": "Nguyên Mẫu Cảm Xúc: Giấc Mơ Tan Vỡ"
+    },
+    {
+        "id": "140399",
+        "name": "Nguyên Mẫu Cảm Xúc: Tự Do Trong Khoảnh Khắc"
     },
     {
         "id": "140400",
@@ -3101,7 +3377,19 @@
     },
     {
         "id": "140425",
-        "name": "Ghi chú"
+        "name": "Ghi chú: Tìm Mẹ Trong Mơ - 1"
+    },
+    {
+        "id": "140426",
+        "name": "Ghi chú: Tìm Mẹ Trong Mơ - 2"
+    },
+    {
+        "id": "140427",
+        "name": "Ghi chú: Tìm Mẹ Trong Mơ - 3"
+    },
+    {
+        "id": "140428",
+        "name": "Ghi chú: Tìm Mẹ Trong Mơ - 4"
     },
     {
         "id": "140429",
@@ -3308,6 +3596,18 @@
         "name": "Cuộn Phim \"Ngoại Truyện Kỵ Sĩ Bóng Hamster\""
     },
     {
+        "id": "140489",
+        "name": "Giấc Mộng Cay Đắng"
+    },
+    {
+        "id": "140490",
+        "name": "Ngọt Ngấy"
+    },
+    {
+        "id": "140491",
+        "name": "Bản Đồ Kho Báu Sparkle Diệu Kỳ"
+    },
+    {
         "id": "140492",
         "name": "Vật Thất Lạc Của Ai Đó"
     },
@@ -3322,6 +3622,22 @@
     {
         "id": "140495",
         "name": "Trái Tim Vỡ Vụn Của Đồng Hồ Câu Đố Lớn-3"
+    },
+    {
+        "id": "140498",
+        "name": "Tivi (Bản Giới Hạn)"
+    },
+    {
+        "id": "140499",
+        "name": "Biểu Tượng May Mắn"
+    },
+    {
+        "id": "140500",
+        "name": "Mô Hình Thu Nhỏ Của Đội Tàu Astral (Bản Giới Hạn)"
+    },
+    {
+        "id": "140501",
+        "name": "Một Trang Giấc Mơ Xưa"
     },
     {
         "id": "149957",
@@ -3401,7 +3717,27 @@
     },
     {
         "id": "150010",
-        "name": "Nguyên Liệu Pha Chế"
+        "name": "Nguyên Liệu Pha Chế: Siro Mộng Đẹp"
+    },
+    {
+        "id": "150011",
+        "name": "Nguyên Liệu Pha Chế: SoulGlad Kinh Điển"
+    },
+    {
+        "id": "150012",
+        "name": "Nguyên Liệu Pha Chế: Hướng Về Tương Lai Tươi Đẹp"
+    },
+    {
+        "id": "150013",
+        "name": "Nguyên Liệu Pha Chế: Liều Một Phen"
+    },
+    {
+        "id": "150014",
+        "name": "Nguyên Liệu Pha Chế: Soda Nho Trắng Sủi Bọt"
+    },
+    {
+        "id": "150015",
+        "name": "Nguyên Liệu Pha Chế: Kiên Nhẫn Vĩnh Cửu"
     },
     {
         "id": "150034",
@@ -3442,6 +3778,10 @@
     {
         "id": "150046",
         "name": "SoulGlad Kinh Điển"
+    },
+    {
+        "id": "150047",
+        "name": "Thẻ ID Chim Khai Phá"
     },
     {
         "id": "180001",
@@ -3637,7 +3977,7 @@
     },
     {
         "id": "190106",
-        "name": "\"Xưởng Tôi Luyện"
+        "name": "\"Xưởng Tôi Luyện: Khởi Đầu Mới!\""
     },
     {
         "id": "190107",
@@ -3645,7 +3985,7 @@
     },
     {
         "id": "190108",
-        "name": "\"Bí Truyền"
+        "name": "\"Bí Truyền: Nấm Xòe Siêu Cay\""
     },
     {
         "id": "190109",
@@ -3701,11 +4041,11 @@
     },
     {
         "id": "190122",
-        "name": "Những Câu Chuyện Thần Thoại Về Jarilo"
+        "name": "Những Câu Chuyện Thần Thoại Về Jarilo: Thần Mùa Xuân Và Chiến Tranh"
     },
     {
         "id": "190123",
-        "name": "Phân Tích Về Jarilo"
+        "name": "Phân Tích Về Jarilo: Thần Mùa Xuân Và Chiến Tranh"
     },
     {
         "id": "190124",
@@ -3785,7 +4125,11 @@
     },
     {
         "id": "190143",
-        "name": "Bách Khoa Dưới Lòng Đất"
+        "name": "Bách Khoa Dưới Lòng Đất: Thực Vật Và Nấm-1"
+    },
+    {
+        "id": "190144",
+        "name": "Bách Khoa Dưới Lòng Đất: Thực Vật Và Nấm-2"
     },
     {
         "id": "190145",
@@ -3841,7 +4185,7 @@
     },
     {
         "id": "190158",
-        "name": "Khái Quát Về Loài Ở Ngân Hà"
+        "name": "Khái Quát Về Loài Ở Ngân Hà: Wubbaboo"
     },
     {
         "id": "190159",
@@ -3861,7 +4205,15 @@
     },
     {
         "id": "190163",
-        "name": "Hồ Sơ Nhà Nghiên Cứu"
+        "name": "Hồ Sơ Nhà Nghiên Cứu: Gunn"
+    },
+    {
+        "id": "190164",
+        "name": "Hồ Sơ Nhà Nghiên Cứu: Hosea"
+    },
+    {
+        "id": "190165",
+        "name": "Hồ Sơ Nhà Nghiên Cứu: Eikura Shuu"
     },
     {
         "id": "190166",
@@ -3873,7 +4225,19 @@
     },
     {
         "id": "190168",
-        "name": "Bản Thảo Của Herta"
+        "name": "Bản Thảo Của Herta: \"Hội Trí Thức\""
+    },
+    {
+        "id": "190169",
+        "name": "Bản Thảo Của Herta: \"Công Ty Hành Tinh Hòa Bình\""
+    },
+    {
+        "id": "190170",
+        "name": "Bản Thảo Của Herta: \"Lời Mở Đầu\""
+    },
+    {
+        "id": "190171",
+        "name": "Bản Thảo Của Herta: \"Câu Lạc Bộ Thiên Tài\""
     },
     {
         "id": "190172",
@@ -3889,31 +4253,51 @@
     },
     {
         "id": "190175",
-        "name": "Chuyển Dịch Tín Hiệu"
+        "name": "Chuyển Dịch Tín Hiệu: Hổ Phách Kỷ <unbreak>2157</unbreak> Tháng <unbreak>40</unbreak>-Tháng <unbreak>43</unbreak>"
+    },
+    {
+        "id": "190176",
+        "name": "Chuyển Dịch Tín Hiệu: Hổ Phách Kỷ <unbreak>2157</unbreak> Tháng <unbreak>44</unbreak>-Tháng <unbreak>47</unbreak>"
+    },
+    {
+        "id": "190177",
+        "name": "Chuyển Dịch Tín Hiệu: Hổ Phách Kỷ <unbreak>2157</unbreak> Tháng <unbreak>48</unbreak>-Tháng <unbreak>51</unbreak>"
     },
     {
         "id": "190178",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương 1"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 1: Rời Xa Cố Hương (Đoạn 1)"
     },
     {
         "id": "190179",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương 2"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 2: Thủ Đô Băng Giá (Đoạn 1)"
+    },
+    {
+        "id": "190180",
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 2: Thủ Đô Băng Giá (Đoạn 2)"
+    },
+    {
+        "id": "190181",
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 2: Thủ Đô Băng Giá (Đoạn 3)"
     },
     {
         "id": "190182",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương 4"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 4: Thảo Nguyên Mùa Xuân (Đoạn 1)"
     },
     {
         "id": "190183",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương 5"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 5: Nhà Lao Dưới Nước (Đoạn 1)"
     },
     {
         "id": "190184",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương 6"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 6: Vương Quốc Dung Nham (Đoạn 1)"
+    },
+    {
+        "id": "190185",
+        "name": "Chuyện Về Vương Quốc Tuyết Chương 6: Vương Quốc Dung Nham (Đoạn 2)"
     },
     {
         "id": "190186",
-        "name": "Chuyện Về Vương Quốc Tuyết Chương Cuối"
+        "name": "Chuyện Về Vương Quốc Tuyết Chương Cuối: Bên Ngoài Bầu Trời (Đoạn 1)"
     },
     {
         "id": "190187",
@@ -3924,8 +4308,20 @@
         "name": "Nhật Ký Của Thú Cưng \"Sesame\""
     },
     {
+        "id": "190189",
+        "name": "Bách Khoa Dưới Lòng Đất: Động Vật-1"
+    },
+    {
+        "id": "190190",
+        "name": "Bách Khoa Dưới Lòng Đất: Động Vật-2"
+    },
+    {
         "id": "190191",
-        "name": "Ghi chép giám định cổ vật \"Đèn Mỏ\""
+        "name": "Ghi chép giám định cổ vật \"Đèn Mỏ\": Vòng cổ điện cực bán nguyệt"
+    },
+    {
+        "id": "190192",
+        "name": "Ghi chép giám định cổ vật \"Đèn Mỏ\": Khối xây dựng thế giới cũ"
     },
     {
         "id": "190193",
@@ -3965,7 +4361,15 @@
     },
     {
         "id": "190203",
-        "name": "Bản Ghi Dữ Liệu"
+        "name": "Bản Ghi Dữ Liệu: Joanne"
+    },
+    {
+        "id": "190204",
+        "name": "Bản Ghi Dữ Liệu: Mare"
+    },
+    {
+        "id": "190205",
+        "name": "Bản Ghi Dữ Liệu: Chris"
     },
     {
         "id": "190206",
@@ -4221,7 +4625,15 @@
     },
     {
         "id": "190269",
-        "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\""
+        "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\": Chuyến Du Hành Phía Bắc Snowfield"
+    },
+    {
+        "id": "190270",
+        "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\": Hoàng Hôn Thị Trấn Rivet"
+    },
+    {
+        "id": "190271",
+        "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\": Larry Mũm Mĩm"
     },
     {
         "id": "190272",
@@ -4248,8 +4660,12 @@
         "name": "Thư Phản Hồi Sau Khi Bán \"Máy Tìm Đồ Gia Dụng\""
     },
     {
+        "id": "190278",
+        "name": "Khái Quát Về Loài Ở Ngân Hà: Tottonid"
+    },
+    {
         "id": "190279",
-        "name": "Băng Ghi Âm Phim Kẻ Ngốc"
+        "name": "Băng Ghi Âm Phim Kẻ Ngốc: Mài Gươm Phục Thù, Kẻ Ngốc Chém Đôi Thân Vàng Ngọc."
     },
     {
         "id": "190280",
@@ -4269,7 +4685,7 @@
     },
     {
         "id": "190284",
-        "name": "Báo Cáo Nghiên Cứu"
+        "name": "Báo Cáo Nghiên Cứu: Thủy Tinh Thể Tottonid"
     },
     {
         "id": "190285",
@@ -4473,7 +4889,7 @@
     },
     {
         "id": "190339",
-        "name": "Liệu Pháp Thiền Quên Lãng"
+        "name": "Liệu Pháp Thiền Quên Lãng: Khỏe Mạnh Trường Sinh Vĩnh Hằng!"
     },
     {
         "id": "190340",
@@ -4529,11 +4945,31 @@
     },
     {
         "id": "190356",
-        "name": "Vụ Án Ngư Công"
+        "name": "Vụ Án Ngư Công: Đọa Nhập Ma (Vụ 1)"
     },
     {
         "id": "190357",
-        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Bức Thư Nhà Chưa Được Gửi Đi"
+    },
+    {
+        "id": "190358",
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Chỉ Thị Khẩn Cấp"
+    },
+    {
+        "id": "190359",
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Nhật Ký Môn Đồ"
+    },
+    {
+        "id": "190360",
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Mục Tiêu Hành Động: Jing Yuan"
+    },
+    {
+        "id": "190361",
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Bí Truyền Dược Vương - Mật Lệnh"
+    },
+    {
+        "id": "190362",
+        "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng: Hoàn Trần Trú Hình Đơn"
     },
     {
         "id": "190363",
@@ -4581,7 +5017,43 @@
     },
     {
         "id": "190375",
-        "name": "Số Đặc San \"Điệp Ảnh\""
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng <unbreak>10</unbreak> \"Bào Ca\""
+    },
+    {
+        "id": "190376",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 9 \"Thanh Khâu\""
+    },
+    {
+        "id": "190377",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 8 \"Khải Mông Khải\""
+    },
+    {
+        "id": "190378",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 7 \"Mành Cỏ\""
+    },
+    {
+        "id": "190379",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 6 \"Ẩm Thiện Chính Yếu\""
+    },
+    {
+        "id": "190380",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 5 \"Giấc Ngủ Biển Sâu\""
+    },
+    {
+        "id": "190381",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 4 \"Phi Công Thuyền Taxi\""
+    },
+    {
+        "id": "190382",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 3 \"Đêm Cuối Trên Luofu\""
+    },
+    {
+        "id": "190383",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 2 \"Tư Mệnh Đế Cung\""
+    },
+    {
+        "id": "190384",
+        "name": "Số Đặc San \"Điệp Ảnh\": Top <unbreak>10</unbreak> Ảo Cảnh Bươm Bướm Thiên Niên Kỷ - Hạng 1 \"Ngoại Bà Kiều\""
     },
     {
         "id": "190385",
@@ -4601,7 +5073,7 @@
     },
     {
         "id": "190389",
-        "name": "Phương Thuốc"
+        "name": "Phương Thuốc: Rồng Cuộn Trở Mình"
     },
     {
         "id": "190390",
@@ -4661,11 +5133,11 @@
     },
     {
         "id": "190404",
-        "name": "Quyển Tận Diệt"
+        "name": "Quyển Tận Diệt: Chúa Tể Diệt Chủng"
     },
     {
         "id": "190405",
-        "name": "Quyển Tà Vật"
+        "name": "Quyển Tà Vật: Người Boris"
     },
     {
         "id": "190406",
@@ -4717,7 +5189,11 @@
     },
     {
         "id": "190420",
-        "name": "Danh Sách Kẻ Thù Lớn  Quyển Tà Vật"
+        "name": "Danh Sách Kẻ Thù Lớn  Quyển Tà Vật: Tuế Dương"
+    },
+    {
+        "id": "190421",
+        "name": "Danh Sách Kẻ Thù Lớn  Quyển Tà Vật: Thợ Dệt Cánh"
     },
     {
         "id": "190422",
@@ -4821,7 +5297,7 @@
     },
     {
         "id": "190449",
-        "name": "Báo Cáo"
+        "name": "Báo Cáo: Một Mẫu Thực Vật Quý Hiếm"
     },
     {
         "id": "190450",
@@ -4853,11 +5329,11 @@
     },
     {
         "id": "190457",
-        "name": "Bản Án"
+        "name": "Bản Án: Phán Quyết Ẩm Nguyệt Đại Nghịch"
     },
     {
         "id": "190458",
-        "name": "Hàn Thực, Tuế Dương và Án Oan"
+        "name": "Hàn Thực, Tuế Dương và Án Oan: Khảo Cổ Phong Tục Lễ Cấm Lửa"
     },
     {
         "id": "190459",
@@ -4889,7 +5365,35 @@
     },
     {
         "id": "190466",
-        "name": "Khảo Sát Bản Khắc Luofu"
+        "name": "Khảo Sát Bản Khắc Luofu: Thuyền Xây Ước Mộng"
+    },
+    {
+        "id": "190467",
+        "name": "Khảo Sát Bản Khắc Luofu: Thời Đại Độc Hành"
+    },
+    {
+        "id": "190468",
+        "name": "Khảo Sát Bản Khắc Luofu: Cây Kiến Tạo Xuất Hiện"
+    },
+    {
+        "id": "190469",
+        "name": "Khảo Sát Bản Khắc Luofu: Thảm Họa Hỏa Kiếp"
+    },
+    {
+        "id": "190470",
+        "name": "Khảo Sát Bản Khắc Luofu: Mũi Tên Xé Trời"
+    },
+    {
+        "id": "190471",
+        "name": "Khảo Sát Bản Khắc Luofu: Thảm Họa Nhập Ma"
+    },
+    {
+        "id": "190472",
+        "name": "Khảo Sát Bản Khắc Luofu: Trấn Áp Gốc Rễ"
+    },
+    {
+        "id": "190473",
+        "name": "Khảo Sát Bản Khắc Luofu: Vân Thượng Ngũ Kiêu"
     },
     {
         "id": "190474",
@@ -4997,7 +5501,7 @@
     },
     {
         "id": "190500",
-        "name": "Quy Tắc Ứng Xử Dành Cho Nhân Viên Công Tác"
+        "name": "Quy Tắc Ứng Xử Dành Cho Nhân Viên Công Tác: Phiên Bản Jarilo-VI"
     },
     {
         "id": "190501",
@@ -5025,7 +5529,7 @@
     },
     {
         "id": "190507",
-        "name": "Tờ Báo Tro Tàn"
+        "name": "Tờ Báo Tro Tàn: Kỳ 1"
     },
     {
         "id": "190508",
@@ -5033,7 +5537,7 @@
     },
     {
         "id": "190509",
-        "name": "Robot Chiến Đấu"
+        "name": "Robot Chiến Đấu: Nhiệt Huyết Bừng Bừng"
     },
     {
         "id": "190510",
@@ -5049,7 +5553,11 @@
     },
     {
         "id": "190515",
-        "name": "Chuyện Về Đêm Khu Vườn Tĩnh Mịch"
+        "name": "Chuyện Về Đêm Khu Vườn Tĩnh Mịch: Màn 1 (Phần Giữa)"
+    },
+    {
+        "id": "190516",
+        "name": "Chuyện Về Đêm Khu Vườn Tĩnh Mịch: Màn 1 (Phần Sau)"
     },
     {
         "id": "190517",
@@ -5061,11 +5569,11 @@
     },
     {
         "id": "190519",
-        "name": "Kịch Trống Của Người Hồ Ly"
+        "name": "Kịch Trống Của Người Hồ Ly: Sáu Lời Than Mê Muội"
     },
     {
         "id": "190520",
-        "name": "Ngôn Ngữ Nhân Gian Đáng Ghét"
+        "name": "Ngôn Ngữ Nhân Gian Đáng Ghét: Lời Mở Đầu"
     },
     {
         "id": "190521",
@@ -5113,7 +5621,7 @@
     },
     {
         "id": "190532",
-        "name": "Câu Lạc Bộ Thiên Tài"
+        "name": "Câu Lạc Bộ Thiên Tài: Thi Đua Thành Quả Nghiên Cứu"
     },
     {
         "id": "190533",
@@ -5165,23 +5673,23 @@
     },
     {
         "id": "190545",
-        "name": "\"Đêm Ngân Hà Lộng Lẫy\""
+        "name": "\"Đêm Ngân Hà Lộng Lẫy\": Khởi Đầu Của Giấc Mộng Và Tự Do"
     },
     {
         "id": "190546",
-        "name": "\"Đường Ven Biển\""
+        "name": "\"Đường Ven Biển\": Lột Xác Và Tái Sinh"
     },
     {
         "id": "190547",
-        "name": "\"Thiên Đường Hạ Giới\""
+        "name": "\"Thiên Đường Hạ Giới\": Khi Cõi Mộng Che Lấp Hiện Thực"
     },
     {
         "id": "190548",
-        "name": "Bài Đồng Dao Cõi Mộng"
+        "name": "Bài Đồng Dao Cõi Mộng: Ngôi Nhà Có Bảy Người"
     },
     {
         "id": "190549",
-        "name": "\"Suất Chiếu Đặc Biệt Của Rạp Nickodeum"
+        "name": "\"Suất Chiếu Đặc Biệt Của Rạp Nickodeum: Đêm Kinh Hoàng\""
     },
     {
         "id": "190550",
@@ -5249,15 +5757,35 @@
     },
     {
         "id": "190573",
-        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội: Robin"
     },
     {
         "id": "190574",
-        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội-Hành Tinh Lễ Hội"
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội-Hành Tinh Lễ Hội: Hanunue"
+    },
+    {
+        "id": "190575",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội-Hành Tinh Lễ Hội: Glaux"
+    },
+    {
+        "id": "190576",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội: Oti Alfalfa"
     },
     {
         "id": "190577",
-        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội"
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội: Hamz"
+    },
+    {
+        "id": "190578",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội: Ông Aideen"
+    },
+    {
+        "id": "190579",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội-Hành Tinh Lễ Hội: Anh Hùng Vô Danh"
+    },
+    {
+        "id": "190580",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội: Lesley Dean"
     },
     {
         "id": "190581",
@@ -5265,19 +5793,27 @@
     },
     {
         "id": "190582",
-        "name": "Phần 1"
+        "name": "Phần 1: Ghi chép của người phục vụ Hamilton"
     },
     {
         "id": "190583",
-        "name": "Phần 2"
+        "name": "Phần 2: Ghi chép của người phục vụ Hamilton"
     },
     {
         "id": "190584",
-        "name": "Phần 3"
+        "name": "Phần 3: Ghi chép của người phục vụ Hamilton"
     },
     {
         "id": "190585",
-        "name": "Phần 4"
+        "name": "Phần 4: Ghi chép của người phục vụ Hamilton"
+    },
+    {
+        "id": "190586",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội: Maeven Ellis"
+    },
+    {
+        "id": "190587",
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội: Gopher Wood"
     },
     {
         "id": "190588",
@@ -5385,7 +5921,7 @@
     },
     {
         "id": "190615",
-        "name": "Cơ Mật"
+        "name": "Cơ Mật: Ghi Chép Về Bất Thường Trong Cõi Mộng"
     },
     {
         "id": "190616",
@@ -5417,7 +5953,7 @@
     },
     {
         "id": "190624",
-        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội - Hành Tinh Lễ Hội"
+        "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội - Hành Tinh Lễ Hội: Kiến Trúc Sư Xây Mộng Gấp Giấy"
     },
     {
         "id": "190626",
@@ -5481,7 +6017,7 @@
     },
     {
         "id": "190643",
-        "name": "Câu chuyện SoulGlad"
+        "name": "Câu chuyện SoulGlad: Giấc Mơ Trong Chai"
     },
     {
         "id": "190644",
@@ -5497,7 +6033,7 @@
     },
     {
         "id": "190647",
-        "name": "\"Chuyện Đêm Ở Quán Bar"
+        "name": "\"Chuyện Đêm Ở Quán Bar: Đặc San SoulGlad\""
     },
     {
         "id": "190648",
@@ -5522,6 +6058,90 @@
     {
         "id": "190653",
         "name": "Đường Chưa Chọn 6"
+    },
+    {
+        "id": "190654",
+        "name": "Đây_là_một_tệp_Virus_Meme.exe"
+    },
+    {
+        "id": "190655",
+        "name": "Bản Thảo Kế Hoạch Kinh Doanh Đã Bỏ (Phiên Bản <unbreak>7.0</unbreak>)"
+    },
+    {
+        "id": "190656",
+        "name": "Câu Chuyện Về Đêm Ở Quán Rượu: Số Đặc Biệt - Tộc Halovian"
+    },
+    {
+        "id": "190657",
+        "name": "Một Lá Thư Chờ Được Gửi Đi"
+    },
+    {
+        "id": "190658",
+        "name": "Quay Lại Tàu Radiant Feldspar"
+    },
+    {
+        "id": "190659",
+        "name": "Trích Đoạn \"Lịch Sử Thiết Kế Phi Thuyền Penacony\""
+    },
+    {
+        "id": "190660",
+        "name": "Mật Ngữ Của Người Nổi Tiếng, Thư Từ Trao Đổi Của Một Phóng Viên"
+    },
+    {
+        "id": "190661",
+        "name": "Trích Đoạn \"Kỷ Nguyên Của Giấc Mơ: Lịch Sử Về Những Thuyền Trưởng Huyền Thoại\""
+    },
+    {
+        "id": "190662",
+        "name": "Thiệp Mừng Viết Cho Khách Lưu Trú"
+    },
+    {
+        "id": "190663",
+        "name": "Đi Tìm Calypso"
+    },
+    {
+        "id": "190664",
+        "name": "Ghi Chép Cảnh Vật Hư Cấu"
+    },
+    {
+        "id": "190665",
+        "name": "Danh Sách Món Ăn Không Rõ Nguồn Gốc"
+    },
+    {
+        "id": "190666",
+        "name": "Giấy Cầm Đồ Hết Hiệu Lực"
+    },
+    {
+        "id": "190667",
+        "name": "Sổ Tay Bong Bóng Giấc Mơ"
+    },
+    {
+        "id": "190668",
+        "name": "Ghi Chép Quan Trắc Sinh Vật Vùng Hồi Ức"
+    },
+    {
+        "id": "190669",
+        "name": "Danh Sách Sách Bán Chạy Ở Cõi Mộng"
+    },
+    {
+        "id": "190670",
+        "name": "Tham Khảo Quy Hoạch Hành Trình VIP"
+    },
+    {
+        "id": "190671",
+        "name": "Cổ Tích Vùng Hồi Ức: Câu Chuyện Thuyền Ma"
+    },
+    {
+        "id": "190672",
+        "name": "Lưu Ý Khi Bay"
+    },
+    {
+        "id": "190673",
+        "name": "Thư Mời Bí Ẩn Qingque Nhận Được"
+    },
+    {
+        "id": "190674",
+        "name": "Ghi Chú Gallagher Để Lại"
     },
     {
         "id": "191001",
@@ -5756,6 +6376,14 @@
         "name": "Boothill - Phục Kích"
     },
     {
+        "id": "200123",
+        "name": "Firefly - Tầm Nhìn"
+    },
+    {
+        "id": "200124",
+        "name": "Chiến Giáp SAM - Tầm Nhìn"
+    },
+    {
         "id": "202001",
         "name": "Wubbaboo"
     },
@@ -5788,6 +6416,10 @@
         "name": "Sinh Mệnh Bánh Ngọt"
     },
     {
+        "id": "202009",
+        "name": "{NICKNAME}: Star Rail"
+    },
+    {
         "id": "202011",
         "name": "Cậu Bé Đồng Hồ"
     },
@@ -5810,6 +6442,14 @@
     {
         "id": "202016",
         "name": "Kỷ Niệm Một Năm"
+    },
+    {
+        "id": "202017",
+        "name": "Búp Bê Sparkle"
+    },
+    {
+        "id": "202018",
+        "name": "\"Hi, Đến Test Nào\""
     },
     {
         "id": "208001",
@@ -6236,6 +6876,18 @@
         "name": "Bao Nhiêu Buổi Sáng Như Thế Này"
     },
     {
+        "id": "210353",
+        "name": "Giương Buồm"
+    },
+    {
+        "id": "210354",
+        "name": "Thánh Lễ Luận Giả Vô Thần"
+    },
+    {
+        "id": "210355",
+        "name": "Nếu Tôi Chưa Từng Thấy Mặt Trời"
+    },
+    {
         "id": "220000",
         "name": "Nghệ Thuật Ngôn Ngữ"
     },
@@ -6284,12 +6936,12 @@
         "name": "Cờ Tỷ Phú Vũ Trụ"
     },
     {
-        "id": "222000",
-        "name": "Hộ Chiếu Cõi Mộng"
+        "id": "221006",
+        "name": "Đề Tài Đang Thực Hiện"
     },
     {
-        "id": "223004",
-        "name": "Firefly"
+        "id": "222000",
+        "name": "Hộ Chiếu Cõi Mộng"
     },
     {
         "id": "223007",
@@ -6421,7 +7073,7 @@
     },
     {
         "id": "223109",
-        "name": "Mô Hình Đội Tàu Astral 1"
+        "name": "Mô Hình Đội Tàu Astral 1:<unbreak>1000</unbreak>"
     },
     {
         "id": "223150",
@@ -6573,7 +7225,23 @@
     },
     {
         "id": "223270",
-        "name": "Lời Thoại"
+        "name": "Lời Thoại: Bạo Lực"
+    },
+    {
+        "id": "223271",
+        "name": "Lời Thoại: Thể Hiện Tình Yêu"
+    },
+    {
+        "id": "223272",
+        "name": "Lời Thoại: Triết Học"
+    },
+    {
+        "id": "223273",
+        "name": "Lời Thoại: Tự Luyến"
+    },
+    {
+        "id": "223274",
+        "name": "Lời Thoại: Tự Ti"
     },
     {
         "id": "223300",
@@ -6617,7 +7285,23 @@
     },
     {
         "id": "223330",
-        "name": "Kiến Trúc Sư Xây Mộng"
+        "name": "Kiến Trúc Sư Xây Mộng: Phẫn Uất"
+    },
+    {
+        "id": "223331",
+        "name": "Kiến Trúc Sư Xây Mộng: Theo Đuổi"
+    },
+    {
+        "id": "223332",
+        "name": "Kiến Trúc Sư Xây Mộng: Chấp Niệm"
+    },
+    {
+        "id": "223333",
+        "name": "Kiến Trúc Sư Xây Mộng: Mệt Rã Rời"
+    },
+    {
+        "id": "223334",
+        "name": "Kiến Trúc Sư Xây Mộng: Bế Tắc"
     },
     {
         "id": "223350",
@@ -6793,23 +7477,51 @@
     },
     {
         "id": "223600",
-        "name": "Sa Bàn Thành Phố"
+        "name": "Sa Bàn Thành Phố: Lối Vào"
+    },
+    {
+        "id": "223601",
+        "name": "Sa Bàn Thành Phố: Đất Xây Dựng"
+    },
+    {
+        "id": "223602",
+        "name": "Sa Bàn Thành Phố: Cao Ốc Phức Hợp"
+    },
+    {
+        "id": "223603",
+        "name": "Sa Bàn Thành Phố: Quảng Cáo"
+    },
+    {
+        "id": "223604",
+        "name": "Sa Bàn Thành Phố: SoulGlad"
+    },
+    {
+        "id": "223605",
+        "name": "Sa Bàn Thành Phố: Ghế Băng"
+    },
+    {
+        "id": "223606",
+        "name": "Sa Bàn Thành Phố: Thế Lực Xấu"
+    },
+    {
+        "id": "223607",
+        "name": "Sa Bàn Thành Phố: Chú Chim \"Nhỏ\" Say Mèm"
     },
     {
         "id": "223631",
-        "name": "Kết luận họp nghiệm thu lần 3"
+        "name": "Kết luận họp nghiệm thu lần 3: không đạt"
     },
     {
         "id": "223632",
-        "name": "Kết luận họp nghiệm thu lần 8"
+        "name": "Kết luận họp nghiệm thu lần 8: không đạt"
     },
     {
         "id": "223633",
-        "name": "Kết luận họp nghiệm thu lần <unbreak>11</unbreak>"
+        "name": "Kết luận họp nghiệm thu lần <unbreak>11</unbreak>: không đạt"
     },
     {
         "id": "223634",
-        "name": "Kết luận họp nghiệm thu lần <unbreak>20</unbreak>"
+        "name": "Kết luận họp nghiệm thu lần <unbreak>20</unbreak>: không đạt"
     },
     {
         "id": "223700",
@@ -7042,6 +7754,70 @@
     {
         "id": "224013",
         "name": "Cảnh Tập Luyện 3"
+    },
+    {
+        "id": "225002",
+        "name": "Thợ Săn Stellaron Sam"
+    },
+    {
+        "id": "225005",
+        "name": "Topaz"
+    },
+    {
+        "id": "225011",
+        "name": "Bom Của Quý Cô Sparkle"
+    },
+    {
+        "id": "225018",
+        "name": "Siobhan"
+    },
+    {
+        "id": "225019",
+        "name": "Micah"
+    },
+    {
+        "id": "225020",
+        "name": "Thùng Quý Tộc"
+    },
+    {
+        "id": "225023",
+        "name": "Tước Sĩ Xanh"
+    },
+    {
+        "id": "225024",
+        "name": "Giám Đốc Cỏ Xanh"
+    },
+    {
+        "id": "225025",
+        "name": "Phu Nhân Đỏ Son"
+    },
+    {
+        "id": "225026",
+        "name": "Đại Ca Chíp Đỏ"
+    },
+    {
+        "id": "225027",
+        "name": "Công Tử Hoàng Kim"
+    },
+    {
+        "id": "225030",
+        "name": "Gặp Gỡ Và Chia Ly 1"
+    },
+    {
+        "id": "225031",
+        "name": "Gặp Gỡ Và Chia Ly 2"
+    },
+    {
+        "id": "225032",
+        "name": "Gặp Gỡ Và Chia Ly 3"
+    },
+    {
+        "id": "225033",
+        "name": "Kết Thúc Hoàn Hảo 1"
+    },
+    {
+        "id": "225034",
+        "name": "Kết Thúc Hoàn Hảo 2"
     },
     {
         "id": "250005",
@@ -7448,6 +8224,14 @@
         "name": "Huy Hiệu Tư Cách Khu Mỏ Khổng Lồ"
     },
     {
+        "id": "250601",
+        "name": "Tiền Đồ Của Kẻ Tầm Thường"
+    },
+    {
+        "id": "250602",
+        "name": "Herta - Bản Sưu Tập"
+    },
+    {
         "id": "270000",
         "name": "Mặt Cười Vui Vẻ"
     },
@@ -7492,6 +8276,10 @@
         "name": "Xu Ném Lại"
     },
     {
+        "id": "281018",
+        "name": "Cảm Hứng"
+    },
+    {
         "id": "281019",
         "name": "Xu Gấu Mèo"
     },
@@ -7502,6 +8290,10 @@
     {
         "id": "281021",
         "name": "Cuộn Phim \"Hồi Ký Mộng Đẹp\""
+    },
+    {
+        "id": "281022",
+        "name": "Điểm Đồng Bộ"
     },
     {
         "id": "300002",
@@ -7560,12 +8352,28 @@
         "name": "Huân Chương Vinh Dự (Chưa mở)"
     },
     {
+        "id": "300200",
+        "name": "\"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\""
+    },
+    {
         "id": "300202",
         "name": "Điểm Tính Dụng"
     },
     {
         "id": "309001",
-        "name": "Hành Trình Gặp Gỡ"
+        "name": "Hành Trình Gặp Gỡ: \"Cuộc Chiến Aetherium\""
+    },
+    {
+        "id": "309002",
+        "name": "Hành Trình Gặp Gỡ: Nhật Ký Vượt Ngục Của Người Anh Em Hanu"
+    },
+    {
+        "id": "309003",
+        "name": "Hành Trình Gặp Gỡ: Giai Thoại Trong Ly"
+    },
+    {
+        "id": "309004",
+        "name": "Hành Trình Gặp Gỡ: Chim Giấy Đại Chiến"
     },
     {
         "id": "310001",
@@ -7593,11 +8401,15 @@
     },
     {
         "id": "310007",
-        "name": "Gói Khởi Hành \"Honkai"
+        "name": "Gói Khởi Hành \"Honkai: Star Rail\" (Giới Hạn)"
+    },
+    {
+        "id": "310008",
+        "name": "Gói Khởi Hành \"Honkai: Star Rail\""
     },
     {
         "id": "310009",
-        "name": "Gói Đăng Nhập \"Honkai"
+        "name": "Gói Đăng Nhập \"Honkai: Star Rail\""
     },
     {
         "id": "310010",
@@ -7761,7 +8573,31 @@
     },
     {
         "id": "402009",
-        "name": "Kem Cường Hóa"
+        "name": "Kem Cường Hóa: Vật Lý"
+    },
+    {
+        "id": "402010",
+        "name": "Kem Cường Hóa: Phong"
+    },
+    {
+        "id": "402011",
+        "name": "Kem Cường Hóa: Hỏa"
+    },
+    {
+        "id": "402012",
+        "name": "Kem Cường Hóa: Băng"
+    },
+    {
+        "id": "402013",
+        "name": "Kem Cường Hóa: Lôi"
+    },
+    {
+        "id": "402014",
+        "name": "Kem Cường Hóa: Lượng Tử"
+    },
+    {
+        "id": "402015",
+        "name": "Kem Cường Hóa: Số Ảo"
     },
     {
         "id": "402016",
@@ -7853,11 +8689,283 @@
     },
     {
         "id": "404004",
-        "name": "Công Thức"
+        "name": "Công Thức: Thức Ăn No Nê"
+    },
+    {
+        "id": "404005",
+        "name": "Công Thức: Thức Ăn Trừng Phạt"
+    },
+    {
+        "id": "404006",
+        "name": "Công Thức: Món Ăn Tinh Xảo"
+    },
+    {
+        "id": "404007",
+        "name": "Công Thức: Máy Cấp Cứu Đơn Giản"
+    },
+    {
+        "id": "404008",
+        "name": "Công Thức: Trân Châu Trái Sao"
+    },
+    {
+        "id": "405003",
+        "name": "Công Thức: Cơm Chiên Đại Vũ Trụ"
+    },
+    {
+        "id": "405004",
+        "name": "Công Thức: Cơm Chiên Khó Ăn"
+    },
+    {
+        "id": "405005",
+        "name": "Công Thức: Năng Lượng Trừng Phạt"
+    },
+    {
+        "id": "405006",
+        "name": "Công Thức: Thức Uống Năng Lượng"
+    },
+    {
+        "id": "405007",
+        "name": "Công Thức: Máy Chuyển Sinh Mạng"
+    },
+    {
+        "id": "405008",
+        "name": "Công Thức: Nước Vui Vẻ Đóng Hộp"
+    },
+    {
+        "id": "405009",
+        "name": "Công Thức: Đồ Bảo Vệ Đơn Sơ"
+    },
+    {
+        "id": "405010",
+        "name": "Công Thức: Bông Lúa"
+    },
+    {
+        "id": "405011",
+        "name": "Công Thức: Sơn Ngụy Trang"
+    },
+    {
+        "id": "405012",
+        "name": "Công Thức: Cơm Rang Tốt Cho Sức Khỏe"
+    },
+    {
+        "id": "405013",
+        "name": "Công Thức: Găng Tay Thịnh Nộ"
+    },
+    {
+        "id": "405014",
+        "name": "Công Thức: Đùi Chim Shantak Quay Quả Mọng"
+    },
+    {
+        "id": "405015",
+        "name": "Công Thức: Trà Lửa Đậm Vị"
     },
     {
         "id": "405016",
-        "name": "Công thức"
+        "name": "Công thức: Bất Cầu Nhân"
+    },
+    {
+        "id": "405017",
+        "name": "Công Thức: Hải Quỳ Bay Chiên"
+    },
+    {
+        "id": "405018",
+        "name": "Công Thức: Hổ Phách Hoa Điêu"
+    },
+    {
+        "id": "405019",
+        "name": "Công Thức: Xíu Mại Ngon Lành"
+    },
+    {
+        "id": "405020",
+        "name": "Công Thức: Bánh Đậu Ngon Lành"
+    },
+    {
+        "id": "405021",
+        "name": "Công Thức: Pizza Đồng Hồ (Miếng)"
+    },
+    {
+        "id": "405022",
+        "name": "Công Thức: Lát Bánh \"Ngước Nhìn Trời Sao\""
+    },
+    {
+        "id": "405023",
+        "name": "Công Thức: Bánh Tart Chanh \"Quý Ngài Cá Trích\""
+    },
+    {
+        "id": "405024",
+        "name": "Công Thức: Kem Mứt Trăm Tầng (0 Calo)"
+    },
+    {
+        "id": "405025",
+        "name": "Công Thức: SoulGlad Kinh Điển"
+    },
+    {
+        "id": "405026",
+        "name": "Công Thức: Kẹo Dẻo \"Giấc Mơ Chua\""
+    },
+    {
+        "id": "405027",
+        "name": "Công Thức: Kẹo Thập Cẩm \"Giấc Mơ Muôn Màu\""
+    },
+    {
+        "id": "405028",
+        "name": "Công Thức: Tự Do Trong Khoảnh Khắc"
+    },
+    {
+        "id": "406001",
+        "name": "Công Thức: Thuốc Phun Hồi Phục"
+    },
+    {
+        "id": "406002",
+        "name": "Công Thức: Lá Chắn Dùng 1 Lần"
+    },
+    {
+        "id": "406003",
+        "name": "Công Thức: Thức Uống Năng Lượng (Không Đường)"
+    },
+    {
+        "id": "406004",
+        "name": "Công Thức: Máy Tạo Lực Trường Phản Vật Chất"
+    },
+    {
+        "id": "406005",
+        "name": "Công Thức: Đồ Bảo Vệ Công Nghệ Cao"
+    },
+    {
+        "id": "406006",
+        "name": "Công Thức: Đồ Bảo Vệ Kém Chất Lượng"
+    },
+    {
+        "id": "406007",
+        "name": "Công Thức: Xiên Que Ngon Lành"
+    },
+    {
+        "id": "406008",
+        "name": "Công Thức: Bụi Hối Hả"
+    },
+    {
+        "id": "406009",
+        "name": "Công Thức: Kem Cường Hóa: Vật Lý"
+    },
+    {
+        "id": "406010",
+        "name": "Công Thức: Kem Cường Hóa: Phong"
+    },
+    {
+        "id": "406011",
+        "name": "Công Thức: Kem Cường Hóa: Hỏa"
+    },
+    {
+        "id": "406012",
+        "name": "Công Thức: Kem Cường Hóa: Băng"
+    },
+    {
+        "id": "406013",
+        "name": "Công Thức: Kem Cường Hóa: Lôi"
+    },
+    {
+        "id": "406014",
+        "name": "Công Thức: Kem Cường Hóa: Lượng Tử"
+    },
+    {
+        "id": "406015",
+        "name": "Công Thức: Kem Cường Hóa: Số Ảo"
+    },
+    {
+        "id": "406016",
+        "name": "Công Thức: Thuốc Gây Nôn"
+    },
+    {
+        "id": "406017",
+        "name": "Công Thức: Thuốc Ổn Áp"
+    },
+    {
+        "id": "406018",
+        "name": "Công Thức: Món Hầm Thập Cẩm Cánh Đồng Tuyết"
+    },
+    {
+        "id": "406019",
+        "name": "Công Thức: Máy Niệm Kinh"
+    },
+    {
+        "id": "406020",
+        "name": "Công Thức: Dịch Thể Ngọc Ngũ Cốc"
+    },
+    {
+        "id": "406021",
+        "name": "Công Thức: Thuốc Giải Độc Kỳ Hoàng"
+    },
+    {
+        "id": "406022",
+        "name": "Công Thức: Ngọc Tủy Phong Cốt Tán"
+    },
+    {
+        "id": "406023",
+        "name": "Công Thức: Thịt Gia Cầm Chiên Pom-Pom"
+    },
+    {
+        "id": "406024",
+        "name": "Công Thức: Nhi Đồng Hương Quýt Đan"
+    },
+    {
+        "id": "406025",
+        "name": "Công Thức: Salad Linh Lăng"
+    },
+    {
+        "id": "406026",
+        "name": "Công Thức: Khoảnh Khắc Phản Bội"
+    },
+    {
+        "id": "406027",
+        "name": "Công Thức: Hạnh Phúc Thoáng Qua"
+    },
+    {
+        "id": "406028",
+        "name": "Công Thức: Mây Đen Nghi Ngờ"
+    },
+    {
+        "id": "407001",
+        "name": "Công Thức: Cánh Tay Động Lực Dùng 1 Lần"
+    },
+    {
+        "id": "407002",
+        "name": "Công Thức: Thuốc Bột Ruby"
+    },
+    {
+        "id": "407003",
+        "name": "Công Thức: Bom Động Lực"
+    },
+    {
+        "id": "407004",
+        "name": "Công Thức: Bia Đá Everwinter"
+    },
+    {
+        "id": "407005",
+        "name": "Công Thức: Băng Gia Tốc Topology"
+    },
+    {
+        "id": "407006",
+        "name": "Công Thức: Vạn Thọ Vô Tình Đơn"
+    },
+    {
+        "id": "407007",
+        "name": "Công Thức: Thị Nhục Xào Đường Viên"
+    },
+    {
+        "id": "407008",
+        "name": "Công Thức: Cọc Người Gỗ Tự Động"
+    },
+    {
+        "id": "407009",
+        "name": "Công Thức: Giờ Phút Hấp Hối"
+    },
+    {
+        "id": "407010",
+        "name": "Công Thức: Bầu Không Khí Sôi Nổi"
+    },
+    {
+        "id": "407011",
+        "name": "Công Thức: Hộp Hù Dọa"
     },
     {
         "id": "408001",
@@ -7984,6 +9092,18 @@
         "name": "Nước Sousa Chính Gốc"
     },
     {
+        "id": "408423",
+        "name": "Soda Rác"
+    },
+    {
+        "id": "408424",
+        "name": "Hợp Tan Có Lúc"
+    },
+    {
+        "id": "408425",
+        "name": "Sồi Trắng Asdana"
+    },
+    {
         "id": "408602",
         "name": "Manh Giông Nướng Đá"
     },
@@ -8066,6 +9186,14 @@
     {
         "id": "408627",
         "name": "Sự Tự Thõa Mãn Thầm Lặng"
+    },
+    {
+        "id": "408628",
+        "name": "Búp Bê Sparkle Phiên Bản Sưu Tập Không Giới Hạn"
+    },
+    {
+        "id": "408629",
+        "name": "Đội Kỵ Sĩ Xu Vàng"
     },
     {
         "id": "408802",

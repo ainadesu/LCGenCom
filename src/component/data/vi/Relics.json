@@ -360,6 +360,46 @@
     "type": "Giày"
   },
   {
+    "id": "61191",
+    "name": "Chiến Khôi Tìm Địch Của Thiết Kỵ",
+    "type": "Nón"
+  },
+  {
+    "id": "61192",
+    "name": "Giáp Tay Nghiền Nát Của Thiết Kỵ",
+    "type": "Tay"
+  },
+  {
+    "id": "61193",
+    "name": "Giáp Ảnh Bạc Của Thiết Kỵ",
+    "type": "Áo"
+  },
+  {
+    "id": "61194",
+    "name": "Giáp Chân Hành Không Của Thiết Kỵ",
+    "type": "Giày"
+  },
+  {
+    "id": "61201",
+    "name": "Dũng Khí - Mặt Nạ Huyền Hiêu",
+    "type": "Nón"
+  },
+  {
+    "id": "61202",
+    "name": "Dũng Khí - Giáp Tay Móc Câu",
+    "type": "Tay"
+  },
+  {
+    "id": "61203",
+    "name": "Dũng Khí - Áo Giáp Bay Lượn",
+    "type": "Áo"
+  },
+  {
+    "id": "61204",
+    "name": "Dũng Khí - Giáp Chân Săn Bắn",
+    "type": "Giày"
+  },
+  {
     "id": "63015",
     "name": "Điểm Trạm Không Gian Herta",
     "type": "Cầu"
@@ -497,6 +537,26 @@
   {
     "id": "63146",
     "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu",
+    "type": "Dây"
+  },
+  {
+    "id": "63155",
+    "name": "Duran - Lều Mái Vòm Vàng",
+    "type": "Cầu"
+  },
+  {
+    "id": "63156",
+    "name": "Duran-Dây Cương Thú Robot",
+    "type": "Dây"
+  },
+  {
+    "id": "63165",
+    "name": "Cung Điện Rèn Đúc - Bấc Liên Đăng",
+    "type": "Cầu"
+  },
+  {
+    "id": "63166",
+    "name": "Cung Điện Rèn Đúc - Lụa Trời Diệm Luân",
     "type": "Dây"
   }
 ]
